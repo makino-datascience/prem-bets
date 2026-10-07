@@ -1,0 +1,55 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    // The commissioner's Google account (must match COMMISSIONER_EMAIL in index.html).
+    function isCommish() {
+      return signedIn()
+        && request.auth.token.email == "rajatcool95@gmail.com"
+        && request.auth.token.email_verified == true;
+    }
+
+    // Lock time: the commissioner's setting if saved, otherwise 9:00 AM UK time on Oct 10, 2026.
+    function lockAt() {
+      return exists(/databases/$(database)/documents/league/config)
+          && get(/databases/$(database)/documents/league/config).data.get('lockAt', null) is timestamp
+        ? get(/databases/$(database)/documents/league/config).data.lockAt
+        : timestamp.date(2026, 10, 10) + duration.value(8, 'h');
+    }
+
+    function beforeLock() {
+      return request.time < lockAt();
+    }
+
+    // League settings and card counts: everyone signed in reads, only the commissioner writes.
+    match /league/{docId} {
+      allow read: if signedIn();
+      allow write: if isCommish();
+    }
+
+    // Picks: you can always read your own; everyone else's only after the lock.
+    // You can only write your own, and only before the lock.
+    match /picks/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || !beforeLock());
+      allow create, update: if signedIn() && request.auth.uid == uid && beforeLock()
+        && request.resource.data.keys().hasOnly(['nickname','top','bottom','cards','gd','draws','mystery','picture','updatedAt'])
+        && request.resource.data.nickname is string && request.resource.data.nickname.size() <= 30
+        && request.resource.data.top is list && request.resource.data.top.size() == 5
+        && request.resource.data.bottom is list && request.resource.data.bottom.size() == 5
+        && request.resource.data.mystery is map;
+      allow delete: if isCommish();
+    }
+
+    // Who has submitted (name, done or not, picture or not). Visible to everyone before the lock.
+    match /status/{uid} {
+      allow read: if signedIn();
+      allow create, update: if signedIn() && request.auth.uid == uid && beforeLock()
+        && request.resource.data.keys().hasOnly(['nickname','complete','hasPicture','updatedAt']);
+      allow delete: if isCommish();
+    }
+  }
+}

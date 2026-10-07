@@ -1,0 +1,487 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Prem Bets</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=Barlow:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: a matchday programme — slim header with lock clock, tab rail, one working column of sheets. */
+:root{
+  --bg:#eef1ec; --surface:#fbfcfa; --sunk:#e3e8e1; --line:#cdd5ca;
+  --ink:#14221b; --muted:#5b6a61;
+  --accent:#3b1f5c; --accent-ink:#ffffff; --accent-soft:#e7e0f0;
+  --good:#1d7a45; --good-soft:#d8efe0; --part:#a26a00; --part-soft:#f6ead0; --bad:#b4372d; --bad-soft:#f6dcd8;
+  --card:#e2b007;
+  --display:"Big Shoulders Display","Arial Narrow",Impact,sans-serif;
+  --body:"Barlow","Helvetica Neue",Arial,sans-serif;
+  --r:10px; color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#0f1713; --surface:#16211b; --sunk:#1d2a23; --line:#2c3b33;
+  --ink:#e6eee8; --muted:#97a69d;
+  --accent:#b9a1e0; --accent-ink:#1a0f2a; --accent-soft:#2c2340;
+  --good:#5fcf8c; --good-soft:#173826; --part:#e3b04f; --part-soft:#3a2e15; --bad:#f08a80; --bad-soft:#3d1d1a;
+  --card:#e9bf2c; color-scheme:dark}}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45}
+img{max-width:100%}
+.wrap{max-width:980px;margin:0 auto;padding-inline:16px;padding-block:calc(18px + env(safe-area-inset-top,0px)) calc(48px + env(safe-area-inset-bottom,0px))}
+header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;padding-bottom:14px;border-bottom:3px solid var(--ink)}
+.brand h1{font-family:var(--display);font-weight:900;font-size:clamp(40px,8vw,64px);line-height:.85;letter-spacing:.5px;margin:0;text-transform:uppercase}
+.brand p{margin:6px 0 0;color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;font-weight:600}
+.clock{text-align:right;min-width:0}
+.clock .lbl{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.clock .val{font-family:var(--display);font-weight:800;font-size:30px;line-height:1;font-variant-numeric:tabular-nums}
+.clock .sub{font-size:12px;color:var(--muted)}
+.who{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted);margin-top:12px;flex-wrap:wrap}
+.who img{width:24px;height:24px;border-radius:50%}
+.link{background:none;border:0;padding:0;color:var(--accent);font:600 13px var(--body);text-decoration:underline;cursor:pointer}
+nav.tabs{display:flex;gap:4px;margin:18px 0 20px;overflow-x:auto;border-bottom:1px solid var(--line)}
+nav.tabs button{font:600 14px var(--body);letter-spacing:.06em;text-transform:uppercase;background:none;border:0;color:var(--muted);padding:10px 14px;border-bottom:3px solid transparent;cursor:pointer;white-space:nowrap}
+nav.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+button:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h2{font-family:var(--display);font-weight:800;font-size:28px;text-transform:uppercase;margin:0 0 4px;text-wrap:balance;letter-spacing:.3px}
+h3{font-family:var(--display);font-weight:800;font-size:20px;text-transform:uppercase;margin:0;letter-spacing:.4px}
+.note{color:var(--muted);font-size:13px;margin:0}
+.stack{display:grid;gap:18px}
+.sheet{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+.banner{border-radius:var(--r);padding:12px 14px;font-size:14px;background:var(--accent-soft);color:var(--ink)}
+.banner.bad{background:var(--bad-soft)}
+.lb{display:grid;gap:8px}
+.row{background:var(--surface);border:1px solid var(--line);border-radius:var(--r)}
+.rowhead{all:unset;box-sizing:border-box;width:100%;display:grid;grid-template-columns:34px 36px minmax(0,1fr) auto;align-items:center;gap:12px;padding:12px 14px}
+button.rowhead{cursor:pointer}
+button.rowhead:focus-visible{outline:2px solid var(--accent);outline-offset:-2px;border-radius:var(--r)}
+.pos{font-family:var(--display);font-weight:900;font-size:26px;text-align:center;font-variant-numeric:tabular-nums}
+.row.lead .pos{color:var(--accent)}
+.av{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;background:var(--accent-soft);color:var(--accent);font:800 16px var(--display)}
+.nm{min-width:0}
+.nm b{display:block;font-size:16px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chips{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
+.chip{font-size:11px;font-weight:700;letter-spacing:.04em;padding:2px 7px;border-radius:99px;background:var(--sunk);color:var(--muted);text-transform:uppercase;font-variant-numeric:tabular-nums}
+.chip.on{background:var(--good-soft);color:var(--good)}
+.chip.warn{background:var(--bad-soft);color:var(--bad)}
+.tot{font-family:var(--display);font-weight:900;font-size:34px;line-height:1;text-align:right;font-variant-numeric:tabular-nums}
+.tot small{display:block;font:600 10px var(--body);letter-spacing:.1em;color:var(--muted);text-transform:uppercase}
+.detail{border-top:1px dashed var(--line);padding:14px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,220px);gap:16px}
+@media (max-width:640px){.detail{grid-template-columns:1fr}}
+.detail img.pic{width:100%;border-radius:8px;border:1px solid var(--line)}
+.plist{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.plist ol{margin:4px 0 0;padding:0;list-style:none;display:grid;gap:3px}
+.plist li{display:grid;grid-template-columns:26px minmax(0,1fr) auto;gap:6px;font-size:14px;align-items:center}
+.plist li .n{color:var(--muted);font-variant-numeric:tabular-nums;font-size:12px}
+.pt{font-size:11px;font-weight:700;padding:1px 6px;border-radius:4px;font-variant-numeric:tabular-nums}
+.pt.g{background:var(--good-soft);color:var(--good)}
+.pt.p{background:var(--part-soft);color:var(--part)}
+.pt.z{background:var(--sunk);color:var(--muted)}
+.kicker{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+.slots{display:grid;gap:6px;margin-top:10px}
+.slot{display:grid;grid-template-columns:36px minmax(0,1fr);align-items:center;gap:8px}
+.slot .n{font-family:var(--display);font-weight:800;font-size:22px;text-align:center;color:var(--muted);font-variant-numeric:tabular-nums}
+select,input[type=text],textarea,input[type=datetime-local],input[type=number]{width:100%;font:500 16px var(--body);color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:9px 10px;min-width:0}
+textarea{min-height:70px;resize:vertical}
+label.f{display:grid;gap:5px;font-weight:600;font-size:14px}
+.side{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.pts{display:inline-block;font:700 11px var(--body);letter-spacing:.06em;background:var(--accent-soft);color:var(--accent);padding:2px 7px;border-radius:99px;margin-left:6px;vertical-align:2px}
+.btn{font:700 14px var(--body);letter-spacing:.06em;text-transform:uppercase;background:var(--accent);color:var(--accent-ink);border:0;border-radius:8px;padding:12px 20px;cursor:pointer}
+.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.btn.danger{background:var(--bad);color:#fff}
+.btn.small{padding:6px 10px;font-size:12px}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.status{font-size:13px;color:var(--muted)}
+.picbox{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px;align-items:center}
+.picbox .ph{width:120px;aspect-ratio:1;max-width:100%;border-radius:8px;border:1px dashed var(--line);background:var(--sunk);display:grid;place-items:center;color:var(--muted);font-size:12px;overflow:hidden;text-align:center;padding:6px}
+.picbox .ph img{width:100%;height:100%;object-fit:cover}
+.tscroll{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums;font-size:14px}
+th,td{padding:8px 10px;text-align:right;white-space:nowrap}
+th{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:700;border-bottom:2px solid var(--ink);background:var(--surface)}
+th.l,td.l{text-align:left}
+td.l img{width:18px;height:18px;vertical-align:-4px;margin-right:8px;object-fit:contain}
+tbody tr{border-bottom:1px solid var(--line)}
+tbody tr.zt td:first-child{box-shadow:inset 4px 0 var(--good)}
+tbody tr.zb td:first-child{box-shadow:inset 4px 0 var(--bad)}
+tbody tr.cut{border-bottom:2px solid var(--muted)}
+td.ptscol{font-weight:700}
+.cardsw{display:inline-block;width:9px;height:12px;border-radius:2px;background:var(--card);margin-right:4px;vertical-align:-1px}
+.race{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.race .sheet{padding:14px}
+.race .big{font-family:var(--display);font-weight:800;font-size:22px;line-height:1.1;margin-top:4px;text-wrap:balance}
+.race .meta{font-size:13px;color:var(--muted)}
+.rules{padding-left:20px;margin:8px 0 0;max-width:65ch}
+.rules li{margin-bottom:8px}
+.adm table input{width:80px;padding:5px 6px}
+.empty{padding:28px 18px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:var(--r)}
+.signin{max-width:460px;margin:40px auto;text-align:center;display:grid;gap:16px;justify-items:center}
+.gbtn{display:inline-flex;align-items:center;gap:10px}
+@media (prefers-reduced-motion:no-preference){.row{transition:border-color .15s}.row:hover{border-color:var(--muted)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Prem Bets</h1>
+      <p>Friends' Premier League predictions · 2026/27</p>
+      <div class="who" id="who"></div>
+    </div>
+    <div class="clock">
+      <div class="lbl" id="clockLbl">Picks lock in</div>
+      <div class="val" id="clockVal">—</div>
+      <div class="sub" id="clockSub"></div>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist" id="tabs" hidden>
+    <button role="tab" data-tab="home" aria-selected="true">Rankings</button>
+    <button role="tab" data-tab="picks" aria-selected="false">My picks</button>
+    <button role="tab" data-tab="table" aria-selected="false">EPL table</button>
+    <button role="tab" data-tab="rules" aria-selected="false">Rules</button>
+    <button role="tab" data-tab="admin" aria-selected="false" id="adminTab" hidden>Commissioner</button>
+  </nav>
+
+  <main id="view"><div class="empty">Loading…</div></main>
+</div>
+
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, signInWithRedirect, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+import { getFirestore, doc, collection, onSnapshot, setDoc, deleteDoc, Timestamp, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+/* ===== Settings ===== */
+const firebaseConfig = {
+  apiKey: "AIzaSyCjBixMBdO08cmBj37R-chgpRnPoqi6y7c",
+  authDomain: "prem-bets.firebaseapp.com",
+  projectId: "prem-bets",
+  storageBucket: "prem-bets.firebasestorage.app",
+  messagingSenderId: "136422617921",
+  appId: "1:136422617921:web:709255f933f692ac1167c0"
+};
+const COMMISSIONER_EMAIL = "rajatcool95@gmail.com";   // must match firestore.rules
+const DEFAULT_LOCK = new Date("2026-10-10T08:00:00Z"); // 9:00 AM UK time; must match firestore.rules
+/* ==================== */
+
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+const db = getFirestore(app);
+
+const S = { tab:"home", user:null, authReady:false, isCommish:false, config:null, cards:{}, status:{}, myPick:null, allPicks:null,
+  standings:null, draft:null, dirty:false, saving:false, saveMsg:"", open:{}, confirmRemove:null, unsubs:[], unsubAll:null, wasLocked:null };
+
+const $ = (s,el=document)=>el.querySelector(s);
+const esc = s => String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const norm = s => String(s||"").toLowerCase().replace(/&/g,"and").replace(/\b(a?fc)\b/g,"").replace(/[^a-z0-9]/g,"");
+const lockAt = ()=> (S.config && S.config.lockAt && S.config.lockAt.toDate) ? S.config.lockAt.toDate() : DEFAULT_LOCK;
+const locked = ()=> Date.now() >= lockAt().getTime();
+const teams = ()=> (S.standings && S.standings.teams) || [];
+const shortOf = n => { const t=teams().find(t=>norm(t.name)===norm(n)); return t ? (t.shortName||t.name) : String(n||"").replace(/ A?FC$/,"").replace(/^AFC /,""); };
+const fmtWhen = d => d.toLocaleString(undefined,{weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+
+/* ---------- standings (written by the GitHub job) ---------- */
+async function loadStandings(){
+  try{ const r=await fetch("standings.json?t="+Date.now(),{cache:"no-store"}); if(r.ok){ S.standings=await r.json(); render(); } }catch(e){}
+}
+
+/* ---------- scoring ---------- */
+function actual(){
+  const ts=teams();
+  const top=ts.slice(0,5).map(t=>norm(t.name)), bot=ts.slice(-5).map(t=>norm(t.name));
+  const num=v=>(typeof v==="number"&&isFinite(v))?v:null;
+  const cardsOf=t=>num(S.cards[norm(t.name)]);
+  const wc=ts.filter(t=>cardsOf(t)!=null), maxCards=wc.length?Math.max(...wc.map(cardsOf)):null;
+  const wg=ts.filter(t=>num(t.gd)!=null), minAbsGd=wg.length?Math.min(...wg.map(t=>Math.abs(t.gd))):null;
+  const wd=ts.filter(t=>num(t.d)!=null), maxD=wd.length?Math.max(...wd.map(t=>t.d)):null;
+  return { top, bot, cardsOf, maxCards, minAbsGd, maxD,
+    cardsLeaders: maxCards==null?[]:wc.filter(t=>cardsOf(t)===maxCards).map(t=>t.name),
+    gdLeaders: minAbsGd==null?[]:wg.filter(t=>Math.abs(t.gd)===minAbsGd).map(t=>t.name),
+    drawLeaders: maxD==null?[]:wd.filter(t=>t.d===maxD).map(t=>t.name) };
+}
+function score(p, uid, A){
+  const o={top:[],bot:[],table:0,exact:0,cards:0,gd:0,draws:0,mystery:0,total:0};
+  const has=(list,n)=>list.map(norm).includes(norm(n));
+  const slot=(arr,group,i)=>{ const t=arr&&arr[i]; if(!t||!A.top.length) return 0; if(group[i]===norm(t)){o.exact++;return 3;} return group.includes(norm(t))?1:0; };
+  for(let i=0;i<5;i++){ const a=slot(p.top,A.top,i); o.top.push(a); o.table+=a; }
+  for(let i=0;i<5;i++){ const a=slot(p.bottom,A.bot,i); o.bot.push(a); o.table+=a; }
+  if(p.cards&&has(A.cardsLeaders,p.cards)) o.cards=3;
+  if(p.gd&&has(A.gdLeaders,p.gd)) o.gd=3;
+  if(p.draws&&has(A.drawLeaders,p.draws)) o.draws=3;
+  const my=p.mystery||{}, ts=teams();
+  if(my.team&&my.pos&&ts[my.pos-1]&&norm(ts[my.pos-1].name)===norm(my.team)) o.mystery=5;
+  o.total=o.table+o.cards+o.gd+o.draws+o.mystery;
+  return o;
+}
+const isComplete=p=>!!(p&&p.top&&p.bottom&&p.top.filter(Boolean).length===5&&p.bottom.filter(Boolean).length===5&&p.cards&&p.gd&&p.draws&&p.nickname&&p.mystery&&p.mystery.team&&p.mystery.pos);
+const ordinal=n=>{const s=["th","st","nd","rd"],v=n%100;return n+(s[(v-20)%10]||s[v]||s[0]);};
+const initial=n=>esc((String(n||"?").trim()[0]||"?").toUpperCase());
+
+/* ---------- clock ---------- */
+function tick(){
+  const d=lockAt(), ms=d.getTime()-Date.now();
+  if(ms<=0){ $("#clockLbl").textContent="Picks"; $("#clockVal").textContent="Locked"; $("#clockSub").textContent="Since "+fmtWhen(d); }
+  else{
+    const s=Math.floor(ms/1000), dd=Math.floor(s/86400), hh=Math.floor(s%86400/3600), mm=Math.floor(s%3600/60), ss=s%60;
+    $("#clockLbl").textContent="Picks lock in";
+    $("#clockVal").textContent=(dd?dd+"d ":"")+String(hh).padStart(2,"0")+":"+String(mm).padStart(2,"0")+":"+String(ss).padStart(2,"0");
+    $("#clockSub").textContent=fmtWhen(d)+" your time";
+  }
+  const L=locked(); if(L!==S.wasLocked){ S.wasLocked=L; syncAllPicks(); render(); }
+}
+
+/* ---------- views ---------- */
+function viewSignIn(){
+  return `<div class="signin sheet"><h2>Join the league</h2>
+    <p class="note">Sign in with Google to make your picks and see the rankings. Your picks are tied to your Google account.</p>
+    <button class="btn gbtn" type="button" id="signin">Sign in with Google</button>
+    <p class="note" id="signinMsg"></p></div>`;
+}
+function viewHome(){
+  if(!locked()){
+    const ids=Object.keys(S.status).sort((a,b)=>String(S.status[a].nickname).localeCompare(String(S.status[b].nickname)));
+    if(!ids.length) return `<div class="stack"><div><h2>Who's in</h2><p class="note">Nobody has submitted picks yet.</p></div>
+      <div class="empty">Head to <b>My picks</b> to be first on the board.</div></div>`;
+    return `<div class="stack"><div><h2>Who's in</h2><p class="note">Everyone's picks stay hidden and points start counting at the lock.</p></div>
+      <div class="lb">${ids.map(uid=>{const s=S.status[uid];return `<div class="row"><div class="rowhead"><span class="pos">·</span><span class="av">${initial(s.nickname)}</span>
+        <span class="nm"><b>${esc(s.nickname||"Someone")}${uid===S.user.uid?" (you)":""}</b><span class="chips"><span class="chip ${s.complete?"on":""}">${s.complete?"Picks in":"Unfinished"}</span>${s.hasPicture?`<span class="chip on">Picture in</span>`:`<span class="chip warn">No picture yet</span>`}</span></span><span></span></div></div>`;}).join("")}</div></div>`;
+  }
+  if(!S.allPicks) return `<div class="empty">Loading everyone's picks…</div>`;
+  const A=actual(), ids=Object.keys(S.allPicks);
+  if(!ids.length) return `<div class="empty">Nobody locked in any picks.</div>`;
+  const rows=ids.map(uid=>({uid,p:S.allPicks[uid],s:score(S.allPicks[uid],uid,A)}))
+    .sort((a,b)=>b.s.total-a.s.total||b.s.exact-a.s.exact||String(a.p.nickname).localeCompare(String(b.p.nickname)));
+  let rank=0,prev=null; rows.forEach((r,i)=>{const k=r.s.total+"|"+r.s.exact; if(k!==prev){rank=i+1;prev=k;} r.rank=rank;});
+  return `<div class="stack"><div><h2>Standings if the season ended today</h2>
+    <p class="note">Points update live against the current EPL table. Tap a name to see their picks.</p></div>
+    <div class="lb">${rows.map(r=>rowHtml(r)).join("")}</div></div>`;
+}
+function rowHtml(r){
+  const s=r.s,p=r.p,open=!!S.open[r.uid];
+  const chip=(l,v)=>`<span class="chip ${v>0?"on":""}">${l} ${v}</span>`;
+  return `<div class="row ${r.rank===1?"lead":""}"><button type="button" class="rowhead" data-open="${esc(r.uid)}" aria-expanded="${open}">
+    <span class="pos">${r.rank}</span><span class="av">${initial(p.nickname)}</span>
+    <span class="nm"><b>${esc(p.nickname||"Someone")}${r.uid===S.user.uid?" (you)":""}</b>
+      <span class="chips">${chip("Table",s.table)}${chip("Cards",s.cards)}${chip("GD",s.gd)}${chip("Draws",s.draws)}${chip("Mystery",s.mystery)}${p.picture?"":`<span class="chip warn">No picture · repercussions</span>`}</span></span>
+    <span class="tot">${s.total}<small>pts</small></span></button>${open?detailHtml(r):""}</div>`;
+}
+function detailHtml(r){
+  const p=r.p,s=r.s;
+  const tag=v=>`<span class="pt ${v===3?"g":v===1?"p":"z"}">${v===3?"+3":v===1?"+1":"0"}</span>`;
+  const list=(arr,sc,start)=>`<ol>${[0,1,2,3,4].map(i=>`<li><span class="n">${start+i}</span><span>${esc(arr&&arr[i]?shortOf(arr[i]):"—")}</span>${tag(sc[i])}</li>`).join("")}</ol>`;
+  const stat=(l,t,v)=>`<li><span class="n"></span><span><span class="kicker">${l}</span><br>${esc(t?shortOf(t):"—")}</span>${tag(v)}</li>`;
+  return `<div class="detail"><div class="plist">
+    <div><div class="kicker">Top 5</div>${list(p.top,s.top,1)}</div>
+    <div><div class="kicker">Bottom 5</div>${list(p.bottom,s.bot,16)}</div>
+    <div><div class="kicker">Specials</div><ol>${stat("Most cards",p.cards,s.cards)}${stat("Closest to 0 GD",p.gd,s.gd)}${stat("Most draws",p.draws,s.draws)}
+      <li><span class="n"></span><span><span class="kicker">Mystery pick</span><br>${p.mystery&&p.mystery.team?esc(shortOf(p.mystery.team))+" to finish "+ordinal(p.mystery.pos):"—"}</span><span class="pt ${s.mystery?"g":"z"}">${s.mystery?"+5":"0"}</span></li></ol></div></div>
+    <div>${p.picture?`<img class="pic" alt="Picture for ${esc(p.nickname)}'s picks" src="${esc(p.picture)}">`:`<div class="empty">No picture submitted. The group decides the repercussions.</div>`}</div></div>`;
+}
+
+function blankDraft(){ return {nickname:"",top:["","","","",""],bottom:["","","","",""],cards:"",gd:"",draws:"",mystery:{team:"",pos:0},picture:""}; }
+function loadDraft(){
+  const b=blankDraft(), m=S.myPick;
+  if(m){ for(const k of Object.keys(b)) if(m[k]!=null) b[k]=Array.isArray(m[k])?m[k].slice():(typeof m[k]==="object"?{...m[k]}:m[k]); }
+  if(!b.mystery||typeof b.mystery!=="object") b.mystery={team:"",pos:0};
+  if(!b.nickname&&S.user&&S.user.displayName) b.nickname=S.user.displayName.split(" ")[0];
+  S.draft=b;
+}
+function viewPicks(){
+  if(!S.draft) loadDraft();
+  const d=S.draft, L=locked();
+  const names=teams().map(t=>t.name).sort((a,b)=>shortOf(a).localeCompare(shortOf(b)));
+  if(!names.length) return `<div class="empty">Loading the list of teams…</div>`;
+  const used=new Set([...d.top,...d.bottom].filter(Boolean).map(norm));
+  const sel=(id,val,g,i)=>`<select id="${id}" data-g="${g}" data-i="${i}" ${L?"disabled":""}><option value="">Choose a team</option>${names.map(n=>{const same=norm(n)===norm(val);return `<option value="${esc(n)}" ${same?"selected":""} ${g!=="s"&&used.has(norm(n))&&!same?"disabled":""}>${esc(shortOf(n))}</option>`;}).join("")}</select>`;
+  const slots=(arr,g,start)=>arr.map((v,i)=>`<div class="slot"><span class="n">${start+i}</span>${sel(g+i,v,g,i)}</div>`).join("");
+  const m=S.myPick;
+  const posSel=`<select id="mpos" ${L?"disabled":""}><option value="">Choose a position</option>${Array.from({length:20},(_,i)=>`<option value="${i+1}" ${d.mystery.pos===i+1?"selected":""}>${ordinal(i+1)}</option>`).join("")}</select>`;
+  const saved=m&&m.updatedAt&&m.updatedAt.toDate?fmtWhen(m.updatedAt.toDate()):null;
+  return `<div class="stack">
+    <div><h2>Your picks</h2><p class="note">${L?"Picks are locked. This is what you're holding for the season.":`Save as often as you like until ${esc(fmtWhen(lockAt()))}. Each team can appear once across your top 5 and bottom 5.`}</p></div>
+    ${m&&!L?`<div class="banner">Saved${saved?" "+esc(saved):""}${isComplete(m)?" · complete":" · still missing some picks"}</div>`:""}
+    <div class="sheet"><label class="f" for="nickname">Name on the leaderboard<input type="text" id="nickname" maxlength="30" value="${esc(d.nickname)}" ${L?"disabled":""}></label></div>
+    <div class="grid2">
+      <div class="sheet"><h3>Top 5 <span class="pts">3 / 1 pts each</span></h3><p class="note">Exact spot is 3 points. In the top 5 but wrong spot is 1.</p><div class="slots">${slots(d.top,"t",1)}</div></div>
+      <div class="sheet"><h3>Bottom 5 <span class="pts">3 / 1 pts each</span></h3><p class="note">Positions 16 to 20. Same scoring as the top 5.</p><div class="slots">${slots(d.bottom,"b",16)}</div></div>
+    </div>
+    <div class="sheet"><h3>Specials</h3><div class="side" style="margin-top:12px">
+      <label class="f" for="s0">Most cards <span class="pts">3 pts</span>${sel("s0",d.cards,"s","cards")}</label>
+      <label class="f" for="s1">Closest to 0 goal difference <span class="pts">3 pts</span>${sel("s1",d.gd,"s","gd")}</label>
+      <label class="f" for="s2">Most draws <span class="pts">3 pts</span>${sel("s2",d.draws,"s","draws")}</label></div></div>
+    <div class="sheet"><h3>Mystery pick <span class="pts">5 pts</span></h3>
+      <p class="note" style="margin:6px 0 10px">Pick any team and the exact position they'll finish in. 5 points if they end the season right there.</p>
+      <div class="side"><label class="f" for="s3">Team${sel("s3",d.mystery.team,"s","mteam")}</label><label class="f" for="mpos">Final position${posSel}</label></div></div>
+    <div class="sheet"><h3>Your picture</h3><p class="note" style="margin:6px 0 12px">Required. A picture representing your picks, or face repercussions.</p>
+      <div class="picbox"><div class="ph">${d.picture?`<img alt="Your picture" src="${esc(d.picture)}">`:"No picture yet"}</div>
+      <div style="display:grid;gap:8px;min-width:0">${L?"":`<input type="file" id="picfile" accept="image/*"><span class="note">Big photos are shrunk automatically.</span>`}${d.picture&&!L?`<div><button class="btn ghost small" type="button" id="picclear">Remove picture</button></div>`:""}</div></div></div>
+    ${L?"":`<div class="actions"><button class="btn" type="button" id="save" ${S.saving?"disabled":""}>${S.saving?"Saving…":"Save my picks"}</button><span class="status" id="saveMsg">${esc(S.saveMsg)}</span></div>`}
+  </div>`;
+}
+function viewTable(){
+  const ts=teams();
+  if(!ts.length) return `<div class="empty">The EPL table hasn't loaded yet.</div>`;
+  const A=actual(), v=x=>typeof x==="number"?x:"–", gd=x=>typeof x==="number"?(x>0?"+"+x:x):"–";
+  const upd=S.standings.updatedAt?fmtWhen(new Date(S.standings.updatedAt)):"";
+  const lead=(names,line)=>names.length?`<div class="big">${names.map(n=>esc(shortOf(n))).join(", ")}</div><div class="meta">${line}</div>`:`<div class="big">Waiting on data</div><div class="meta">Shows once the stat is in</div>`;
+  return `<div class="stack">
+    <div><h2>Premier League table</h2><p class="note">${upd?`Last change ${esc(upd)}. `:""}Checked every 30 minutes. Green edge marks the top 5, red edge the bottom 5.</p></div>
+    <div class="race">
+      <div class="sheet"><div class="kicker"><span class="cardsw"></span>Most cards</div>${lead(A.cardsLeaders,A.maxCards!=null?A.maxCards+" cards":"")}</div>
+      <div class="sheet"><div class="kicker">Closest to 0 GD</div>${lead(A.gdLeaders,A.minAbsGd!=null?"GD "+(A.minAbsGd===0?"0":"±"+A.minAbsGd):"")}</div>
+      <div class="sheet"><div class="kicker">Most draws</div>${lead(A.drawLeaders,A.maxD!=null?A.maxD+" draws":"")}</div>
+    </div>
+    <div class="tscroll"><table><thead><tr><th>#</th><th class="l">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GF</th><th>GA</th><th>GD</th><th>Pts</th><th>Cards</th></tr></thead>
+    <tbody>${ts.map((t,i)=>{const c=A.cardsOf(t);return `<tr class="${i<5?"zt":i>=ts.length-5?"zb":""} ${i===4||i===ts.length-6?"cut":""}"><td>${i+1}</td><td class="l">${t.crest?`<img alt="" src="${esc(t.crest)}">`:""}${esc(t.shortName||t.name)}</td><td>${v(t.p)}</td><td>${v(t.w)}</td><td>${v(t.d)}</td><td>${v(t.l)}</td><td>${v(t.gf)}</td><td>${v(t.ga)}</td><td>${gd(t.gd)}</td><td class="ptscol">${v(t.pts)}</td><td>${c==null?"–":c}</td></tr>`;}).join("")}</tbody></table></div>
+    <p class="note">Card counts are entered by the commissioner.</p></div>`;
+}
+function viewRules(){
+  return `<div class="sheet"><h2>House rules</h2><ul class="rules">
+    <li><b>Top 5 and bottom 5.</b> Guess the top 5 and bottom 5 of the final league table. 3 points for the correct team in the correct spot. 1 point for a team that finishes in the top or bottom 5 but in a different spot.</li>
+    <li><b>Most cards</b> · 3 points. Yellow and red cards both count.</li>
+    <li><b>Closest to 0 goal difference</b> · 3 points.</li>
+    <li><b>Most draws</b> · 3 points.</li>
+    <li><b>Mystery pick</b> · 5 points. Pick any team and the exact position they'll finish in the final table.</li>
+    <li><b>Picture.</b> You must post a picture representing your picks, or face repercussions.</li>
+    <li>Ties on cards, goal difference or draws pay everyone who picked a tied team. Leaderboard ties are split by number of exact-spot hits.</li>
+    <li>Picks lock at ${esc(fmtWhen(lockAt()))} your time. Until then, nobody can see anyone else's picks.</li></ul></div>`;
+}
+function viewAdmin(){
+  if(!S.isCommish) return `<div class="empty">Only the commissioner can see this.</div>`;
+  const lk=lockAt(), pad=n=>String(n).padStart(2,"0");
+  const lv=`${lk.getFullYear()}-${pad(lk.getMonth()+1)}-${pad(lk.getDate())}T${pad(lk.getHours())}:${pad(lk.getMinutes())}`;
+  const players=Object.keys(S.status);
+  return `<div class="stack">
+    <div><h2>Commissioner</h2><p class="note">Only you see this tab.</p></div>
+    <div class="sheet"><h3>Lock time</h3><div class="actions" style="margin-top:10px"><label class="f" for="lockInput" style="flex:1 1 220px">Picks lock at (your time)<input type="datetime-local" id="lockInput" value="${lv}"></label><button class="btn" type="button" id="saveLock">Save lock time</button></div></div>
+    <div class="sheet adm"><h3>Card counts</h3><p class="note" style="margin:6px 0 10px">The free table feed doesn't include cards. Enter each team's total cards (yellows plus reds) every so often.</p>
+      ${teams().length?`<div class="tscroll"><table><thead><tr><th class="l">Team</th><th>Cards</th></tr></thead><tbody>${teams().map((t,i)=>`<tr><td class="l">${esc(t.shortName||t.name)}</td><td><input type="number" min="0" id="c${i}" value="${S.cards[norm(t.name)]??""}"></td></tr>`).join("")}</tbody></table></div>
+      <div class="actions" style="margin-top:10px"><button class="btn" type="button" id="saveCards">Save card counts</button></div>`:`<p class="note">Teams appear once the table loads.</p>`}</div>
+    <div class="sheet"><h3>Players</h3><p class="note" style="margin:6px 0 10px">Anyone with the link can sign in and join. Remove anyone who shouldn't be here.</p>
+      ${players.length?`<div style="display:grid;gap:8px">${players.map(uid=>`<div class="actions" style="justify-content:space-between"><span><b>${esc(S.status[uid].nickname||"Someone")}</b></span>${S.confirmRemove===uid?`<span class="actions"><button class="btn danger small" type="button" data-rm="${esc(uid)}">Confirm remove</button><button class="btn ghost small" type="button" data-cancel>Keep</button></span>`:`<button class="btn ghost small" type="button" data-ask="${esc(uid)}">Remove</button>`}</div>`).join("")}</div>`:`<p class="note">No players yet.</p>`}</div>
+    <p class="status" id="admMsg"></p></div>`;
+}
+
+function render(){
+  tick();
+  const signedIn=!!S.user;
+  $("#tabs").hidden=!signedIn;
+  const who=$("#who");
+  if(signedIn){ who.innerHTML=`${S.user.photoURL?`<img alt="" src="${esc(S.user.photoURL)}" referrerpolicy="no-referrer">`:""}<span>Signed in as ${esc(S.user.displayName||S.user.email)}</span> · <button class="link" type="button" id="signout">Sign out</button>`; $("#signout").onclick=()=>signOut(auth); }
+  else who.innerHTML="";
+  if(!S.authReady){ $("#view").innerHTML=`<div class="empty">Loading…</div>`; return; }
+  if(!signedIn){ $("#view").innerHTML=viewSignIn(); $("#signin").onclick=doSignIn; return; }
+  document.querySelectorAll("#tabs button").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===S.tab)));
+  $("#adminTab").hidden=!S.isCommish;
+  const v={home:viewHome,picks:viewPicks,table:viewTable,rules:viewRules,admin:viewAdmin}[S.tab]||viewHome;
+  const active=document.activeElement&&document.activeElement.id;
+  $("#view").innerHTML=v();
+  if(active){ const el=document.getElementById(active); if(el&&el.focus) el.focus({preventScroll:true}); }
+  wire();
+}
+
+/* ---------- interactions ---------- */
+async function doSignIn(){
+  const p=new GoogleAuthProvider();
+  try{ await signInWithPopup(auth,p); }
+  catch(e){
+    if(e&&(e.code==="auth/popup-blocked"||e.code==="auth/operation-not-supported-in-this-environment")){ await signInWithRedirect(auth,p); return; }
+    const m=$("#signinMsg"); if(m) m.textContent=e&&e.code==="auth/unauthorized-domain"?"This website's address isn't approved in Firebase yet. The commissioner needs to add it under Authentication → Settings → Authorized domains.":e&&e.code==="auth/popup-closed-by-user"?"Sign-in was closed before it finished. Try again.":"Sign-in didn't work. Try again.";
+  }
+}
+function wire(){
+  document.querySelectorAll("[data-open]").forEach(b=>b.onclick=()=>{S.open[b.dataset.open]=!S.open[b.dataset.open];render();});
+  if(S.tab==="picks"&&S.draft){
+    const d=S.draft;
+    document.querySelectorAll("select[data-g]").forEach(s=>s.onchange=()=>{const g=s.dataset.g,i=s.dataset.i; if(g==="t") d.top[+i]=s.value; else if(g==="b") d.bottom[+i]=s.value; else if(i==="mteam") d.mystery.team=s.value; else d[i]=s.value; S.dirty=true; S.saveMsg="Unsaved changes"; render();});
+    const nn=$("#nickname"); if(nn) nn.oninput=()=>{d.nickname=nn.value;S.dirty=true;setMsg("Unsaved changes");};
+    const mp=$("#mpos"); if(mp) mp.onchange=()=>{d.mystery.pos=Number(mp.value)||0;S.dirty=true;S.saveMsg="Unsaved changes";render();};
+    const pf=$("#picfile"); if(pf) pf.onchange=async()=>{const f=pf.files&&pf.files[0]; if(!f) return; setMsg("Shrinking picture…");
+      try{ d.picture=await shrink(f); S.dirty=true; S.saveMsg="Picture ready. Save to keep it."; render(); }catch(e){ setMsg("That file couldn't be read as an image. Try a JPG or PNG."); }};
+    const pc=$("#picclear"); if(pc) pc.onclick=()=>{d.picture="";S.dirty=true;S.saveMsg="Unsaved changes";render();};
+    const sv=$("#save"); if(sv) sv.onclick=save;
+  }
+  if(S.tab==="admin"&&S.isCommish){
+    const g=id=>document.getElementById(id);
+    if(g("saveLock")) g("saveLock").onclick=()=>{const d=new Date(g("lockInput").value); if(isNaN(d)) return admMsg("Pick a valid date and time."); cfgWrite({lockAt:Timestamp.fromDate(d)},"Lock time saved.");};
+    if(g("saveCards")) g("saveCards").onclick=saveCards;
+    document.querySelectorAll("[data-ask]").forEach(b=>b.onclick=()=>{S.confirmRemove=b.dataset.ask;render();});
+    document.querySelectorAll("[data-cancel]").forEach(b=>b.onclick=()=>{S.confirmRemove=null;render();});
+    document.querySelectorAll("[data-rm]").forEach(b=>b.onclick=async()=>{const uid=b.dataset.rm; try{ await deleteDoc(doc(db,"picks",uid)); await deleteDoc(doc(db,"status",uid)); S.confirmRemove=null; render(); admMsg("Player removed."); }catch(e){ admMsg("Couldn't remove that player. Try again."); }});
+  }
+}
+function setMsg(m){S.saveMsg=m; const el=$("#saveMsg"); if(el) el.textContent=m;}
+function admMsg(m){const el=$("#admMsg"); if(el) el.textContent=m;}
+
+async function shrink(file){
+  const url=URL.createObjectURL(file);
+  try{
+    const img=await new Promise((res,rej)=>{const i=new Image(); i.onload=()=>res(i); i.onerror=rej; i.src=url;});
+    let max=720,q=0.78,out="";
+    for(let k=0;k<6;k++){
+      const sc=Math.min(1,max/Math.max(img.naturalWidth,img.naturalHeight));
+      const c=document.createElement("canvas"); c.width=Math.round(img.naturalWidth*sc); c.height=Math.round(img.naturalHeight*sc);
+      c.getContext("2d").drawImage(img,0,0,c.width,c.height); out=c.toDataURL("image/jpeg",q);
+      if(out.length<300000) return out; max=Math.round(max*0.8); q=Math.max(0.5,q-0.07);
+    }
+    return out;
+  } finally { URL.revokeObjectURL(url); }
+}
+async function save(){
+  if(locked()){ setMsg("Picks are locked."); return; }
+  const d=S.draft; if(!d.nickname.trim()){ setMsg("Add a name for the leaderboard first."); return; }
+  S.saving=true; render();
+  const uid=S.user.uid, nickname=d.nickname.trim().slice(0,30);
+  try{
+    await setDoc(doc(db,"picks",uid),{ nickname, top:d.top, bottom:d.bottom, cards:d.cards, gd:d.gd, draws:d.draws, mystery:{team:d.mystery.team||"",pos:d.mystery.pos||0}, picture:d.picture||"", updatedAt:serverTimestamp() });
+    await setDoc(doc(db,"status",uid),{ nickname, complete:isComplete(d), hasPicture:!!d.picture, updatedAt:serverTimestamp() });
+    S.dirty=false; S.saveMsg=isComplete(d)?(d.picture?"Saved. You're all set.":"Saved. Don't forget your picture."):"Saved. Some picks are still empty.";
+  }catch(e){
+    S.saveMsg=e&&e.code==="permission-denied"?"Couldn't save. Picks may already be locked.":"Couldn't save just now. Check your connection and try again.";
+  }
+  S.saving=false; render();
+}
+async function cfgWrite(patch,msg){
+  try{ await setDoc(doc(db,"league","config"),patch,{merge:true}); admMsg(msg); }catch(e){ admMsg("Couldn't save. Make sure you're signed in as the commissioner."); }
+}
+async function saveCards(){
+  const counts={}; teams().forEach((t,i)=>{ const v=document.getElementById("c"+i).value; if(v!=="") counts[norm(t.name)]=Math.max(0,Math.round(Number(v))); });
+  try{ await setDoc(doc(db,"league","cards"),{counts,updatedAt:serverTimestamp()}); admMsg("Card counts saved."); }catch(e){ admMsg("Couldn't save card counts. Try again."); }
+}
+
+/* ---------- live data ---------- */
+function syncAllPicks(){
+  if(!S.user) return;
+  if(locked()&&!S.unsubAll){
+    S.unsubAll=onSnapshot(collection(db,"picks"),q=>{ const m={}; q.forEach(d=>m[d.id]=d.data()); S.allPicks=m; render(); },
+      ()=>{ S.unsubAll=null; setTimeout(syncAllPicks,20000); });
+  } else if(!locked()&&S.unsubAll){ S.unsubAll(); S.unsubAll=null; S.allPicks=null; }
+}
+function subscribe(){
+  const uid=S.user.uid;
+  S.unsubs.push(onSnapshot(doc(db,"league","config"),s=>{ S.config=s.exists()?s.data():null; syncAllPicks(); render(); },()=>{}));
+  S.unsubs.push(onSnapshot(doc(db,"league","cards"),s=>{ S.cards=(s.exists()&&s.data().counts)||{}; render(); },()=>{}));
+  S.unsubs.push(onSnapshot(collection(db,"status"),q=>{ const m={}; q.forEach(d=>m[d.id]=d.data()); S.status=m; render(); },()=>{}));
+  S.unsubs.push(onSnapshot(doc(db,"picks",uid),s=>{ S.myPick=s.exists()?s.data():null; if(!S.dirty) S.draft=null; render(); },()=>{}));
+  syncAllPicks();
+}
+function unsubscribeAll(){ S.unsubs.forEach(u=>u()); S.unsubs=[]; if(S.unsubAll){S.unsubAll();S.unsubAll=null;} }
+
+document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{S.tab=b.dataset.tab; try{localStorage.setItem("pb-tab",S.tab);}catch(e){} render();});
+try{const t=localStorage.getItem("pb-tab"); if(t&&t!=="admin") S.tab=t;}catch(e){}
+
+onAuthStateChanged(auth,u=>{
+  unsubscribeAll();
+  S.user=u; S.authReady=true; S.draft=null; S.dirty=false; S.myPick=null; S.allPicks=null; S.status={}; S.config=null; S.cards={};
+  S.isCommish=!!(u&&u.email&&u.email.toLowerCase()===COMMISSIONER_EMAIL.toLowerCase()&&u.emailVerified);
+  if(u) subscribe();
+  render();
+});
+loadStandings(); setInterval(loadStandings,5*60*1000);
+setInterval(tick,1000); render();
+</script>
+</body>
+</html>
