@@ -1,5 +1,6 @@
 {
- "updatedAt": "2026-10-07T16:10:15+00:00",
+ "updatedAt": "2026-10-07T16:23:16+00:00",
+ "cardsUpdatedAt": "2026-10-07T16:23:16+00:00",
  "season": "2026",
  "teams": [
   {
@@ -14,7 +15,9 @@
    "gf": 13,
    "ga": 5,
    "gd": 8,
-   "pts": 15
+   "pts": 15,
+   "yc": 6,
+   "rc": 1
   },
   {
    "name": "Arsenal FC",
@@ -28,7 +31,9 @@
    "gf": 8,
    "ga": 4,
    "gd": 4,
-   "pts": 12
+   "pts": 12,
+   "yc": 7,
+   "rc": 0
   },
   {
    "name": "Brighton & Hove Albion FC",
@@ -42,7 +47,9 @@
    "gf": 16,
    "ga": 5,
    "gd": 11,
-   "pts": 10
+   "pts": 10,
+   "yc": 12,
+   "rc": 0
   },
   {
    "name": "Brentford FC",
@@ -56,7 +63,9 @@
    "gf": 10,
    "ga": 4,
    "gd": 6,
-   "pts": 9
+   "pts": 9,
+   "yc": 11,
+   "rc": 0
   },
   {
    "name": "Leeds United FC",
@@ -70,7 +79,9 @@
    "gf": 7,
    "ga": 3,
    "gd": 4,
-   "pts": 9
+   "pts": 9,
+   "yc": 7,
+   "rc": 0
   },
   {
    "name": "Liverpool FC",
@@ -84,7 +95,9 @@
    "gf": 7,
    "ga": 4,
    "gd": 3,
-   "pts": 9
+   "pts": 9,
+   "yc": 12,
+   "rc": 0
   },
   {
    "name": "Everton FC",
@@ -98,7 +111,9 @@
    "gf": 6,
    "ga": 3,
    "gd": 3,
-   "pts": 9
+   "pts": 9,
+   "yc": 9,
+   "rc": 0
   },
   {
    "name": "Hull City AFC",
@@ -112,7 +127,9 @@
    "gf": 6,
    "ga": 4,
    "gd": 2,
-   "pts": 8
+   "pts": 8,
+   "yc": 17,
+   "rc": 0
   },
   {
    "name": "Newcastle United FC",
@@ -126,7 +143,9 @@
    "gf": 9,
    "ga": 9,
    "gd": 0,
-   "pts": 8
+   "pts": 8,
+   "yc": 12,
+   "rc": 0
   },
   {
    "name": "Chelsea FC",
@@ -140,7 +159,9 @@
    "gf": 10,
    "ga": 12,
    "gd": -2,
-   "pts": 7
+   "pts": 7,
+   "yc": 9,
+   "rc": 0
   },
   {
    "name": "Ipswich Town FC",
@@ -154,7 +175,9 @@
    "gf": 7,
    "ga": 11,
    "gd": -4,
-   "pts": 6
+   "pts": 6,
+   "yc": 8,
+   "rc": 1
   },
   {
    "name": "Manchester United FC",
@@ -168,7 +191,9 @@
    "gf": 8,
    "ga": 8,
    "gd": 0,
-   "pts": 5
+   "pts": 5,
+   "yc": 6,
+   "rc": 0
   },
   {
    "name": "Nottingham Forest FC",
@@ -182,7 +207,9 @@
    "gf": 4,
    "ga": 5,
    "gd": -1,
-   "pts": 5
+   "pts": 5,
+   "yc": 13,
+   "rc": 0
   },
   {
    "name": "Sunderland AFC",
@@ -196,7 +223,9 @@
    "gf": 6,
    "ga": 10,
    "gd": -4,
-   "pts": 4
+   "pts": 4,
+   "yc": 10,
+   "rc": 1
   },
   {
    "name": "Crystal Palace FC",
@@ -210,7 +239,9 @@
    "gf": 6,
    "ga": 11,
    "gd": -5,
-   "pts": 4
+   "pts": 4,
+   "yc": 6,
+   "rc": 1
   },
   {
    "name": "Aston Villa FC",
@@ -224,7 +255,9 @@
    "gf": 4,
    "ga": 9,
    "gd": -5,
-   "pts": 4
+   "pts": 4,
+   "yc": 10,
+   "rc": 1
   },
   {
    "name": "AFC Bournemouth",
@@ -238,7 +271,9 @@
    "gf": 6,
    "ga": 8,
    "gd": -2,
-   "pts": 3
+   "pts": 3,
+   "yc": 14,
+   "rc": 0
   },
   {
    "name": "Coventry City FC",
@@ -252,7 +287,9 @@
    "gf": 1,
    "ga": 10,
    "gd": -9,
-   "pts": 3
+   "pts": 3,
+   "yc": 4,
+   "rc": 1
   },
   {
    "name": "Fulham FC",
@@ -266,7 +303,9 @@
    "gf": 5,
    "ga": 8,
    "gd": -3,
-   "pts": 2
+   "pts": 2,
+   "yc": 8,
+   "rc": 0
   },
   {
    "name": "Tottenham Hotspur FC",
@@ -280,7 +319,9 @@
    "gf": 2,
    "ga": 8,
    "gd": -6,
-   "pts": 2
+   "pts": 2,
+   "yc": 5,
+   "rc": 0
   }
  ]
 }
