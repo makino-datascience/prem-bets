@@ -151,7 +151,7 @@ td.ptscol{font-weight:700}
 
 <script type="module">
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
-import { getAuth, GoogleAuthProvider, signInWithPopup, signInWithRedirect, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
 import { getFirestore, doc, collection, onSnapshot, setDoc, deleteDoc, Timestamp, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 /* ===== Settings ===== */
@@ -237,7 +237,9 @@ function tick(){
 function viewSignIn(){
   return `<div class="signin sheet"><h2>Join the league</h2>
     <p class="note">Sign in with Google to make your picks and see the rankings. Your picks are tied to your Google account.</p>
-    <button class="btn gbtn" type="button" id="signin">Sign in with Google</button>
+    ${inAppBrowser?`<div class="banner bad">You opened this inside another app, where Google sign-in doesn't work. Copy the link and open it in Safari or Chrome.</div>
+    <button class="btn" type="button" id="copylink">Copy link</button><input type="text" id="linkText" readonly hidden value="${esc(location.href.split("#")[0])}">`:""}
+    <button class="btn ${inAppBrowser?"ghost":""} gbtn" type="button" id="signin">Sign in with Google</button>
     <p class="note" id="signinMsg"></p></div>`;
 }
 function viewHome(){
@@ -373,7 +375,7 @@ function render(){
   if(signedIn){ who.innerHTML=`${S.user.photoURL?`<img alt="" src="${esc(S.user.photoURL)}" referrerpolicy="no-referrer">`:""}<span>Signed in as ${esc(S.user.displayName||S.user.email)}</span> · <button class="link" type="button" id="signout">Sign out</button>`; $("#signout").onclick=()=>signOut(auth); }
   else who.innerHTML="";
   if(!S.authReady){ $("#view").innerHTML=`<div class="empty">Loading…</div>`; return; }
-  if(!signedIn){ $("#view").innerHTML=viewSignIn(); $("#signin").onclick=doSignIn; return; }
+  if(!signedIn){ $("#view").innerHTML=viewSignIn(); $("#signin").onclick=doSignIn; const cl=$("#copylink"); if(cl) cl.onclick=()=>copyLink(cl); return; }
   document.querySelectorAll("#tabs button").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===S.tab)));
   $("#adminTab").hidden=!S.isCommish;
   const v={home:viewHome,picks:viewPicks,table:viewTable,rules:viewRules,admin:viewAdmin}[S.tab]||viewHome;
@@ -386,11 +388,26 @@ function render(){
 /* ---------- interactions ---------- */
 async function doSignIn(){
   const p=new GoogleAuthProvider();
+  p.setCustomParameters({prompt:"select_account"});
+  const m=$("#signinMsg");
   try{ await signInWithPopup(auth,p); }
   catch(e){
-    if(e&&(e.code==="auth/popup-blocked"||e.code==="auth/operation-not-supported-in-this-environment")){ await signInWithRedirect(auth,p); return; }
-    const m=$("#signinMsg"); if(m) m.textContent=e&&e.code==="auth/unauthorized-domain"?"This website's address isn't approved in Firebase yet. The commissioner needs to add it under Authentication → Settings → Authorized domains.":e&&e.code==="auth/popup-closed-by-user"?"Sign-in was closed before it finished. Try again.":"Sign-in didn't work. Try again.";
+    const c=e&&e.code;
+    const msg = c==="auth/unauthorized-domain" ? "This website's address isn't approved in Firebase yet. The commissioner needs to add it under Authentication → Settings → Authorized domains."
+      : c==="auth/popup-closed-by-user"||c==="auth/cancelled-popup-request" ? "Sign-in was closed before it finished. Tap the button to try again."
+      : c==="auth/popup-blocked" ? "Your browser blocked the Google sign-in window. Allow pop-ups for this site, or open the link in Safari or Chrome, then try again."
+      : c==="auth/operation-not-supported-in-this-environment"||c==="auth/web-storage-unsupported" ? "Sign-in doesn't work inside this app's browser. Open the link in Safari or Chrome."
+      : c==="auth/network-request-failed" ? "No connection to Google. Check your internet and try again."
+      : "Sign-in didn't work. Open the link in Safari or Chrome and try again.";
+    if(m) m.textContent=msg;
   }
+}
+// Apps like WhatsApp, Instagram and Facebook open links in their own browser, where Google sign-in is blocked.
+const inAppBrowser=/FBAN|FBAV|FB_IAB|Instagram|Line\/|Snapchat|TikTok|musical_ly|LinkedInApp|Twitter|GSA\/|; wv\)/i.test(navigator.userAgent);
+async function copyLink(btn){
+  const url=location.href.split("#")[0];
+  try{ await navigator.clipboard.writeText(url); btn.textContent="Link copied"; }
+  catch(e){ const i=$("#linkText"); if(i){ i.hidden=false; i.select(); } btn.textContent="Copy the link above"; }
 }
 function wire(){
   document.querySelectorAll("[data-open]").forEach(b=>b.onclick=()=>{S.open[b.dataset.open]=!S.open[b.dataset.open];render();});
