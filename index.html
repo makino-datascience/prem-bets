@@ -193,7 +193,7 @@ function actual(){
   const ts=teams();
   const top=ts.slice(0,5).map(t=>norm(t.name)), bot=ts.slice(-5).map(t=>norm(t.name));
   const num=v=>(typeof v==="number"&&isFinite(v))?v:null;
-  const cardsOf=t=>{ const m=num(S.cards[norm(t.name)]); if(m!=null) return m; if(num(t.yc)==null&&num(t.rc)==null) return null; return (num(t.yc)||0)+(num(t.rc)||0); };
+  const cardsOf=t=>{ if(num(t.yc)==null&&num(t.rc)==null) return null; return (num(t.yc)||0)+(num(t.rc)||0); };
   const wc=ts.filter(t=>cardsOf(t)!=null), maxCards=wc.length?Math.max(...wc.map(cardsOf)):null;
   const wg=ts.filter(t=>num(t.gd)!=null), minAbsGd=wg.length?Math.min(...wg.map(t=>Math.abs(t.gd))):null;
   const wd=ts.filter(t=>num(t.d)!=null), maxD=wd.length?Math.max(...wd.map(t=>t.d)):null;
@@ -359,9 +359,6 @@ function viewAdmin(){
   return `<div class="stack">
     <div><h2>Commissioner</h2><p class="note">Only you see this tab.</p></div>
     <div class="sheet"><h3>Lock time</h3><div class="actions" style="margin-top:10px"><label class="f" for="lockInput" style="flex:1 1 220px">Picks lock at (your time)<input type="datetime-local" id="lockInput" value="${lv}"></label><button class="btn" type="button" id="saveLock">Save lock time</button></div></div>
-    <div class="sheet adm"><h3>Card counts</h3><p class="note" style="margin:6px 0 10px">Cards fill in automatically from ESPN once a day. Leave a box empty to use ESPN's number, or type a total (yellows plus reds) to override that team.</p>
-      ${teams().length?`<div class="tscroll"><table><thead><tr><th class="l">Team</th><th>From ESPN</th><th>Override</th></tr></thead><tbody>${teams().map((t,i)=>{const auto=(t.yc==null&&t.rc==null)?"–":(t.yc||0)+(t.rc||0);return `<tr><td class="l">${esc(t.shortName||t.name)}</td><td>${auto}</td><td><input type="number" min="0" id="c${i}" value="${S.cards[norm(t.name)]??""}" aria-label="Override cards for ${esc(t.shortName||t.name)}"></td></tr>`;}).join("")}</tbody></table></div>
-      <div class="actions" style="margin-top:10px"><button class="btn" type="button" id="saveCards">Save overrides</button></div>`:`<p class="note">Teams appear once the table loads.</p>`}</div>
     <div class="sheet"><h3>Players</h3><p class="note" style="margin:6px 0 10px">Anyone with the link can sign in and join. Remove anyone who shouldn't be here.</p>
       ${players.length?`<div style="display:grid;gap:8px">${players.map(uid=>`<div class="actions" style="justify-content:space-between"><span><b>${esc(S.status[uid].nickname||"Someone")}</b></span>${S.confirmRemove===uid?`<span class="actions"><button class="btn danger small" type="button" data-rm="${esc(uid)}">Confirm remove</button><button class="btn ghost small" type="button" data-cancel>Keep</button></span>`:`<button class="btn ghost small" type="button" data-ask="${esc(uid)}">Remove</button>`}</div>`).join("")}</div>`:`<p class="note">No players yet.</p>`}</div>
     <p class="status" id="admMsg"></p></div>`;
@@ -424,7 +421,6 @@ function wire(){
   if(S.tab==="admin"&&S.isCommish){
     const g=id=>document.getElementById(id);
     if(g("saveLock")) g("saveLock").onclick=()=>{const d=new Date(g("lockInput").value); if(isNaN(d)) return admMsg("Pick a valid date and time."); cfgWrite({lockAt:Timestamp.fromDate(d)},"Lock time saved.");};
-    if(g("saveCards")) g("saveCards").onclick=saveCards;
     document.querySelectorAll("[data-ask]").forEach(b=>b.onclick=()=>{S.confirmRemove=b.dataset.ask;render();});
     document.querySelectorAll("[data-cancel]").forEach(b=>b.onclick=()=>{S.confirmRemove=null;render();});
     document.querySelectorAll("[data-rm]").forEach(b=>b.onclick=async()=>{const uid=b.dataset.rm; try{ await deleteDoc(doc(db,"picks",uid)); await deleteDoc(doc(db,"status",uid)); S.confirmRemove=null; render(); admMsg("Player removed."); }catch(e){ admMsg("Couldn't remove that player. Try again."); }});
@@ -464,10 +460,6 @@ async function save(){
 async function cfgWrite(patch,msg){
   try{ await setDoc(doc(db,"league","config"),patch,{merge:true}); admMsg(msg); }catch(e){ admMsg("Couldn't save. Make sure you're signed in as the commissioner."); }
 }
-async function saveCards(){
-  const counts={}; teams().forEach((t,i)=>{ const v=document.getElementById("c"+i).value; if(v!=="") counts[norm(t.name)]=Math.max(0,Math.round(Number(v))); });
-  try{ await setDoc(doc(db,"league","cards"),{counts,updatedAt:serverTimestamp()}); admMsg("Overrides saved."); }catch(e){ admMsg("Couldn't save card counts. Try again."); }
-}
 
 /* ---------- live data ---------- */
 function syncAllPicks(){
@@ -480,7 +472,6 @@ function syncAllPicks(){
 function subscribe(){
   const uid=S.user.uid;
   S.unsubs.push(onSnapshot(doc(db,"league","config"),s=>{ S.config=s.exists()?s.data():null; syncAllPicks(); render(); },()=>{}));
-  S.unsubs.push(onSnapshot(doc(db,"league","cards"),s=>{ S.cards=(s.exists()&&s.data().counts)||{}; render(); },()=>{}));
   S.unsubs.push(onSnapshot(collection(db,"status"),q=>{ const m={}; q.forEach(d=>m[d.id]=d.data()); S.status=m; render(); },()=>{}));
   S.unsubs.push(onSnapshot(doc(db,"picks",uid),s=>{ S.myPick=s.exists()?s.data():null; if(!S.dirty) S.draft=null; render(); },()=>{}));
   syncAllPicks();
@@ -492,7 +483,7 @@ try{const t=localStorage.getItem("pb-tab"); if(t&&t!=="admin") S.tab=t;}catch(e)
 
 onAuthStateChanged(auth,u=>{
   unsubscribeAll();
-  S.user=u; S.authReady=true; S.draft=null; S.dirty=false; S.myPick=null; S.allPicks=null; S.status={}; S.config=null; S.cards={};
+  S.user=u; S.authReady=true; S.draft=null; S.dirty=false; S.myPick=null; S.allPicks=null; S.status={}; S.config=null;
   S.isCommish=!!(u&&u.email&&u.email.toLowerCase()===COMMISSIONER_EMAIL.toLowerCase()&&u.emailVerified);
   if(u) subscribe();
   render();
