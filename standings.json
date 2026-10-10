@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-07T16:23:16+00:00",
- "cardsUpdatedAt": "2026-10-09T15:03:39+00:00",
+ "updatedAt": "2026-10-10T12:54:09+00:00",
+ "cardsUpdatedAt": "2026-10-10T12:54:09+00:00",
  "season": "2026",
  "teams": [
   {
@@ -20,17 +20,33 @@
    "rc": 1
   },
   {
+   "name": "Leeds United FC",
+   "shortName": "Leeds United",
+   "tla": "LEE",
+   "crest": "https://crests.football-data.org/341.png",
+   "p": 6,
+   "w": 3,
+   "d": 3,
+   "l": 0,
+   "gf": 8,
+   "ga": 3,
+   "gd": 5,
+   "pts": 12,
+   "yc": 7,
+   "rc": 0
+  },
+  {
    "name": "Arsenal FC",
    "shortName": "Arsenal",
    "tla": "ARS",
    "crest": "https://crests.football-data.org/57.png",
-   "p": 5,
+   "p": 6,
    "w": 4,
    "d": 0,
-   "l": 1,
+   "l": 2,
    "gf": 8,
-   "ga": 4,
-   "gd": 4,
+   "ga": 5,
+   "gd": 3,
    "pts": 12,
    "yc": 7,
    "rc": 0
@@ -65,22 +81,6 @@
    "gd": 6,
    "pts": 9,
    "yc": 11,
-   "rc": 0
-  },
-  {
-   "name": "Leeds United FC",
-   "shortName": "Leeds United",
-   "tla": "LEE",
-   "crest": "https://crests.football-data.org/341.png",
-   "p": 5,
-   "w": 2,
-   "d": 3,
-   "l": 0,
-   "gf": 7,
-   "ga": 3,
-   "gd": 4,
-   "pts": 9,
-   "yc": 7,
    "rc": 0
   },
   {
