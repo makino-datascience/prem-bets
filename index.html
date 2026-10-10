@@ -117,6 +117,29 @@ td.ptscol{font-weight:700}
 .rules{padding-left:20px;margin:8px 0 0;max-width:65ch}
 .rules li{margin-bottom:8px}
 .adm table input{width:80px;padding:5px 6px}
+/* news */
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg button{font:600 13px var(--body);letter-spacing:.04em;padding:7px 12px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.newshead{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:10px 18px}
+a.lead{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:0;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;color:inherit;text-decoration:none}
+a.lead .img{aspect-ratio:16/9;max-width:100%;background:var(--sunk);overflow:hidden}
+a.lead .img img{width:100%;height:100%;object-fit:cover;display:block}
+a.lead .txt{padding:18px;display:grid;gap:8px;align-content:start;min-width:0}
+a.lead h3{font-size:28px;line-height:1.02;text-wrap:balance}
+@media (max-width:640px){a.lead{grid-template-columns:1fr}a.lead h3{font-size:24px}}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12px;color:var(--muted)}
+.meta .src{font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.tag{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;border-radius:4px;background:var(--accent-soft);color:var(--accent)}
+.nlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px}
+@media (max-width:640px){.nlist{grid-template-columns:1fr}}
+a.story{display:grid;grid-template-columns:96px minmax(0,1fr);gap:12px;padding:10px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);color:inherit;text-decoration:none;align-items:start}
+a.story .th{width:96px;aspect-ratio:4/3;max-width:100%;border-radius:6px;background:var(--sunk);overflow:hidden}
+a.story .th img{width:100%;height:100%;object-fit:cover;display:block}
+a.lead.noimg,a.story.noimg{grid-template-columns:1fr}
+a.story b{display:block;font-size:15px;line-height:1.25;margin-bottom:4px}
+a.lead:focus-visible,a.story:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (prefers-reduced-motion:no-preference){a.story,a.lead{transition:border-color .15s}a.story:hover,a.lead:hover{border-color:var(--muted)}}
 .empty{padding:28px 18px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:var(--r)}
 .signin{max-width:460px;margin:40px auto;text-align:center;display:grid;gap:16px;justify-items:center}
 .gbtn{display:inline-flex;align-items:center;gap:10px}
@@ -138,8 +161,9 @@ td.ptscol{font-weight:700}
     </div>
   </header>
 
-  <nav class="tabs" role="tablist" id="tabs" hidden>
-    <button role="tab" data-tab="home" aria-selected="true">Rankings</button>
+  <nav class="tabs" role="tablist" id="tabs">
+    <button role="tab" data-tab="news" aria-selected="true">News</button>
+    <button role="tab" data-tab="home" aria-selected="false">Rankings</button>
     <button role="tab" data-tab="picks" aria-selected="false">My picks</button>
     <button role="tab" data-tab="table" aria-selected="false">EPL table</button>
     <button role="tab" data-tab="rules" aria-selected="false">Rules</button>
@@ -171,7 +195,7 @@ const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);
 
-const S = { tab:"home", user:null, authReady:false, isCommish:false, config:null, cards:{}, status:{}, myPick:null, allPicks:null,
+const S = { tab:"news", news:null, newsFilter:"all", user:null, authReady:false, isCommish:false, config:null, cards:{}, status:{}, myPick:null, allPicks:null,
   standings:null, draft:null, dirty:false, saving:false, saveMsg:"", open:{}, confirmRemove:null, unsubs:[], unsubAll:null, wasLocked:null };
 
 const $ = (s,el=document)=>el.querySelector(s);
@@ -184,6 +208,17 @@ const shortOf = n => { const t=teams().find(t=>norm(t.name)===norm(n)); return t
 const fmtWhen = d => d.toLocaleString(undefined,{weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
 
 /* ---------- standings (written by the GitHub job) ---------- */
+async function loadNews(){
+  try{ const r=await fetch("news.json?t="+Date.now(),{cache:"no-store"}); if(r.ok){ S.news=await r.json(); if(S.tab==="news") render(); } else if(!S.news){ S.news={items:[]}; if(S.tab==="news") render(); } }catch(e){ if(!S.news){ S.news={items:[]}; if(S.tab==="news") render(); } }
+}
+function ago(iso){
+  const s=(Date.now()-new Date(iso).getTime())/1000;
+  if(!isFinite(s)) return "";
+  if(s<90) return "just now";
+  if(s<3600) return Math.round(s/60)+" min ago";
+  if(s<86400) return Math.round(s/3600)+"h ago";
+  const d=Math.round(s/86400); return d===1?"yesterday":d+" days ago";
+}
 async function loadStandings(){
   try{ const r=await fetch("standings.json?t="+Date.now(),{cache:"no-store"}); if(r.ok){ S.standings=await r.json(); render(); } }catch(e){}
 }
@@ -234,6 +269,24 @@ function tick(){
 }
 
 /* ---------- views ---------- */
+function viewNews(){
+  if(!S.news) return `<div class="empty">Loading the latest football news…</div>`;
+  const all=S.news.items||[];
+  const f=S.newsFilter;
+  const items=all.filter(i=>f==="all"||(f==="epl"?i.epl:!i.epl));
+  const btn=(k,l)=>`<button type="button" data-nf="${k}" aria-pressed="${f===k}">${l}</button>`;
+  const head=`<div class="newshead"><div><h2>Football news</h2><p class="note">${S.news.updatedAt?`Updated ${esc(ago(S.news.updatedAt))}. `:""}Headlines from Sky Sports and FourFourTwo. Tap a story to read it on their site.</p></div>
+    <div class="seg" role="group" aria-label="Filter news">${btn("all","All")}${btn("epl","Premier League")}${btn("world","Rest of football")}</div></div>`;
+  if(!all.length) return `<div class="stack">${head}<div class="empty">Headlines appear here within half an hour of the news job's first run.</div></div>`;
+  if(!items.length) return `<div class="stack">${head}<div class="empty">No stories in this section right now. Try All.</div></div>`;
+  const meta=i=>`<span class="meta"><span class="src">${esc(i.source)}</span><span>${esc(ago(i.published))}</span>${i.epl&&f!=="epl"?`<span class="tag">Premier League</span>`:""}</span>`;
+  const img=(i,cls)=>i.image?`<div class="${cls}"><img src="${esc(i.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('a').classList.add('noimg');this.parentNode.remove()"></div>`:"";
+  const cl=i=>i.image?"":" noimg";
+  const [lead,...rest]=items;
+  return `<div class="stack">${head}
+    <a class="lead${cl(lead)}" href="${esc(lead.url)}" target="_blank" rel="noopener">${img(lead,"img")}<div class="txt">${meta(lead)}<h3>${esc(lead.title)}</h3>${lead.summary?`<p class="note" style="font-size:14px">${esc(lead.summary)}</p>`:""}</div></a>
+    <div class="nlist">${rest.slice(0,59).map(i=>`<a class="story${cl(i)}" href="${esc(i.url)}" target="_blank" rel="noopener">${img(i,"th")}<span style="min-width:0"><b>${esc(i.title)}</b>${meta(i)}</span></a>`).join("")}</div></div>`;
+}
 function viewSignIn(){
   return `<div class="signin sheet"><h2>Join the league</h2>
     <p class="note">Sign in with Google to make your picks and see the rankings. Your picks are tied to your Google account.</p>
@@ -367,15 +420,16 @@ function viewAdmin(){
 function render(){
   tick();
   const signedIn=!!S.user;
-  $("#tabs").hidden=!signedIn;
   const who=$("#who");
   if(signedIn){ who.innerHTML=`${S.user.photoURL?`<img alt="" src="${esc(S.user.photoURL)}" referrerpolicy="no-referrer">`:""}<span>Signed in as ${esc(S.user.displayName||S.user.email)}</span> · <button class="link" type="button" id="signout">Sign out</button>`; $("#signout").onclick=()=>signOut(auth); }
+  else if(S.authReady){ who.innerHTML=`<span>Not signed in</span> · <button class="link" type="button" id="signinTop">Sign in to play</button>`; $("#signinTop").onclick=()=>{S.tab="picks";render();}; }
   else who.innerHTML="";
-  if(!S.authReady){ $("#view").innerHTML=`<div class="empty">Loading…</div>`; return; }
-  if(!signedIn){ $("#view").innerHTML=viewSignIn(); $("#signin").onclick=doSignIn; const cl=$("#copylink"); if(cl) cl.onclick=()=>copyLink(cl); return; }
   document.querySelectorAll("#tabs button").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===S.tab)));
   $("#adminTab").hidden=!S.isCommish;
-  const v={home:viewHome,picks:viewPicks,table:viewTable,rules:viewRules,admin:viewAdmin}[S.tab]||viewHome;
+  const open=S.tab==="news"||S.tab==="table"||S.tab==="rules";
+  if(!S.authReady&&!open){ $("#view").innerHTML=`<div class="empty">Loading…</div>`; return; }
+  if(!signedIn&&!open){ $("#view").innerHTML=viewSignIn(); $("#signin").onclick=doSignIn; const cl=$("#copylink"); if(cl) cl.onclick=()=>copyLink(cl); return; }
+  const v={news:viewNews,home:viewHome,picks:viewPicks,table:viewTable,rules:viewRules,admin:viewAdmin}[S.tab]||viewHome;
   const active=document.activeElement&&document.activeElement.id;
   $("#view").innerHTML=v();
   if(active){ const el=document.getElementById(active); if(el&&el.focus) el.focus({preventScroll:true}); }
@@ -407,6 +461,7 @@ async function copyLink(btn){
   catch(e){ const i=$("#linkText"); if(i){ i.hidden=false; i.select(); } btn.textContent="Copy the link above"; }
 }
 function wire(){
+  document.querySelectorAll("[data-nf]").forEach(b=>b.onclick=()=>{S.newsFilter=b.dataset.nf;render();});
   document.querySelectorAll("[data-open]").forEach(b=>b.onclick=()=>{S.open[b.dataset.open]=!S.open[b.dataset.open];render();});
   if(S.tab==="picks"&&S.draft){
     const d=S.draft;
@@ -478,8 +533,7 @@ function subscribe(){
 }
 function unsubscribeAll(){ S.unsubs.forEach(u=>u()); S.unsubs=[]; if(S.unsubAll){S.unsubAll();S.unsubAll=null;} }
 
-document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{S.tab=b.dataset.tab; try{localStorage.setItem("pb-tab",S.tab);}catch(e){} render();});
-try{const t=localStorage.getItem("pb-tab"); if(t&&t!=="admin") S.tab=t;}catch(e){}
+document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{S.tab=b.dataset.tab; render(); window.scrollTo({top:0});});
 
 onAuthStateChanged(auth,u=>{
   unsubscribeAll();
@@ -489,6 +543,7 @@ onAuthStateChanged(auth,u=>{
   render();
 });
 loadStandings(); setInterval(loadStandings,5*60*1000);
+loadNews(); setInterval(loadNews,10*60*1000);
 setInterval(tick,1000); render();
 </script>
 </body>
