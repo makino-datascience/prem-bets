@@ -1,23 +1,122 @@
 {
- "updatedAt": "2026-10-11T06:12:49+00:00",
+ "updatedAt": "2026-10-11T13:17:52+00:00",
  "items": [
   {
-   "title": "Carrick must share burden of Man Utd's underperformance with his players",
-   "summary": "\"We couldn't find a way to get ourselves into the game. With the ball, without the ball, we were off it.\" A fair assessment from Michael Carrick, if not a wholly explanatory one.",
-   "url": "https://www.skysports.com/football/news/11095/13597374/man-utd-1-1-spurs-michael-carrick-entering-a-defining-period-and-must-correct-underperformance-quickly",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261010222915",
+   "title": "Relief for O'Neill as Celtic beat Motherwell to go top",
+   "summary": "Celtic boss Martin O'Neill avoided a fourth consecutive defeat as his side returned to the top of the Scottish Premiership with a dominant win over Motherwell.",
+   "url": "https://www.skysports.com/football/motherwell-vs-celtic/report/558379",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-duran-celtic_7374053.jpg?20261011135608",
    "source": "Sky Sports",
-   "published": "2026-10-10T23:30:00+00:00",
+   "published": "2026-10-11T13:50:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Hull and Everton searching for opener LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-hull-city-everton_7368745.jpg?20261005121808",
+   "source": "Sky Sports",
+   "published": "2026-10-11T12:30:00+00:00",
    "epl": true
   },
   {
-   "title": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+   "title": "Ndoye gives Forest early lead at Palace LIVE!",
    "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326",
+   "url": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/live/559498",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-dan-ndoye-nottingham-forest_7374081.jpg?20261011141305",
    "source": "Sky Sports",
-   "published": "2026-10-10T22:30:00+00:00",
+   "published": "2026-10-11T12:25:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Watch Liverpool vs Man City for FREE: Live streams",
+   "summary": "Here's how to watch Liverpool vs Man City for FREE online from anywhere, with TV channels, broadcast details and kick-off times included.",
+   "url": "https://www.fourfourtwo.com/competition/watch-liverpool-vs-man-city-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/d2B8zBavUKxoN9WMt3c2mm-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T12:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Tony Adams on the managerial lessons learned from Jose Mourinho",
+   "summary": "The former Arsenal and England skipper moved to the dugout after hanging up his boots",
+   "url": "https://www.fourfourtwo.com/person/player/jose-mourinho-told-me-youve-been-a-footballer-for-25-years-youve-got-a-lot-of-catching-up-to-do-before-you-become-a-coach-tony-adams-on-the-managerial-lessons-learned-from-the-special-one",
+   "image": "https://cdn.mos.cms.futurecdn.net/gApFBCpS9RjZHUz5EJV5ib-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T12:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Hull City vs Everton FREE live streams: How to watch",
+   "summary": "Here's how to watch Hull City vs Everton for free online from anywhere as the Tigers attempt to maul the Toffees at the MKM Stadium.",
+   "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/SdRxQJZaPZQtyNRo84yvy8-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T10:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "How to watch Crystal Palace vs Nottingham Forest for FREE",
+   "summary": "Here's how to watch Crystal Palace vs Nottingham Forest for free online from anywhere today in the Premier League 2026/27.",
+   "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/DQiN2obZDdLGFxncgY4GZ7-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T10:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Michael Owen discusses the horses he trains at his Manor House stables and their famous owners",
+   "summary": "The former England striker works with a host of household names at his stables",
+   "url": "https://www.fourfourtwo.com/person/player/james-milner-is-the-luckiest-owner-every-horse-he-buys-turns-into-a-superstar-michael-owen-discusses-the-horses-he-trains-at-his-manor-house-stables-and-their-famous-owners",
+   "image": "https://cdn.mos.cms.futurecdn.net/DW7kqeUrfWn5mToNdzXPgH-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T10:00:00+00:00",
    "epl": false
+  },
+  {
+   "title": "Tonda Eckert’s Spygate 'punishment' could BOOST Southampton",
+   "summary": "Southampton have an extra edge in the Championship promotion battle after Tonda Eckert's Spygate 'punishment' - and that feels wrong",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/why-tonda-eckerts-pathetic-spygate-punishment-may-actually-boost-southamptons-promotion-bid",
+   "image": "https://cdn.mos.cms.futurecdn.net/oCmzMooHaeGRbC7RYvu3NC-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T09:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Watch Southampton vs Portsmouth for FREE: Live Streams",
+   "summary": "Here's how to watch Southampton vs Portsmouth for free from anywhere in the world in the first South Coast derby of the 2026/27 EFL Championship season.",
+   "url": "https://www.fourfourtwo.com/competition/watch-southampton-vs-portsmouth-efl-championship-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/UCveUfAh7pr2BM4J9FKVXR-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T08:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Dimitar Berbatov opens up on his career as a cult hero",
+   "summary": "With all the nonchalance of a rock star, Dimitar Berbatov was a cult figure during his career – he tells FFT how he became a style icon, via pig bladders and spaghetti westerns",
+   "url": "https://www.fourfourtwo.com/person/player/i-hope-i-entertained-people-i-know-i-did-to-be-honest-dimitar-berbatov-on-his-career-as-a-cult-hero",
+   "image": "https://cdn.mos.cms.futurecdn.net/vBLVbJkTD7v8Z22yNEhB9S-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T08:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Pre-Match Poser no.48: Can you answer this elite-level football quiz question?",
+   "summary": "If you're looking for a trivia question to spoil your day, you've found it",
+   "url": "https://www.fourfourtwo.com/quiz/pre-match-poser-no-48",
+   "image": "https://cdn.mos.cms.futurecdn.net/Rr4FAkmLhJpb6Co3X99f5N-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-10-11T07:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Carrick must share burden of Man Utd's failings with his players",
+   "summary": "\"We couldn't find a way to get ourselves into the game. With the ball, without the ball, we were off it.\" A fair assessment from Michael Carrick, if not a wholly explanatory one.",
+   "url": "https://www.skysports.com/football/news/11095/13597374/man-utd-1-1-spurs-michael-carrick-entering-a-defining-period-and-must-correct-underperformance-quickly",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261011111018",
+   "source": "Sky Sports",
+   "published": "2026-10-10T23:30:00+00:00",
+   "epl": true
   },
   {
    "title": "Spurs latest: De Zerbi 'kissed' Bentancur despite red card",
@@ -41,7 +140,7 @@
    "title": "Neville's Man Utd warning: 'Get a grip or face worrying few weeks'",
    "summary": "Gary Neville warned Manchester United could be in for a \"worrying few weeks\" if their players don't \"get a grip\" on their season after they were booed in their draw with Tottenham.",
    "url": "https://www.skysports.com/football/news/11661/13597587/gary-neville-warns-man-utd-players-to-get-a-grip-or-face-a-worrying-few-weeks-after-draw-with-10-man-spurs",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-harry-maguire-man-utd_7373648.jpg?20261010205053",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-harry-maguire-man-utd_7373648.jpg?20261011111104",
    "source": "Sky Sports",
    "published": "2026-10-10T20:21:00+00:00",
    "epl": true
@@ -92,15 +191,6 @@
    "epl": true
   },
   {
-   "title": "Bournemouth latest: 'I believe in the team' - Rose asked about growing pressure",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020",
-   "source": "Sky Sports",
-   "published": "2026-10-10T18:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Arsenal latest: Hincapie appears to suffer injury in warm-down after Leeds game",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -125,15 +215,6 @@
    "image": "https://e0.365dm.com/26/10/1920x1080/skysports-football-premier-league_7373302.jpg?20261010170118",
    "source": "Sky Sports",
    "published": "2026-10-10T17:13:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Aston Villa held to dramatic draw against high-flying Brentford",
-   "summary": "FREE TO WATCH: Highlights from Aston Villa’s match against Brentford in the Premier League.",
-   "url": "https://www.skysports.com/watch/video/13597412/aston-villa-2-2-brentford-premier-league-highlights",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-villa-brentford_7373325.jpg?20261010171229",
-   "source": "Sky Sports",
-   "published": "2026-10-10T17:12:00+00:00",
    "epl": true
   },
   {
@@ -218,13 +299,13 @@
    "epl": false
   },
   {
-   "title": "'We win major trophies here': Palmer signs new Chelsea contract",
-   "summary": "Cole Palmer has signed a contract extension with Chelsea.",
-   "url": "https://www.skysports.com/football/news/11095/13597179/cole-palmer-contract-chelsea-forward-signs-extension-at-stamford-bridge-until-2034",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cole-palmer-chelsea_7335712.jpg?20260830154029",
+   "title": "EFL highlights: Leaders Swansea win again; Burnley emphatically secure first victory",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13596980/west-brom-vs-birmingham-live-championship-match-updates-score-stream-and-free-highlights",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-swansea-adam-idah_7373288.jpg?20261010165825",
    "source": "Sky Sports",
-   "published": "2026-10-10T11:09:00+00:00",
-   "epl": true
+   "published": "2026-10-10T11:33:00+00:00",
+   "epl": false
   },
   {
    "title": "Watch Ipswich Town vs Fulham: Live Streams and TV Channels",
@@ -290,15 +371,6 @@
    "epl": false
   },
   {
-   "title": "FourFourTwo's Weekend Crossword 74: Bridesmaids, play-offs and viral memes",
-   "summary": "Show off your football puzzling skills with another crossword from FourFourTwo",
-   "url": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-74",
-   "image": "https://cdn.mos.cms.futurecdn.net/dBKzKr2vAVTu4nYFT3YPpb-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-10-10T06:00:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Viktor Gyokeres still shouldn't start for Arsenal - even with Kai Havertz injured",
    "summary": "Arsenal striker Kai Havertz picked up a knock during the international break - but Mikel Arteta shouldn't use Viktor Gyokeres as his replacement",
    "url": "https://www.fourfourtwo.com/team/viktor-gyokeres-still-shouldnt-start-for-arsenal-even-with-kai-havertz-injured",
@@ -306,6 +378,15 @@
    "source": "FourFourTwo",
    "published": "2026-10-10T06:00:00+00:00",
    "epl": true
+  },
+  {
+   "title": "FourFourTwo's Weekend Crossword 74: Bridesmaids, play-offs and viral memes",
+   "summary": "Show off your football puzzling skills with another crossword from FourFourTwo",
+   "url": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-74",
+   "image": "https://cdn.mos.cms.futurecdn.net/dBKzKr2vAVTu4nYFT3YPpb-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-10-10T06:00:00+00:00",
+   "epl": false
   },
   {
    "title": "Liverpool latest: Barcola reveals No 29 shirt was inspired by video game character",
@@ -341,24 +422,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/yruHmGfvb547gVY2nxFp8i-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-09T15:03:03+00:00",
-   "epl": true
-  },
-  {
-   "title": "Aston Villa latest: Goretzka returns to training but will not feature vs Bees",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-   "source": "Sky Sports",
-   "published": "2026-10-09T14:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Chelsea latest: Alonso on return of 'key player' Caicedo and James injury",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-   "source": "Sky Sports",
-   "published": "2026-10-09T14:22:00+00:00",
    "epl": true
   },
   {
@@ -611,60 +674,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/B95fC6Jyb4cGD6aQvQCdSj-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-07T15:18:44+00:00",
-   "epl": false
-  },
-  {
-   "title": "Manchester City to overrule Premier League verdict on one 'core argument': report",
-   "summary": "Manchester City have been found guilty of over 100 breaches of financial rules - but they could still escape major punishments",
-   "url": "https://www.fourfourtwo.com/team/manchester-city-to-overrule-premier-league-verdict-on-one-core-argument-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/52QZrGAjTLkPNBQ7egikvE-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-07T11:48:24+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal star Mikel Merino named as shock target for Real Madrid: report",
-   "summary": "Mikel Merino could leave Arsenal for Real Madrid, with the Spaniard linked with the 15-time European champions",
-   "url": "https://www.fourfourtwo.com/transfer/arsenal-star-mikel-merino-named-as-shock-target-for-real-madrid-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/cndq6mykBafYZpR89qrveJ-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-07T10:55:28+00:00",
-   "epl": true
-  },
-  {
-   "title": "Can't we play you ANY week? Football League teams your club has gone the LONGEST without playing",
-   "summary": "What's the longest your team has gone without playing a certain opponent?",
-   "url": "https://www.fourfourtwo.com/team/cant-we-play-you-any-week-football-league-teams-your-club-has-gone-the-longest-without-playing",
-   "image": "https://cdn.mos.cms.futurecdn.net/G29ARJQxGXY9mWGmTGxddc-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-07T10:44:02+00:00",
-   "epl": false
-  },
-  {
-   "title": "Kylian Mbappe in shock Liverpool talks, with move back ON: report",
-   "summary": "Liverpool could bring Kylian Mbappe to Anfield, with bombshell talks having already taken place",
-   "url": "https://www.fourfourtwo.com/transfer/kylian-mbappe-in-shock-liverpool-talks-with-move-back-on-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/jdzqtJbi6kNsYYHinwQxNh-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-07T10:35:52+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal working on concrete January move for Scandinavian superstar: report",
-   "summary": "Arsenal are hoping to strengthen midseason in a bid to retain the title",
-   "url": "https://www.fourfourtwo.com/transfer/arsenal-working-on-concrete-january-move-for-scandinavian-superstar-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/mjwAaD6ZCJub2nBPyuoNL5-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-07T10:05:27+00:00",
-   "epl": true
-  },
-  {
-   "title": "\"Trabzonspor tried to sign this Ukrainian lad...I don't think they'd understood what the tournament was\" England international and 'The Gaffer' comedian Josh Pugh explains partially-sighted football",
-   "summary": "Comedian Josh Pugh has made over 60 appearances for his country and has some tales to tell...just like his fictional counterpart",
-   "url": "https://www.fourfourtwo.com/person/trabzonspor-tried-to-sign-this-ukrainian-lad-i-dont-think-theyd-understood-what-the-tournament-was-england-international-and-the-gaffer-comedian-josh-pugh-explains-partially-sighted-football",
-   "image": "https://cdn.mos.cms.futurecdn.net/iB8JubL2rihiBw78LvcCcV-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-07T08:19:25+00:00",
    "epl": false
   }
  ]
