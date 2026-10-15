@@ -1,6 +1,42 @@
 {
- "updatedAt": "2026-10-15T01:41:40+00:00",
+ "updatedAt": "2026-10-15T07:06:52+00:00",
  "items": [
+  {
+   "title": "'Top two? Why not?' - Why Sangare turned down top clubs for Brentford",
+   "summary": "Mamadou Sangare could have been playing Champions League football this week. After all, the signs point to him being an elite-level player.",
+   "url": "https://www.skysports.com/football/news/11095/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
+   "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-mamadou-sangare_7351971.jpg?20260915093144",
+   "source": "Sky Sports",
+   "published": "2026-10-15T08:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Papers: Senior Man Utd players behind Martinez after outburst",
+   "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11095/13599465/manchester-united-latest-senior-players-backing-lisandro-martinez-over-hierarchy-outburst-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "source": "Sky Sports",
+   "published": "2026-10-15T07:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Barcelona gave Tyler, The Creator complete creative control for next El Clasico kit - and the result is stunning",
+   "summary": "Barcelona and Spotify have unveiled a bold El Clasico kit collaboration with Tyler, The Creator and the rapper's fashion brand GOLF WANG",
+   "url": "https://www.fourfourtwo.com/products-kit/barcelona-gave-tyler-the-creator-complete-creative-control-for-next-el-clasico-kit-and-the-result-is-stunning",
+   "image": "https://cdn.mos.cms.futurecdn.net/xZTVThX279tcAgktpXbtxE-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-15T07:05:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Man Utd latest: Wilcox retains support after Martinez outburst",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+   "source": "Sky Sports",
+   "published": "2026-10-15T07:00:00+00:00",
+   "epl": true
+  },
   {
    "title": "Martinez releases statement to clarify outburst - but does not apologise",
    "summary": "Manchester United defender Lisandro Martinez has clarified his outburst after Tuesday's Champions League loss at Atletico Madrid in a statement - but stopped short of an apology.",
@@ -11,15 +47,6 @@
    "epl": true
   },
   {
-   "title": "Vinicius Jr to miss El Clasico after hair pull red card",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-real-madrid-vinicius-junior_7375038.jpg?20261012124628",
-   "source": "Sky Sports",
-   "published": "2026-10-14T23:05:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Real Madrid produce incredible late comeback to beat Roma",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
@@ -27,15 +54,6 @@
    "source": "Sky Sports",
    "published": "2026-10-14T23:01:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Man Utd latest: Martinez releases statement a day after outburst",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-   "source": "Sky Sports",
-   "published": "2026-10-14T22:46:00+00:00",
-   "epl": true
   },
   {
    "title": "West Ham hit nine-man Lincoln for six",
@@ -54,6 +72,15 @@
    "source": "Sky Sports",
    "published": "2026-10-14T22:18:00+00:00",
    "epl": true
+  },
+  {
+   "title": "The key questions facing Infantino at crunch FIFA meeting",
+   "summary": "Gianni Infantino will face some of his political enemies, rivals, and harshest critics when the FIFA Council meets in Zurich on Thursday morning.",
+   "url": "https://www.skysports.com/football/news/11095/13599400/gianni-infantino-the-key-questions-facing-fifa-president-at-crunch-council-meeting",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-gianni-infantino_7375643.jpg?20261013084027",
+   "source": "Sky Sports",
+   "published": "2026-10-14T21:51:00+00:00",
+   "epl": false
   },
   {
    "title": "Man City beaten by PSG in thriller as Guardiola returns to Etihad",
@@ -87,24 +114,6 @@
    "summary": "QPR continued their impressive early-season form with a thumping 4-1 win at home to struggling Derby County.",
    "url": "https://www.skysports.com/football/queens-park-rangers-vs-derby-county/report/560617",
    "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harvey-vale-qpr-championship_7377183.jpg?20261014215348",
-   "source": "Sky Sports",
-   "published": "2026-10-14T21:30:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Portsmouth nick late win against 10-man Sheff Utd",
-   "summary": "Ebou Adams scored an 89th-minute winner as Portsmouth recovered after giving away a 2-0 lead to beat 10-man Sheffield United 3-2 at Fratton Park.",
-   "url": "https://www.skysports.com/football/portsmouth-vs-sheffield-united/report/560616",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-zak-swanson-portsmouth_7377185.jpg?20261014215514",
-   "source": "Sky Sports",
-   "published": "2026-10-14T21:30:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Southampton edge win at struggling Norwich",
-   "summary": "Southampton recorded their second hard-fought 1-0 win in the space of four days as they condemned hosts Norwich to a fourth successive Championship defeat.",
-   "url": "https://www.skysports.com/football/norwich-city-vs-southampton/report/560615",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kuryu-matsuki-jack-stephens_7377186.jpg?20261014215625",
    "source": "Sky Sports",
    "published": "2026-10-14T21:30:00+00:00",
    "epl": false
@@ -225,15 +234,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-14T11:41:21+00:00",
    "epl": true
-  },
-  {
-   "title": "EFL latest: Wolves suffer further Jimenez injury blow",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-   "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wolves-raul-jimenez_7354131.jpg?20260916232331",
-   "source": "Sky Sports",
-   "published": "2026-10-14T11:32:00+00:00",
-   "epl": false
   },
   {
    "title": "Saka struggling? He's more of a threat than ever",
@@ -695,19 +695,19 @@
    "epl": true
   },
   {
-   "title": "Tony Adams on the managerial lessons learned from Jose Mourinho",
-   "summary": "The former Arsenal and England skipper moved to the dugout after hanging up his boots",
-   "url": "https://www.fourfourtwo.com/person/player/jose-mourinho-told-me-youve-been-a-footballer-for-25-years-youve-got-a-lot-of-catching-up-to-do-before-you-become-a-coach-tony-adams-on-the-managerial-lessons-learned-from-the-special-one",
-   "image": "https://cdn.mos.cms.futurecdn.net/gApFBCpS9RjZHUz5EJV5ib-1920-80.jpg",
+   "title": "Watch Liverpool vs Man City for FREE: Live streams",
+   "summary": "Here's how to watch Liverpool vs Man City for FREE online from anywhere, with TV channels, broadcast details and kick-off times included.",
+   "url": "https://www.fourfourtwo.com/competition/watch-liverpool-vs-man-city-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/d2B8zBavUKxoN9WMt3c2mm-1920-80.png",
    "source": "FourFourTwo",
    "published": "2026-10-11T12:00:00+00:00",
    "epl": true
   },
   {
-   "title": "Watch Liverpool vs Man City for FREE: Live streams",
-   "summary": "Here's how to watch Liverpool vs Man City for FREE online from anywhere, with TV channels, broadcast details and kick-off times included.",
-   "url": "https://www.fourfourtwo.com/competition/watch-liverpool-vs-man-city-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/d2B8zBavUKxoN9WMt3c2mm-1920-80.png",
+   "title": "Tony Adams on the managerial lessons learned from Jose Mourinho",
+   "summary": "The former Arsenal and England skipper moved to the dugout after hanging up his boots",
+   "url": "https://www.fourfourtwo.com/person/player/jose-mourinho-told-me-youve-been-a-footballer-for-25-years-youve-got-a-lot-of-catching-up-to-do-before-you-become-a-coach-tony-adams-on-the-managerial-lessons-learned-from-the-special-one",
+   "image": "https://cdn.mos.cms.futurecdn.net/gApFBCpS9RjZHUz5EJV5ib-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-11T12:00:00+00:00",
    "epl": true
