@@ -1,11 +1,20 @@
 {
- "updatedAt": "2026-10-16T17:51:02+00:00",
+ "updatedAt": "2026-10-16T20:38:38+00:00",
  "items": [
   {
-   "title": "Burnley vs Wolves team news LIVE!",
+   "title": "As Hearts test looms is O'Neill right to be 'delighted' by Benfica defeat?",
+   "summary": "Martin O'Neill wants Celtic to take the positives from a 4-1 defeat to Benfica when they host Hearts on Sunday - live on Sky Sports.",
+   "url": "https://www.skysports.com/football/news/11095/13599884/martin-oneill-as-hearts-test-awaits-is-celtic-manager-right-to-be-delighted-despite-benfica-defeat",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-celtic-oneill_7378522.jpg?20261016200842",
+   "source": "Sky Sports",
+   "published": "2026-10-16T20:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Chirewa puts Wolves in front seconds after introduction LIVE!",
    "summary": "",
    "url": "https://www.skysports.com/football/burnley-vs-wolverhampton-wanderers/live/560620",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-efl-championship_7375076.jpg?20261012133441",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-jamie-vardy-boxing_7378575.jpg?20261016212129",
    "source": "Sky Sports",
    "published": "2026-10-16T18:30:00+00:00",
    "epl": false
@@ -18,15 +27,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-16T17:30:48+00:00",
    "epl": true
-  },
-  {
-   "title": "EFL latest: Vardy on Burnley move, Leicester links - and whether this is his final season",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-efl-championship_7376690.jpg?20261014114147",
-   "source": "Sky Sports",
-   "published": "2026-10-16T17:08:00+00:00",
-   "epl": false
   },
   {
    "title": "Transfer Centre LIVE! 'Bellingham agrees new five-year deal at Real Madrid'",
@@ -434,15 +434,6 @@
    "epl": false
   },
   {
-   "title": "How to watch Aston Villa vs Fenerbahce: Live Streams",
-   "summary": "Here's how to watch Aston Villa vs Fenerbahce online from anywhere as Unai Emery turns to Europe for relief once more.",
-   "url": "https://www.fourfourtwo.com/competition/watch-aston-villa-vs-fenerbahce-champions-league-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/jsMpCaywAEha4cGmjHJL6H-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-14T16:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Watch Roma vs Real Madrid: FREE Streams and TV Channels",
    "summary": "Here's how to watch Roma vs Real Madrid for free from anywhere as Jose Mourinho takes on his former club in the Champions League 2026/27.",
    "url": "https://www.fourfourtwo.com/competition/watch-roma-vs-real-madrid-champions-league-2026-27-free",
@@ -450,6 +441,15 @@
    "source": "FourFourTwo",
    "published": "2026-10-14T16:00:00+00:00",
    "epl": false
+  },
+  {
+   "title": "How to watch Aston Villa vs Fenerbahce: Live Streams",
+   "summary": "Here's how to watch Aston Villa vs Fenerbahce online from anywhere as Unai Emery turns to Europe for relief once more.",
+   "url": "https://www.fourfourtwo.com/competition/watch-aston-villa-vs-fenerbahce-champions-league-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/jsMpCaywAEha4cGmjHJL6H-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-14T16:00:00+00:00",
+   "epl": true
   },
   {
    "title": "Watch Manchester City vs PSG: FREE Streams and TV Channels",
