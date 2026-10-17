@@ -1,6 +1,15 @@
 {
- "updatedAt": "2026-10-17T22:00:07+00:00",
+ "updatedAt": "2026-10-17T23:57:39+00:00",
  "items": [
+  {
+   "title": "Papers: Gyokeres keen to leave Arsenal",
+   "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11661/13600491/viktor-gyokeres-keen-to-leave-arsenal-due-to-lack-of-first-team-opportunites-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "source": "Sky Sports",
+   "published": "2026-10-17T22:50:00+00:00",
+   "epl": true
+  },
   {
    "title": "Rangers miss chance to go top as Jones earns Dundee a point",
    "summary": "Callum Jones scored a second-half equaliser as Rangers were held to a 2-2 draw by Dundee and missed the chance to go top of the Scottish Premiership.",
@@ -152,15 +161,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/SdBLU3BNZ6M6aboXrqSXaM-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-17T15:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal booed after Birmingham draw as pressure builds on Slegers",
-   "summary": "Pressure continued to mount on Renee Slegers as Arsenal were booed off the pitch following their 1-1 draw with Birmingham at the Emirates.",
-   "url": "https://www.skysports.com/football/arsenal-women-vs-birmingham-city-women/report/575791",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-renee-slegers_7378927.jpg?20261017144835",
-   "source": "Sky Sports",
-   "published": "2026-10-17T14:45:00+00:00",
    "epl": true
   },
   {
@@ -341,15 +341,6 @@
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
    "source": "Sky Sports",
    "published": "2026-10-16T14:19:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "'I'm telling you the truth' - Carrick insists Martinez situation resolved",
-   "summary": "Manchester United boss Michael Carrick insists he is telling the truth when he says the club have moved on from Lisandro Martinez's post-match outburst earlier this week.",
-   "url": "https://www.skysports.com/football/news/11661/13599948/lisandro-martinez-man-utd-defender-in-squad-for-leeds-trip-and-situation-resolved-after-criticism-of-hierarchy-insists-michael-carrick",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lisandro-martinez_7376571.jpg?20261014092822",
-   "source": "Sky Sports",
-   "published": "2026-10-16T13:33:00+00:00",
    "epl": true
   },
   {
@@ -569,15 +560,6 @@
    "epl": false
   },
   {
-   "title": "How to watch Aston Villa vs Fenerbahce: Live Streams",
-   "summary": "Here's how to watch Aston Villa vs Fenerbahce online from anywhere as Unai Emery turns to Europe for relief once more.",
-   "url": "https://www.fourfourtwo.com/competition/watch-aston-villa-vs-fenerbahce-champions-league-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/jsMpCaywAEha4cGmjHJL6H-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-14T16:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Watch Roma vs Real Madrid: FREE Streams and TV Channels",
    "summary": "Here's how to watch Roma vs Real Madrid for free from anywhere as Jose Mourinho takes on his former club in the Champions League 2026/27.",
    "url": "https://www.fourfourtwo.com/competition/watch-roma-vs-real-madrid-champions-league-2026-27-free",
@@ -585,6 +567,15 @@
    "source": "FourFourTwo",
    "published": "2026-10-14T16:00:00+00:00",
    "epl": false
+  },
+  {
+   "title": "How to watch Aston Villa vs Fenerbahce: Live Streams",
+   "summary": "Here's how to watch Aston Villa vs Fenerbahce online from anywhere as Unai Emery turns to Europe for relief once more.",
+   "url": "https://www.fourfourtwo.com/competition/watch-aston-villa-vs-fenerbahce-champions-league-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/jsMpCaywAEha4cGmjHJL6H-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-14T16:00:00+00:00",
+   "epl": true
   },
   {
    "title": "Watch Manchester City vs PSG: FREE Streams and TV Channels",
