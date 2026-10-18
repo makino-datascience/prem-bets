@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T16:43:37+00:00",
+ "updatedAt": "2026-10-18T19:17:19+00:00",
  "cardsUpdatedAt": "2026-10-18T04:17:11+00:00",
  "season": "2026",
  "teams": [
@@ -20,6 +20,22 @@
    "rc": 1
   },
   {
+   "name": "Arsenal FC",
+   "shortName": "Arsenal",
+   "tla": "ARS",
+   "crest": "https://crests.football-data.org/57.png",
+   "p": 7,
+   "w": 6,
+   "d": 0,
+   "l": 1,
+   "gf": 11,
+   "ga": 5,
+   "gd": 6,
+   "pts": 18,
+   "yc": 8,
+   "rc": 0
+  },
+  {
    "name": "Brighton & Hove Albion FC",
    "shortName": "Brighton Hove",
    "tla": "BHA",
@@ -34,22 +50,6 @@
    "pts": 16,
    "yc": 13,
    "rc": 1
-  },
-  {
-   "name": "Arsenal FC",
-   "shortName": "Arsenal",
-   "tla": "ARS",
-   "crest": "https://crests.football-data.org/57.png",
-   "p": 7,
-   "w": 5,
-   "d": 1,
-   "l": 1,
-   "gf": 10,
-   "ga": 5,
-   "gd": 5,
-   "pts": 16,
-   "yc": 8,
-   "rc": 0
   },
   {
    "name": "Chelsea FC",
@@ -228,22 +228,6 @@
    "rc": 1
   },
   {
-   "name": "Nottingham Forest FC",
-   "shortName": "Nottingham",
-   "tla": "NOT",
-   "crest": "https://crests.football-data.org/351.png",
-   "p": 7,
-   "w": 1,
-   "d": 3,
-   "l": 3,
-   "gf": 5,
-   "ga": 8,
-   "gd": -3,
-   "pts": 6,
-   "yc": 15,
-   "rc": 0
-  },
-  {
    "name": "AFC Bournemouth",
    "shortName": "Bournemouth",
    "tla": "BOU",
@@ -289,6 +273,22 @@
    "gd": -3,
    "pts": 5,
    "yc": 12,
+   "rc": 0
+  },
+  {
+   "name": "Nottingham Forest FC",
+   "shortName": "Nottingham",
+   "tla": "NOT",
+   "crest": "https://crests.football-data.org/351.png",
+   "p": 7,
+   "w": 1,
+   "d": 2,
+   "l": 4,
+   "gf": 5,
+   "ga": 9,
+   "gd": -4,
+   "pts": 5,
+   "yc": 15,
    "rc": 0
   },
   {
