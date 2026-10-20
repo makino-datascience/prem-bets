@@ -1,8 +1,17 @@
 {
- "updatedAt": "2026-10-19T21:40:31+00:00",
+ "updatedAt": "2026-10-20T00:56:45+00:00",
  "items": [
   {
-   "title": "Coventry latest: Carragher critical of Rushworth for Marmoush goal",
+   "title": "Spurs latest: 'I did it for the fans,' says De Zerbi on Kulusevski sub",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+   "source": "Sky Sports",
+   "published": "2026-10-19T22:58:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Coventry latest: Lampard thought VAR would disallow Marmoush goal",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
    "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142",
@@ -17,15 +26,6 @@
    "image": "https://e1.365dm.com/26/10/1920x1080/skysports-james-maddison-goal_7381102.jpg?20261019203006",
    "source": "Sky Sports",
    "published": "2026-10-19T22:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Spurs latest: De Zerbi explains Udogie absence vs Coventry",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-10-19T19:43:00+00:00",
    "epl": true
   },
   {
@@ -389,19 +389,19 @@
    "epl": true
   },
   {
-   "title": "Watch Brighton vs Crystal Palace: Live streams and TV channels",
-   "summary": "Here's how to watch Brighton vs Crystal Palace from anywhere in the world, as the rivals contest the first M23 derby of the Premier League season.",
-   "url": "https://www.fourfourtwo.com/competition/watch-brighton-vs-crystal-palace-premier-league-2026-27",
-   "image": "https://cdn.mos.cms.futurecdn.net/oCGqmaZqqADdh9m2gy6tCG-1920-80.jpg",
+   "title": "How to watch Leeds United vs Manchester United: Live streams",
+   "summary": "Here's how to watch Leeds United vs Manchester United in the Premier League for free from anywhere in the world, as a huge rivalry resumes at Elland Road.",
+   "url": "https://www.fourfourtwo.com/competition/watch-leeds-united-vs-manchester-united-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/fFk6s46wKbrBW5jnpKUGVG-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-18T10:00:00+00:00",
    "epl": true
   },
   {
-   "title": "How to watch Leeds United vs Manchester United: Live streams",
-   "summary": "Here's how to watch Leeds United vs Manchester United in the Premier League for free from anywhere in the world, as a huge rivalry resumes at Elland Road.",
-   "url": "https://www.fourfourtwo.com/competition/watch-leeds-united-vs-manchester-united-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/fFk6s46wKbrBW5jnpKUGVG-1920-80.jpg",
+   "title": "Watch Brighton vs Crystal Palace: Live streams and TV channels",
+   "summary": "Here's how to watch Brighton vs Crystal Palace from anywhere in the world, as the rivals contest the first M23 derby of the Premier League season.",
+   "url": "https://www.fourfourtwo.com/competition/watch-brighton-vs-crystal-palace-premier-league-2026-27",
+   "image": "https://cdn.mos.cms.futurecdn.net/oCGqmaZqqADdh9m2gy6tCG-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-18T10:00:00+00:00",
    "epl": true
