@@ -1,56 +1,92 @@
 {
- "updatedAt": "2026-10-20T19:53:26+00:00",
+ "updatedAt": "2026-10-20T23:00:03+00:00",
  "items": [
   {
-   "title": "PSG strike first against Barcelona LIVE!",
+   "title": "Spurs latest: How magic man Markanday made Tottenham Hotspur history",
    "summary": "",
-   "url": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/live/577638",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-psg-barcelona_7382127.jpg?20261020201110",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
    "source": "Sky Sports",
-   "published": "2026-10-20T19:15:00+00:00",
+   "published": "2026-10-20T23:45:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "McTominay scores twice as Napoli win thriller against Bodo Glimt",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-napoli-mctominay_7382354.jpg?20261020230758",
+   "source": "Sky Sports",
+   "published": "2026-10-20T23:07:00+00:00",
    "epl": false
   },
   {
-   "title": "Wolves labouring against Portsmouth LIVE on Sky!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-portsmouth/live/560565",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-portsm-portsmouth_7382115.jpg?20261020195843",
+   "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
+   "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11661/13601643/man-utd-eye-moves-for-lewis-hall-and-adrien-truffert-while-lisandro-martinez-faces-axe-in-summer-defensive-overhaul-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
    "source": "Sky Sports",
-   "published": "2026-10-20T19:15:00+00:00",
-   "epl": false
+   "published": "2026-10-20T22:30:00+00:00",
+   "epl": true
   },
   {
-   "title": "Liverpool latest: Iraola explains why he benched Isak, Wirtz and Barcola",
+   "title": "Man City latest: Haaland fit to play Aston Villa, says Maresca",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+   "source": "Sky Sports",
+   "published": "2026-10-20T22:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Liverpool latest: How Ngumoha lit up Anfield",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
    "source": "Sky Sports",
-   "published": "2026-10-20T19:09:00+00:00",
+   "published": "2026-10-20T22:00:00+00:00",
    "epl": true
+  },
+  {
+   "title": "Ngumoha stars as Liverpool come back to win thriller against Villarreal",
+   "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season’s Champions League.",
+   "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-rio-ngumoha-alexis-mac-allister_7382245.jpg?20261020220125",
+   "source": "Sky Sports",
+   "published": "2026-10-20T22:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Hat-trick hero Foden shines as Man City thrash AEK Athens",
+   "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
+   "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-phil-foden-man-city_7382171.jpg?20261020205622",
+   "source": "Sky Sports",
+   "published": "2026-10-20T22:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Barcelona handed first defeat of season by PSG in classic",
+   "summary": "Barcelona were handed their first defeat of the season as they lost 4-2 to Paris Saint-Germain in a Champions League classic.",
+   "url": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/report/577638",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-vitinha-psg_7382255.jpg?20261020220851",
+   "source": "Sky Sports",
+   "published": "2026-10-20T22:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Portsmouth strike late to frustrate Wolves",
+   "summary": "Terry Devlin denied Wolves victory just as the hosts' inspired substitutions again looked to prove decisive as Portsmouth drew 1-1 at Molineux in the Championship.",
+   "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-portsmouth/report/560565",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-wolves-portsmouth_7382213.jpg?20261020214259",
+   "source": "Sky Sports",
+   "published": "2026-10-20T21:30:00+00:00",
+   "epl": false
   },
   {
    "title": "Man Utd latest: 'Erik’s opinion' - Carrick responds to Ten Hag and backs board relationship",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-   "source": "Sky Sports",
-   "published": "2026-10-20T18:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Liverpool come from two down to level it against Villarreal LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/liverpool-vs-villarreal/live/577635",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-villarreal-georges-mikautadze_7382131.jpg?20261020201436",
-   "source": "Sky Sports",
-   "published": "2026-10-20T18:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Man City cruising as Foden doubles lead over AEK Athens LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/live/577636",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-elliot-anderson-manchester-city_7382144.jpg?20261020202626",
    "source": "Sky Sports",
    "published": "2026-10-20T18:30:00+00:00",
    "epl": true
@@ -87,15 +123,6 @@
    "summary": "Referees' chief Howard Webb believes there was nothing \"clearly wrong\" with the decision not to send off Newcastle defender Sven Botman for his tackle on Aston Villa striker Nicolas Jackson.",
    "url": "https://www.skysports.com/football/news/11661/13601311/sven-botman-tackle-howard-webb-says-nothing-clearly-wrong-with-var-decision-to-not-send-newcastle-defender-off",
    "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-newcastle_7379247.jpg?20261017175335",
-   "source": "Sky Sports",
-   "published": "2026-10-20T17:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Spurs latest: Webb gives verdict on Bentancur red and Shaw yellow",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
    "source": "Sky Sports",
    "published": "2026-10-20T17:00:00+00:00",
    "epl": true
@@ -236,10 +263,10 @@
    "epl": false
   },
   {
-   "title": "'I could've gone abroad but wanted to test myself at Wolves' - Trippier",
+   "title": "EFL round-up: Stockport top of L1 as Leicester win; Salford extend L2 lead",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-   "image": "https://e1.365dm.com/26/06/1920x1080/skysports-trippier-kieran-wolves_7271277.png?20260611234222",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-leicester-city_7382221.jpg?20261020214527",
    "source": "Sky Sports",
    "published": "2026-10-20T08:55:00+00:00",
    "epl": false
@@ -443,15 +470,6 @@
    "epl": false
   },
   {
-   "title": "Man City latest: Maresca reveals Semenyo out for up to eight weeks",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-   "source": "Sky Sports",
-   "published": "2026-10-19T12:18:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Liverpool’s pursuit of Alex Scott intensifies after comeback Brentford win: report",
    "summary": "The Reds could soon see Alex Scott rejoin Andoni Iraola",
    "url": "https://www.fourfourtwo.com/transfer/liverpools-pursuit-of-alex-scott-intensifies-after-comeback-brentford-win-report",
@@ -639,15 +657,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-18T09:00:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Chelsea latest: Martinez has surgery on fractured jaw",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
-   "source": "Sky Sports",
-   "published": "2026-10-18T08:00:00+00:00",
-   "epl": true
   },
   {
    "title": "The story of Alfie Conn, Tottenham’s rock ’n’ roll cult hero who crossed the Rangers-Celtic divide",
