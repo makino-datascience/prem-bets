@@ -1,20 +1,56 @@
 {
- "updatedAt": "2026-10-23T17:45:52+00:00",
+ "updatedAt": "2026-10-23T21:07:49+00:00",
  "items": [
   {
-   "title": "Bolton vs Middlesbrough team news LIVE!",
+   "title": "'It's WILD!' - Diop sees yellow for challenge on McAtee, but should he have seen red?",
+   "summary": "Should Issa Diop have seen red for his challenge on James McAtee that he only got a yellow card for?",
+   "url": "https://www.skysports.com/watch/video/13602875/booked-i-diop-51-ipswich-1-1-nottm-forest",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-ipswich_7385071.jpg?20261023212419",
+   "source": "Sky Sports",
+   "published": "2026-10-23T21:21:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Enciso capitalises on Milenkovic error to level for Ipswich",
+   "summary": "Julio Enciso capitalises on poor Nikola Milenkovic back-pass to get Ipswich Town level against Nottingham Forest.",
+   "url": "https://www.skysports.com/watch/video/13602860/goal-j-enciso-41-ipswich-1-1-nottm-forest",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-ipswich_7385041.jpg?20261023205435",
+   "source": "Sky Sports",
+   "published": "2026-10-23T20:47:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Williams volleys Forest in front at Ipswich!",
+   "summary": "Neco Williams volleys Nottingham Forest in front at Ipswich Town.",
+   "url": "https://www.skysports.com/watch/video/13602847/goal-n-williams-13-ipswich-0-0-nottm-forest",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-ipswich_7385053.jpg?20261023210640",
+   "source": "Sky Sports",
+   "published": "2026-10-23T20:20:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "When Carra met Chelsea boss Alonso",
+   "summary": "Sky Sports' Jamie Carragher sat down for a wide-ranging interview with Chelsea manager Xabi Alonso in which the pair discussed his appointment at Stamford Bridge and his aims for the season, as well as looking back at…",
+   "url": "https://www.skysports.com/football/news/11661/13602758/xabi-alonso-chelsea-manager-sits-down-with-former-liverpool-team-mate-jamie-carragher-for-new-boss-youtube-series",
+   "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
+   "source": "Sky Sports",
+   "published": "2026-10-23T18:50:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Middlesbrough secure crushing win at Bolton LIVE!",
    "summary": "",
    "url": "https://www.skysports.com/football/bolton-wanderers-vs-middlesbrough/live/560631",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bolton-middlesbrough_7380871.jpg?20261019161602",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-middlesbrough-aidan-morris_7384992.jpg?20261023202214",
    "source": "Sky Sports",
    "published": "2026-10-23T18:28:00+00:00",
    "epl": false
   },
   {
-   "title": "FNF: Ipswich vs N Forest team news LIVE!",
+   "title": "Ipswich hold Forest but should Diop have seen red? LIVE!",
    "summary": "",
    "url": "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/live/559520",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ipswich-town-nottingham-forest_7380875.jpg?20261019161746",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-issa-diop-james-mcatee_7385062.jpg?20261023212045",
    "source": "Sky Sports",
    "published": "2026-10-23T18:00:00+00:00",
    "epl": true
@@ -209,15 +245,6 @@
    "epl": true
   },
   {
-   "title": "Reporter Notebook: No panic stations at Sunderland despite tough start",
-   "summary": "It's certainly been a different start to the season for Sunderland compared to last year, when they flew out of the traps on their Premier League return and went months without a home league defeat.",
-   "url": "https://www.skysports.com/football/news/11661/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-reporter-notebook_7383785.jpg?20261022152751",
-   "source": "Sky Sports",
-   "published": "2026-10-23T08:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "“I want to sit down with Neil Armstrong and get to the bottom of these moon landings – I’m not convinced it really happened!” Joe Cole wants to put the famous conspiracy theory to bed once and for all",
    "summary": "Joe Cole thinks he could be swayed, but as it stands, he's not totally convinced humans walked on the moon in 1969",
    "url": "https://www.fourfourtwo.com/person/i-want-to-sit-down-with-neil-armstrong-and-get-to-the-bottom-of-these-moon-landings-im-not-convinced-it-really-happened-joe-cole-wants-to-put-the-famous-conspiracy-theory-to-bed-once-and-for-all",
@@ -254,7 +281,7 @@
    "epl": false
   },
   {
-   "title": "PL Predictions: Delap's Ipswich reunion to get feisty",
+   "title": "PL Predictions: Expect a feisty SNF affair at the Bridge",
    "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
    "url": "https://www.skysports.com/football/news/11661/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
    "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933",
@@ -593,15 +620,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/UhKLEtCRW2Rb9FeTFuB9kk-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-21T10:22:38+00:00",
-   "epl": true
-  },
-  {
-   "title": "What's happened to Igor Thiago?",
-   "summary": "Igor Thiago's first season as a Premier League player, in 2024/25, was heavily disrupted by knee injuries - and he more than made up for lost time the following season.",
-   "url": "https://www.skysports.com/football/news/11095/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-igor-thiago-brentford_7381579.jpg?20261020122340",
-   "source": "Sky Sports",
-   "published": "2026-10-21T10:00:00+00:00",
    "epl": true
   },
   {
