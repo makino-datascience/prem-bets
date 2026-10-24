@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T16:49:42+00:00",
+ "updatedAt": "2026-10-24T19:18:01+00:00",
  "cardsUpdatedAt": "2026-10-24T16:49:42+00:00",
  "season": "2026",
  "teams": [
@@ -58,12 +58,12 @@
    "crest": "https://crests.football-data.org/61.png",
    "p": 8,
    "w": 4,
-   "d": 2,
-   "l": 2,
+   "d": 1,
+   "l": 3,
    "gf": 17,
-   "ga": 13,
-   "gd": 4,
-   "pts": 14,
+   "ga": 15,
+   "gd": 2,
+   "pts": 13,
    "yc": 13,
    "rc": 0
   },
@@ -180,6 +180,22 @@
    "rc": 0
   },
   {
+   "name": "Tottenham Hotspur FC",
+   "shortName": "Tottenham",
+   "tla": "TOT",
+   "crest": "https://crests.football-data.org/73.png",
+   "p": 8,
+   "w": 2,
+   "d": 3,
+   "l": 3,
+   "gf": 8,
+   "ga": 10,
+   "gd": -2,
+   "pts": 9,
+   "yc": 9,
+   "rc": 1
+  },
+  {
    "name": "Fulham FC",
    "shortName": "Fulham",
    "tla": "FUL",
@@ -226,22 +242,6 @@
    "pts": 7,
    "yc": 12,
    "rc": 0
-  },
-  {
-   "name": "Tottenham Hotspur FC",
-   "shortName": "Tottenham",
-   "tla": "TOT",
-   "crest": "https://crests.football-data.org/73.png",
-   "p": 8,
-   "w": 1,
-   "d": 4,
-   "l": 3,
-   "gf": 6,
-   "ga": 10,
-   "gd": -4,
-   "pts": 7,
-   "yc": 9,
-   "rc": 1
   },
   {
    "name": "Crystal Palace FC",
