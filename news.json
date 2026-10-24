@@ -1,13 +1,58 @@
 {
- "updatedAt": "2026-10-23T23:55:29+00:00",
+ "updatedAt": "2026-10-24T08:44:13+00:00",
  "items": [
   {
-   "title": "Did Diop deny a clear goalscoring opportunity?",
-   "summary": "Ashley Young and Steve Cooper discuss whether or not Issa Diop denied James McAtee a clear goalscoring opportunity.",
-   "url": "https://www.skysports.com/watch/video/13602919/did-issa-diop-deny-james-mcatee-a-clear-goalscoring-opportunity",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ashley-young-var_7385179.jpg?20261023230423",
+   "title": "Lammens: We're united and behind Carrick",
+   "summary": "It has been another eventful week at Manchester United.",
+   "url": "https://www.skysports.com/football/news/11661/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lammens-man-utd_7385044.jpg?20261023210040",
    "source": "Sky Sports",
-   "published": "2026-10-23T22:56:00+00:00",
+   "published": "2026-10-24T09:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Ronaldinho to return - 11 years after his last game",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-ronaldinho-ravenna_7385319.jpg?20261024085432",
+   "source": "Sky Sports",
+   "published": "2026-10-24T08:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "The 27 best football podcasts you need to listen to - from dressing room secrets to the game's funniest stories",
+   "summary": "Current FourFourTwo magazine cover stars, Stick To Football, aside, we assess the finest shows around – our staff even have personal recommendations…",
+   "url": "https://www.fourfourtwo.com/competition/the-27-best-football-podcasts-you-need-to-listen-to-from-dressing-room-secrets-to-the-games-funniest-stories",
+   "image": "https://cdn.mos.cms.futurecdn.net/the-27-best-football-podcasts-z54DhRkHPxxzvaSJjdnE9D-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-24T08:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "How to watch Tottenham Hotspur vs Arsenal: Free streams and TV channels for WSL North London derby",
+   "summary": "Here's how to watch Spurs vs Arsenal in the WSL online and from anywhere in the world.",
+   "url": "https://www.fourfourtwo.com/competition/watch-tottenham-hotspur-vs-arsenal-wsl-north-london-derby-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/Pr4WLbkCT3bDNeZtjotvJd-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-24T08:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Charalampos Kostoulas is the best young player in the Premier League",
+   "summary": "Forget Kobbie Mainoo and Myles Lewis-Skelly, the Brighton forward is the best of the division’s youthful bunch",
+   "url": "https://www.fourfourtwo.com/person/player/charalampos-kostoulas-is-the-best-young-player-in-the-premier-league",
+   "image": "https://cdn.mos.cms.futurecdn.net/nEFwU6JFePMP5wYUyQXDKf-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-24T06:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "FourFourTwo's Weekend Crossword 76: Journeymen, Wembley and absolute screamers",
+   "summary": "Solve these interlocking football trivia clues before the clocks go back",
+   "url": "https://www.fourfourtwo.com/quiz/fourfourtwos-weekend-crossword-76",
+   "image": "https://cdn.mos.cms.futurecdn.net/rcR5vuXCA5GHfuPsd6Dxoj-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-10-24T06:00:00+00:00",
    "epl": false
   },
   {
@@ -74,21 +119,21 @@
    "epl": true
   },
   {
-   "title": "Kompany taken to hospital after collapsing at Bayern's training ground",
-   "summary": "Vincent Kompany was taken to hospital after collapsing at Bayern Munich's training ground on Friday.",
-   "url": "https://www.skysports.com/football/news/11095/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-vincent-kompany_7384819.jpg?20261023173822",
-   "source": "Sky Sports",
-   "published": "2026-10-23T16:57:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Hull City latest: Jakirovic wants team to bounce back from Fulham disappointment",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339",
    "source": "Sky Sports",
    "published": "2026-10-23T16:15:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "WSL latest: Slegers focused on Spurs test rather than her Arsenal future",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+   "image": "https://e0.365dm.com/26/09/1920x1080/skysports-renee-slegers_7365306.jpg?20261023170227",
+   "source": "Sky Sports",
+   "published": "2026-10-23T16:00:00+00:00",
    "epl": true
   },
   {
@@ -236,15 +281,6 @@
    "epl": true
   },
   {
-   "title": "Jaissle needs some wins to quieten down the noise at Newcastle",
-   "summary": "In his latest Reporter Notebook, Sky Sports News' Keith Downie looks into what is going wrong at Newcastle United.",
-   "url": "https://www.skysports.com/football/news/11661/13602481/newcastle-united-reporter-notebook-matthias-jaissle-needs-some-wins-to-quieten-down-the-noise-on-tyneside",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-reporter-notebook_7384483.jpg?20261023111940",
-   "source": "Sky Sports",
-   "published": "2026-10-23T08:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "“I want to sit down with Neil Armstrong and get to the bottom of these moon landings – I’m not convinced it really happened!” Joe Cole wants to put the famous conspiracy theory to bed once and for all",
    "summary": "Joe Cole thinks he could be swayed, but as it stands, he's not totally convinced humans walked on the moon in 1969",
    "url": "https://www.fourfourtwo.com/person/i-want-to-sit-down-with-neil-armstrong-and-get-to-the-bottom-of-these-moon-landings-im-not-convinced-it-really-happened-joe-cole-wants-to-put-the-famous-conspiracy-theory-to-bed-once-and-for-all",
@@ -326,6 +362,15 @@
    "epl": true
   },
   {
+   "title": "Cesc Fabregas explains why Como invoked the mercy rule against Manchester United",
+   "summary": "Man United were humiliated in the league phase of the Champions League and the Como boss says it could have been even worse",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/cesc-fabregas-explains-why-como-invoked-the-mercy-rule-against-manchester-united",
+   "image": "https://cdn.mos.cms.futurecdn.net/jX7wqgoqAmwUZM3QFPFD6C-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-22T17:00:00+00:00",
+   "epl": true
+  },
+  {
    "title": "How to watch Celtic vs Celta Vigo for FREE: Live Streams",
    "summary": "Here's how to watch Celtic vs Celta Vigo for free online from anywhere, as The Bhoys eye their first points in the league phase of the Europa League.",
    "url": "https://www.fourfourtwo.com/competition/watch-celtic-vs-celta-vigo-europa-league-2026-27-free",
@@ -335,13 +380,13 @@
    "epl": false
   },
   {
-   "title": "Cesc Fabregas explains why Como invoked the mercy rule against Manchester United",
-   "summary": "Man United were humiliated in the league phase of the Champions League and the Como boss says it could have been even worse",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/cesc-fabregas-explains-why-como-invoked-the-mercy-rule-against-manchester-united",
-   "image": "https://cdn.mos.cms.futurecdn.net/jX7wqgoqAmwUZM3QFPFD6C-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-22T17:00:00+00:00",
-   "epl": true
+   "title": "How Grant is using his experience in Charlton homecoming",
+   "summary": "\"It's nice to be home,\" is Karlan Grant's reply when asked how the last few months have been sign he re-joined Charlton in the summer.",
+   "url": "https://www.skysports.com/football/news/11095/13601852/karlan-grant-charlton-forward-on-returning-to-the-club-and-facing-norwich-on-red-white-and-black-weekend",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-efl-championship_7381476.jpg?20261020105052",
+   "source": "Sky Sports",
+   "published": "2026-10-22T16:35:00+00:00",
+   "epl": false
   },
   {
    "title": "How to watch Bournemouth vs AC Milan: Live Streams",
@@ -413,6 +458,15 @@
    "image": "https://cdn.mos.cms.futurecdn.net/Rtk9Jw8JRmFWPXFAveixZR-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-22T12:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man City latest: Maresca confirms Haaland return vs Villa",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+   "source": "Sky Sports",
+   "published": "2026-10-22T11:15:00+00:00",
    "epl": true
   },
   {
@@ -629,42 +683,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/fd9G3URTJojDuNzp2xzBjP-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-21T09:29:49+00:00",
-   "epl": true
-  },
-  {
-   "title": "'We are open to opinions' Mikel Arteta addresses Bukayo Saka 'cheat' comments",
-   "summary": "The Arsenal manager responded in a pre-match press conference for his side’s upcoming Bayern Munich clash",
-   "url": "https://www.fourfourtwo.com/team/mikel-arteta-classily-responds-to-bukayo-saka-cheat-comments-from-graeme-souness",
-   "image": "https://cdn.mos.cms.futurecdn.net/43fLCtmKhgh74tJsbC9vjT-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-21T09:14:48+00:00",
-   "epl": true
-  },
-  {
-   "title": "Huddersfield Town and the limitless power of a striker who can score out of nothing",
-   "summary": "Joe Taylor has suffered instability since signing for Huddersfield but has become the game-breaker they wanted all along",
-   "url": "https://www.fourfourtwo.com/person/player/huddersfield-town-and-the-limitless-power-of-a-striker-who-can-score-out-of-nothing",
-   "image": "https://cdn.mos.cms.futurecdn.net/YMKs4GPAmfKJDTuPi5EdbQ-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-21T09:02:48+00:00",
-   "epl": false
-  },
-  {
-   "title": "Exclusive: Alex Scott on his decision to play in the Channel Islands instead of the academy system",
-   "summary": "The Bournemouth and England midfielder make a big shout that worked out big time as a young man",
-   "url": "https://www.fourfourtwo.com/person/thats-where-it-started-for-me-my-way-of-playing-the-freedom-to-play-and-enjoy-football-bournemouths-alex-scott-on-rejecting-academy-system-to-play-on-the-channel-islands",
-   "image": "https://cdn.mos.cms.futurecdn.net/3ianFATh8g9ciKpK5daXvi-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-21T08:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Quiz! Can you name the top scorer of every Premier League team in 1996-97?",
-   "summary": "Manchester United finished clear of Newcastle United and won the title",
-   "url": "https://www.fourfourtwo.com/quiz/quiz-can-you-name-the-top-scorer-of-every-premier-league-team-in-1996-97",
-   "image": "https://cdn.mos.cms.futurecdn.net/VoCyNpm5rs42fruARBFYbj-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-21T07:00:00+00:00",
    "epl": true
   }
  ]
