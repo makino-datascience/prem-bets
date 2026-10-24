@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T21:07:48+00:00",
+ "updatedAt": "2026-10-24T13:10:01+00:00",
  "cardsUpdatedAt": "2026-10-23T17:45:50+00:00",
  "season": "2026",
  "teams": [
@@ -8,13 +8,13 @@
    "shortName": "Man City",
    "tla": "MCI",
    "crest": "https://crests.football-data.org/65.png",
-   "p": 7,
+   "p": 8,
    "w": 7,
    "d": 0,
-   "l": 0,
-   "gf": 19,
-   "ga": 7,
-   "gd": 12,
+   "l": 1,
+   "gf": 20,
+   "ga": 9,
+   "gd": 11,
    "pts": 21,
    "yc": 9,
    "rc": 1
@@ -81,6 +81,22 @@
    "gd": 1,
    "pts": 12,
    "yc": 17,
+   "rc": 1
+  },
+  {
+   "name": "Aston Villa FC",
+   "shortName": "Aston Villa",
+   "tla": "AVL",
+   "crest": "https://crests.football-data.org/58.png",
+   "p": 8,
+   "w": 3,
+   "d": 2,
+   "l": 3,
+   "gf": 9,
+   "ga": 12,
+   "gd": -3,
+   "pts": 11,
+   "yc": 14,
    "rc": 1
   },
   {
@@ -178,22 +194,6 @@
    "pts": 8,
    "yc": 19,
    "rc": 0
-  },
-  {
-   "name": "Aston Villa FC",
-   "shortName": "Aston Villa",
-   "tla": "AVL",
-   "crest": "https://crests.football-data.org/58.png",
-   "p": 7,
-   "w": 2,
-   "d": 2,
-   "l": 3,
-   "gf": 7,
-   "ga": 11,
-   "gd": -4,
-   "pts": 8,
-   "yc": 14,
-   "rc": 1
   },
   {
    "name": "Manchester United FC",
