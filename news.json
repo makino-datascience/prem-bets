@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-10-25T20:31:58+00:00",
+ "updatedAt": "2026-10-25T23:03:39+00:00",
  "items": [
+  {
+   "title": "Mbappe's late strike earns Mourinho and Real Clasico glory at Barca",
+   "summary": "Kylian Mbappe's double took Real Madrid to a famous 2-1 Clasico win, which had Jose Mourinho sliding on his knees in celebration in Barcelona.",
+   "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-real-madrid-kylian-mbappe_7387269.jpg?20261025215633",
+   "source": "Sky Sports",
+   "published": "2026-10-25T22:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Papers: Dyche emerges as frontrunner for Palace job if Sage departs",
+   "summary": "The top stories and transfer rumours from Monday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11661/13603802/crystal-palace-sean-dyche-emerges-as-frontrunner-for-eagles-job-if-pierre-sage-leaves-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "source": "Sky Sports",
+   "published": "2026-10-25T21:30:00+00:00",
+   "epl": true
+  },
   {
    "title": "Transfer Centre LIVE! Howe among frontrunners for Man Utd job if Carrick leaves",
    "summary": "",
@@ -92,7 +110,16 @@
    "epl": true
   },
   {
-   "title": "Neville fears Carrick set to be sacked as Carra calls for decision tonight",
+   "title": "Hits and misses: Pressure mounts on Sage while Liverpool click into gear",
+   "summary": "",
+   "url": "https://www.skysports.com/football/news/11661/13603677/liverpool-clicking-into-gear-as-pressure-mounts-on-pierre-sage-premier-league-hits-and-misses",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-hits-misses-pierre-sage_7387083.jpg?20261025185812",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:51:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Neville fears Carrick set to be sacked as Carra calls for swift decision",
    "summary": "Michael Carrick looks poised to lose his job as Manchester United head coach following their 3-0 defeat at Old Trafford to Bournemouth, according to Gary Neville and Jamie Carragher.",
    "url": "https://www.skysports.com/football/news/11661/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat",
    "image": "https://e0.365dm.com/26/10/1920x1080/skysports-michael-carrick-man-utd_7386733.jpg?20261025145820",
@@ -155,15 +182,6 @@
    "epl": false
   },
   {
-   "title": "Braga and Miller score as Hearts win at Motherwell",
-   "summary": "Claudio Braga and Calvin Miller got on the scoresheet as Hearts closed in on the Scottish Premiership top two with a solid 2-0 win over struggling Motherwell at Fir Park.",
-   "url": "https://www.skysports.com/football/motherwell-vs-hearts/report/558390",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-hearts-claudio-braga_7386851.jpg?20261025160904",
-   "source": "Sky Sports",
-   "published": "2026-10-25T15:50:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Watch Sunderland vs Leeds United for FREE: Live streams",
    "summary": "Here's how to watch Sunderland vs Leeds United for free from anywhere in the world, as the Black Cats aim to climb off the bottom of the Premier League table.",
    "url": "https://www.fourfourtwo.com/competition/watch-sunderland-vs-leeds-united-premier-league-2026-27-free",
@@ -173,15 +191,6 @@
    "epl": true
   },
   {
-   "title": "Duran nets winner as Celtic restore four-point lead at struggling Hibs",
-   "summary": "Celtic restored their four point lead at the top of the Scottish Premiership to leave Hibernian rooted to the foot of the table.",
-   "url": "https://www.skysports.com/football/hibernian-vs-celtic/report/558389",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-camilo-duran-celtic_7386596.jpg?20261025130430",
-   "source": "Sky Sports",
-   "published": "2026-10-25T13:50:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Maniche on Cristiano Ronaldo’s early days in the Portugal squad",
    "summary": "The former Chelsea midfielder played alongside the future superstar when he earned his early Portugal call-ups",
    "url": "https://www.fourfourtwo.com/person/player/he-loves-competing-pushing-himself-being-the-star-he-loves-being-the-best-in-the-world-and-he-loves-being-talked-about-its-part-of-his-personality-maniche-on-cristiano-ronaldos-early-days-in-the-portugal-squad",
@@ -189,15 +198,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-25T13:00:00+00:00",
    "epl": true
-  },
-  {
-   "title": "Barcelona vs Real Madrid LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/563017",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7387173.jpg?20261025201648",
-   "source": "Sky Sports",
-   "published": "2026-10-25T12:52:00+00:00",
-   "epl": false
   },
   {
    "title": "Man Utd latest: Every word from Carrick's press conference",
@@ -263,15 +263,6 @@
    "epl": true
   },
   {
-   "title": "Chelsea latest: Alonso unaware of reports Pedro injury was leaked through FPL",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
-   "source": "Sky Sports",
-   "published": "2026-10-25T09:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Sir Alex Ferguson opens up on his emotional final days at Manchester United",
    "summary": "Sir Alex Ferguson had one of the most remarkable careers in football history – in a new book, he's given his own account of some of the biggest moments",
    "url": "https://www.fourfourtwo.com/person/coaches-managers/id-not-be-sending-a-team-out-to-win-a-cup-or-a-league-sir-alex-ferguson-opens-up-on-his-emotional-final-days-at-manchester-united",
@@ -308,15 +299,6 @@
    "epl": true
   },
   {
-   "title": "Arsenal beat Everton to move level on points with leaders Man City",
-   "summary": "Champions Arsenal capitalised on Manchester City’s defeat at Aston Villa to move level on points with the Premier League leaders by comfortably beating Everton 2-0 at a rain-soaked Emirates Stadium.",
-   "url": "https://www.skysports.com/football/arsenal-vs-everton/report/559514",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-gabriel-arsenal-premier-league_7385791.jpg?20261024163950",
-   "source": "Sky Sports",
-   "published": "2026-10-24T16:58:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Jonjo Shelvey opens up on the Voldemort chants he has had to endure",
    "summary": "The former Liverpool and Charlton midfielder had to get used to taunts from opposition fans",
    "url": "https://www.fourfourtwo.com/person/player/i-cant-change-my-alopecia-you-live-with-it-or-you-crumble-its-not-nice-having-50-000-fans-sing-harry-potter-hes-coming-for-you-but-it-hasnt-bothered-me-for-a-long-time-jonjo-shelvey-on-the-voldemort-chants-that-followed-him-around",
@@ -344,19 +326,19 @@
    "epl": true
   },
   {
-   "title": "Watch Coventry City vs Fulham: Live Streams and TV Channels",
-   "summary": "Here's how to watch Coventry City vs Fulham online from anywhere, as two of the Premier League's strugglers meet at the Coventry Building Society Arena.",
-   "url": "https://www.fourfourtwo.com/competition/watch-coventry-vs-fulham-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/4kZ6EsTquRCAyX4JywrBm7-1920-80.jpg",
+   "title": "Arsenal vs Everton: FREE stream and TV info",
+   "summary": "Here's how to watch Arsenal vs Everton for free online from anywhere as the Premier League champions bid to keep chase with Manchester City at the summit.",
+   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-everton-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/EYyGgUv92xVWgAGxdXaQAX-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-24T11:00:00+00:00",
    "epl": true
   },
   {
-   "title": "Arsenal vs Everton: FREE stream and TV info",
-   "summary": "Here's how to watch Arsenal vs Everton for free online from anywhere as the Premier League champions bid to keep chase with Manchester City at the summit.",
-   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-everton-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/EYyGgUv92xVWgAGxdXaQAX-1920-80.jpg",
+   "title": "Watch Coventry City vs Fulham: Live Streams and TV Channels",
+   "summary": "Here's how to watch Coventry City vs Fulham online from anywhere, as two of the Premier League's strugglers meet at the Coventry Building Society Arena.",
+   "url": "https://www.fourfourtwo.com/competition/watch-coventry-vs-fulham-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/4kZ6EsTquRCAyX4JywrBm7-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-24T11:00:00+00:00",
    "epl": true
@@ -560,15 +542,6 @@
    "epl": true
   },
   {
-   "title": "Cesc Fabregas explains why Como invoked the mercy rule against Manchester United",
-   "summary": "Man United were humiliated in the league phase of the Champions League and the Como boss says it could have been even worse",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/cesc-fabregas-explains-why-como-invoked-the-mercy-rule-against-manchester-united",
-   "image": "https://cdn.mos.cms.futurecdn.net/jX7wqgoqAmwUZM3QFPFD6C-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-22T17:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "How to watch Celtic vs Celta Vigo for FREE: Live Streams",
    "summary": "Here's how to watch Celtic vs Celta Vigo for free online from anywhere, as The Bhoys eye their first points in the league phase of the Europa League.",
    "url": "https://www.fourfourtwo.com/competition/watch-celtic-vs-celta-vigo-europa-league-2026-27-free",
@@ -576,6 +549,15 @@
    "source": "FourFourTwo",
    "published": "2026-10-22T17:00:00+00:00",
    "epl": false
+  },
+  {
+   "title": "Cesc Fabregas explains why Como invoked the mercy rule against Manchester United",
+   "summary": "Man United were humiliated in the league phase of the Champions League and the Como boss says it could have been even worse",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/cesc-fabregas-explains-why-como-invoked-the-mercy-rule-against-manchester-united",
+   "image": "https://cdn.mos.cms.futurecdn.net/jX7wqgoqAmwUZM3QFPFD6C-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-22T17:00:00+00:00",
+   "epl": true
   },
   {
    "title": "How to watch Bournemouth vs AC Milan: Live Streams",
