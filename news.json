@@ -1,13 +1,148 @@
 {
- "updatedAt": "2026-10-25T14:30:05+00:00",
+ "updatedAt": "2026-10-25T17:48:16+00:00",
  "items": [
   {
-   "title": "Malard and Baltimore inspire Chelsea in comeback win over Palace",
-   "summary": "Chelsea required the help of super-sub Sandy Baltimore to avoid a first-ever defeat to Crystal Palace as they came from behind to win 3-1 at the 360 Engage Stadium.",
-   "url": "https://www.skysports.com/football/crystal-palace-women-vs-chelsea-women/report/575799",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-melvine-malard_7386627.jpg?20261025135813",
+   "title": "Brighton latest: Hurzeler claims only one team tried to win in Liverpool defeat",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121",
    "source": "Sky Sports",
-   "published": "2026-10-25T14:00:00+00:00",
+   "published": "2026-10-25T17:21:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "WSL: Man Utd vs Man City LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/manchester-united-women-vs-manchester-city-women/live/575802",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-man-utd-man-city_7381507.jpg?20261020112606",
+   "source": "Sky Sports",
+   "published": "2026-10-25T17:15:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Brentford latest: Andrews admits lack of cohesion during draw at Hull",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049",
+   "source": "Sky Sports",
+   "published": "2026-10-25T17:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Hull City latest: We are no longer being underestimated in PL, says McBurnie",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339",
+   "source": "Sky Sports",
+   "published": "2026-10-25T17:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Liverpool latest: Wirtz gives update on injury and responds to critics",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:54:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Osula and Barnes on target as Newcastle beat sorry Palace",
+   "summary": "FREE TO WATCH: Highlights from the Premier League match between Crystal Palace and Newcastle United.",
+   "url": "https://www.skysports.com/watch/video/13603655/crystal-palace-0-2-newcastle-united-premier-league-highlights",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-newcastle_7386883.jpg?20261025161818",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:17:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Neville fears Carrick set to be sacked as Carra calls for decision tonight",
+   "summary": "Michael Carrick looks poised to lose his job as Manchester United head coach following their 3-0 defeat at Old Trafford to Bournemouth, according to Gary Neville and Jamie Carragher.",
+   "url": "https://www.skysports.com/football/news/11661/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-michael-carrick-man-utd_7386733.jpg?20261025145820",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:10:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Liverpool down in-form Brighton to jump to fourth in the table",
+   "summary": "FREE TO WATCH: Highlights from the Premier League match between Liverpool and Brighton.",
+   "url": "https://www.skysports.com/watch/video/13603644/liverpool-2-0-brighton-premier-league-highlights",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-liverpool_7386860.jpg?20261025161210",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:10:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man Utd hit new low as Bournemouth score THREE at Old Trafford",
+   "summary": "FREE TO WATCH: Highlights from Manchester United’s match against Bournemouth in the Premier League.",
+   "url": "https://www.skysports.com/watch/video/13603628/man-united-0-3-bournemouth-premier-league-highlights",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-man-united-bournemouth_7386833.jpg?20261025160532",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:02:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
+   "summary": "Michael Carrick dropped Bruno Fernandes and only saw his problems mount as Manchester United succumbed to a humiliating 3-0 defeat to Bournemouth at Old Trafford.",
+   "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-rayan-bournemouth_7386723.jpg?20261025145302",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Isak on target again as Liverpool beat Brighton",
+   "summary": "Alexander Isak scored for a third straight Premier League game as Liverpool inflicted only Brighton's second loss of the season.",
+   "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-alexander-isak-liverpool_7386681.jpg?20261025142558",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Ouattara rescues point for Brentford at Hull",
+   "summary": "Brentford fought back to earn a 1-1 draw at Hull City after Dango Ouattara cancelled out Oli McBurnie's first-half penalty, extending the hosts' winless run in the Premier League to six games.",
+   "url": "https://www.skysports.com/football/hull-city-vs-brentford/report/559519",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-outtara-brentford_7386831.jpg?20261025162558",
+   "source": "Sky Sports",
+   "published": "2026-10-25T16:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Gazza on his best mate in football and their Italia 90 antics",
+   "summary": "The two former Tottenham stars remain good pals to this day",
+   "url": "https://www.fourfourtwo.com/person/player/ive-always-had-a-laugh-with-chris-waddle-especially-during-the-world-cup-in-1990-i-always-used-to-wind-everyone-up-and-steal-their-chocolate-bars-paul-gascoigne-on-his-best-mate-in-football-and-their-italia-90-antics",
+   "image": "https://cdn.mos.cms.futurecdn.net/rJoNvVCA9u865opuQ7Emtd-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-25T16:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "How to watch Barcelona vs Real Madrid for FREE: Live Streams",
+   "summary": "Here's how to watch Barcelona vs Real Madrid for free online from anywhere, as the first El Clásico of La Liga 2026/27 takes place at the Nou Camp.",
+   "url": "https://www.fourfourtwo.com/competition/watch-barcelona-vs-real-madrid-el-clasico-la-liga-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/tVSZmEpzfhRsVXn3pX42te-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-10-25T16:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Braga and Miller score as Hearts win at Motherwell",
+   "summary": "Claudio Braga and Calvin Miller got on the scoresheet as Hearts closed in on the Scottish Premiership top two with a solid 2-0 win over struggling Motherwell at Fir Park.",
+   "url": "https://www.skysports.com/football/motherwell-vs-hearts/report/558390",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-hearts-claudio-braga_7386851.jpg?20261025160904",
+   "source": "Sky Sports",
+   "published": "2026-10-25T15:50:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Leeds pushing for second-half opener at Sunderland LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/sunderland-vs-leeds-united/live/559523",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-brian-brobbey-sunderland_7386930.jpg?20261025164810",
+   "source": "Sky Sports",
+   "published": "2026-10-25T15:00:00+00:00",
    "epl": true
   },
   {
@@ -18,6 +153,15 @@
    "source": "Sky Sports",
    "published": "2026-10-25T14:00:00+00:00",
    "epl": false
+  },
+  {
+   "title": "Malard and Baltimore inspire Chelsea in comeback win over Palace",
+   "summary": "Chelsea required the help of super-sub Sandy Baltimore to avoid a first-ever defeat to Crystal Palace as they came from behind to win 3-1 at the 360 Engage Stadium.",
+   "url": "https://www.skysports.com/football/crystal-palace-women-vs-chelsea-women/report/575799",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-melvine-malard_7386627.jpg?20261025135813",
+   "source": "Sky Sports",
+   "published": "2026-10-25T14:00:00+00:00",
+   "epl": true
   },
   {
    "title": "Watch Sunderland vs Leeds United for FREE: Live streams",
@@ -47,34 +191,7 @@
    "epl": true
   },
   {
-   "title": "Man Utd make nervous start against Bournemouth LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/live/559522",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-mason-mount-tyler-adams_7386670.jpg?20261025142132",
-   "source": "Sky Sports",
-   "published": "2026-10-25T12:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Palace and Newcastle searching for opener LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/crystal-palace-vs-newcastle-united/live/559518",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-jean-philippe-mateta_7386662.jpg?20261025141814",
-   "source": "Sky Sports",
-   "published": "2026-10-25T12:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Hull punish clumsy Brentford error as McBurnie penalty opens scoring LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/hull-city-vs-brentford/live/559519",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-igor-thiago-semi-ajayi_7386661.jpg?20261025141709",
-   "source": "Sky Sports",
-   "published": "2026-10-25T12:25:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Man Utd latest: Neville slams Fernandes and 'toxic' dressing room",
+   "title": "Man Utd latest: Every word from Carrick's press conference",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
@@ -92,10 +209,10 @@
    "epl": true
   },
   {
-   "title": "Fernandes dropped from Man Utd team for crucial Bournemouth game",
-   "summary": "Bruno Fernandes has been dropped from the Manchester United team for their Premier League game at home to Bournemouth.",
+   "title": "Fernandes dropped and an unused sub in Man Utd's heavy defeat",
+   "summary": "Bruno Fernandes was dropped from the Manchester United team for their Premier League defeat at home to Bournemouth.",
    "url": "https://www.skysports.com/football/news/11661/13603513/bruno-fernandes-manchester-united-captain-dropped-for-crucial-premier-league-game-against-bournemouth",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-manchester-united_7383091.jpg?20261021192951",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-man-utd_7386686.jpg?20261025142825",
    "source": "Sky Sports",
    "published": "2026-10-25T11:33:00+00:00",
    "epl": true
@@ -182,15 +299,6 @@
    "epl": true
   },
   {
-   "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
-   "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-   "url": "https://www.skysports.com/football/news/11095/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "source": "Sky Sports",
-   "published": "2026-10-24T22:04:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
    "summary": "They say bad things come in threes. That was certainly the case for Chelsea on a miserable evening at Stamford Bridge as they lost 2-0 to Tottenham and were described as \"awful\" by Gary Neville.",
    "url": "https://www.skysports.com/football/news/11661/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso",
@@ -203,18 +311,9 @@
    "title": "Arteta collating evidence of other managers stepping out of technical area",
    "summary": "Arsenal boss Mikel Arteta says he is compiling footage of rival Premier League managers repeatedly leaving their technical areas after receiving his second yellow card of the season in his side’s 2-0 win over Everton.",
    "url": "https://www.skysports.com/football/news/11661/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-arteta-mikel-arsenal_7386166.jpg?20261024204538",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-arteta-mikel-arsenal_7386166.jpg?20261025170557",
    "source": "Sky Sports",
    "published": "2026-10-24T20:45:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Spurs pick up rare win at Stamford Bridge in chaotic end to game",
-   "summary": "FREE TO WATCH: Highlights from the Premier League match between Chelsea and Tottenham Hotspur.",
-   "url": "https://www.skysports.com/watch/video/13603351/chelsea-0-2-tottenham-hotspur-premier-league-highlights",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-chelsea-spurs_7386083.jpg?20261024193630",
-   "source": "Sky Sports",
-   "published": "2026-10-24T19:54:00+00:00",
    "epl": true
   },
   {
@@ -224,42 +323,6 @@
    "image": "https://e0.365dm.com/26/10/1920x1080/skysports-mathys-tel-tottenham_7386070.jpg?20261024191932",
    "source": "Sky Sports",
    "published": "2026-10-24T19:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Konsa and Gabriel on target as Arsenal top Everton",
-   "summary": "Highlights from the Premier League match between Arsenal and Everton.",
-   "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7385871.jpg?20261024171416",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Villa end Man City's perfect start with Jackson double",
-   "summary": "FREE TO WATCH: Highlights from the Premier League match between Aston Villa and Manchester City.",
-   "url": "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-football-premier-league_7385621.jpg?20261024144538",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Bobb stunner secures Fulham back-to-back PL wins",
-   "summary": "Highlights from the Premier League match between Coventry City and Fulham.",
-   "url": "https://www.skysports.com/watch/video/13603205/coventry-city-0-1-fulham-premier-league-highlights",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-coventry_7385852.jpg?20261024170746",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:15:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Hits and misses: De Zerbi's 'complete team' and 'genius' Emery impress",
-   "summary": "",
-   "url": "https://www.skysports.com/football/news/11661/13602922/roberto-de-zerbis-spurs-a-complete-team-unai-emery-works-magic-on-nicolas-jackson-premier-league-hits-and-misses",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-hits-misses-spurs_7386111.jpg?20261024195750",
-   "source": "Sky Sports",
-   "published": "2026-10-24T17:00:00+00:00",
    "epl": true
   },
   {
@@ -308,19 +371,19 @@
    "epl": true
   },
   {
-   "title": "Watch Coventry City vs Fulham: Live Streams and TV Channels",
-   "summary": "Here's how to watch Coventry City vs Fulham online from anywhere, as two of the Premier League's strugglers meet at the Coventry Building Society Arena.",
-   "url": "https://www.fourfourtwo.com/competition/watch-coventry-vs-fulham-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/4kZ6EsTquRCAyX4JywrBm7-1920-80.jpg",
+   "title": "Arsenal vs Everton: FREE stream and TV info",
+   "summary": "Here's how to watch Arsenal vs Everton for free online from anywhere as the Premier League champions bid to keep chase with Manchester City at the summit.",
+   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-everton-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/EYyGgUv92xVWgAGxdXaQAX-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-24T11:00:00+00:00",
    "epl": true
   },
   {
-   "title": "Arsenal vs Everton: FREE stream and TV info",
-   "summary": "Here's how to watch Arsenal vs Everton for free online from anywhere as the Premier League champions bid to keep chase with Manchester City at the summit.",
-   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-everton-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/EYyGgUv92xVWgAGxdXaQAX-1920-80.jpg",
+   "title": "Watch Coventry City vs Fulham: Live Streams and TV Channels",
+   "summary": "Here's how to watch Coventry City vs Fulham online from anywhere, as two of the Premier League's strugglers meet at the Coventry Building Society Arena.",
+   "url": "https://www.fourfourtwo.com/competition/watch-coventry-vs-fulham-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/4kZ6EsTquRCAyX4JywrBm7-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-24T11:00:00+00:00",
    "epl": true
@@ -332,15 +395,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/HYmz4XCSNWqztwKjmj4ALo-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-24T10:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Lammens: We're united and behind Carrick",
-   "summary": "It has been another eventful week at Manchester United.",
-   "url": "https://www.skysports.com/football/news/11661/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lammens-man-utd_7385044.jpg?20261023210040",
-   "source": "Sky Sports",
-   "published": "2026-10-24T09:00:00+00:00",
    "epl": true
   },
   {
@@ -425,15 +479,6 @@
    "epl": true
   },
   {
-   "title": "'I am a fighter' - how Jakirovic is taking on the Premier League",
-   "summary": "No visitor can escape the fact that Hull City are back. Lampposts are adorned with the simple but telling declaration in amber that ‘We are Premier League.’ There are flags in windows with messages such as ‘Dare to…",
-   "url": "https://www.skysports.com/football/news/11661/13598103/sergej-jakirovic-interview-hull-city-head-coach-on-making-people-proud-and-taking-on-the-premier-league-in-their-own-way",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-hull_7375666.jpg?20261013091130",
-   "source": "Sky Sports",
-   "published": "2026-10-23T13:30:00+00:00",
-   "epl": true
-  },
-  {
    "title": "'It's difficult to understand the extent' Arsenal manager Mikel Arteta drops Bukayo Saka injury update",
    "summary": "Bukayo Saka left Arsenal's 2-2 draw with Bayern Munich in the first 10 minutes, after picking up what looked to be a nasty injury",
    "url": "https://www.fourfourtwo.com/person/player/arsenal-manager-mikel-arteta-drops-bukayo-saka-injury-update",
@@ -470,15 +515,6 @@
    "epl": true
   },
   {
-   "title": "Isak doubles Liverpool's lead against Brighton LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-alexander-isak-liverpool_7386681.jpg?20261025142558",
-   "source": "Sky Sports",
-   "published": "2026-10-23T11:09:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Is Dominik Szoboszlai injured? Liverpool update on Hungary captain's hamstring injury",
    "summary": "Szoboszlai limped off in the first half of Liverpool's Premier League win against Brentford",
    "url": "https://www.fourfourtwo.com/person/player/is-dominik-szoboszlai-injured-liverpool-update-on-hungary-captains-hamstring-injury",
@@ -504,24 +540,6 @@
    "source": "Sky Sports",
    "published": "2026-10-23T09:00:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Reporter Notebook: No panic stations at Sunderland despite tough start",
-   "summary": "It's certainly been a different start to the season for Sunderland compared to last year, when they flew out of the traps on their Premier League return and went months without a home league defeat.",
-   "url": "https://www.skysports.com/football/news/11661/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-reporter-notebook_7383785.jpg?20261022152751",
-   "source": "Sky Sports",
-   "published": "2026-10-23T08:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Jaissle needs some wins to quieten down the noise at Newcastle",
-   "summary": "In his latest Reporter Notebook, Sky Sports News' Keith Downie looks into what is going wrong at Newcastle United.",
-   "url": "https://www.skysports.com/football/news/11661/13602481/newcastle-united-reporter-notebook-matthias-jaissle-needs-some-wins-to-quieten-down-the-noise-on-tyneside",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-reporter-notebook_7384483.jpg?20261023111940",
-   "source": "Sky Sports",
-   "published": "2026-10-23T08:00:00+00:00",
-   "epl": true
   },
   {
    "title": "“I want to sit down with Neil Armstrong and get to the bottom of these moon landings – I’m not convinced it really happened!” Joe Cole wants to put the famous conspiracy theory to bed once and for all",
@@ -578,15 +596,6 @@
    "epl": true
   },
   {
-   "title": "Cesc Fabregas explains why Como invoked the mercy rule against Manchester United",
-   "summary": "Man United were humiliated in the league phase of the Champions League and the Como boss says it could have been even worse",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/cesc-fabregas-explains-why-como-invoked-the-mercy-rule-against-manchester-united",
-   "image": "https://cdn.mos.cms.futurecdn.net/jX7wqgoqAmwUZM3QFPFD6C-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-22T17:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "How to watch Celtic vs Celta Vigo for FREE: Live Streams",
    "summary": "Here's how to watch Celtic vs Celta Vigo for free online from anywhere, as The Bhoys eye their first points in the league phase of the Europa League.",
    "url": "https://www.fourfourtwo.com/competition/watch-celtic-vs-celta-vigo-europa-league-2026-27-free",
@@ -594,6 +603,15 @@
    "source": "FourFourTwo",
    "published": "2026-10-22T17:00:00+00:00",
    "epl": false
+  },
+  {
+   "title": "Cesc Fabregas explains why Como invoked the mercy rule against Manchester United",
+   "summary": "Man United were humiliated in the league phase of the Champions League and the Como boss says it could have been even worse",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/cesc-fabregas-explains-why-como-invoked-the-mercy-rule-against-manchester-united",
+   "image": "https://cdn.mos.cms.futurecdn.net/jX7wqgoqAmwUZM3QFPFD6C-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-22T17:00:00+00:00",
+   "epl": true
   },
   {
    "title": "How to watch Bournemouth vs AC Milan: Live Streams",
@@ -620,15 +638,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/YFRvEvzUP8R4pvo7YNnPZf-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-22T15:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Ngumoha a 'future superstar' making more dribbles than Doku",
-   "summary": "",
-   "url": "https://www.skysports.com/football/news/11661/13602292/rio-ngumoha-showing-superstar-potential-for-liverpool-and-making-more-dribbles-than-jeremy-doku-the-radar",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-rio-ngumoha_7384358.jpg?20261023085536",
-   "source": "Sky Sports",
-   "published": "2026-10-22T14:56:00+00:00",
    "epl": true
   },
   {
@@ -684,24 +693,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-22T10:00:00+00:00",
    "epl": false
-  },
-  {
-   "title": "'Michael Jordan motivated me to stop eating crisps and win the Championship play-off final' Fulham captain explains how basketball legend inspired Wembley triumph",
-   "summary": "Tom Cairney skippered Fulham to victory in the 2020 Championship play-off final, inspired by the Chicago Bulls icon",
-   "url": "https://www.fourfourtwo.com/person/michael-jordan-motivated-me-to-stop-eating-crisps-and-win-the-championship-play-off-final-fulham-captain-explains-how-basketball-legend-inspired-wembley-triumph",
-   "image": "https://cdn.mos.cms.futurecdn.net/FrnmrruqKr3hSFmRLR9SsU-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-22T07:54:48+00:00",
-   "epl": true
-  },
-  {
-   "title": "Quiz! Coventry City in the Premier League",
-   "summary": "From Highfield Road to the Coventry Building Society Arena, how much do you know about the Sky Blues in the top division?",
-   "url": "https://www.fourfourtwo.com/quiz/quiz-coventry-city-in-the-premier-league",
-   "image": "https://cdn.mos.cms.futurecdn.net/8sVmxarybTtEr2sDAn9qr6-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-10-22T07:00:00+00:00",
-   "epl": true
   }
  ]
 }
