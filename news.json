@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-10-29T16:43:03+00:00",
+ "updatedAt": "2026-10-29T21:37:26+00:00",
  "items": [
+  {
+   "title": "Everton informed of transfer criteria amid interest in Manchester United star Marcus Rashford: report",
+   "summary": "Man United forward Rashford has been loaned out to Aston Villa and Barcelona and Everton want to be next",
+   "url": "https://www.fourfourtwo.com/transfer/everton-informed-of-transfer-criteria-amid-interest-in-manchester-united-star-marcus-rashford-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/H5XNazsHFbgieBRmLgrpNj-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-29T19:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Grealish dropped by Everton after breaching club discipline",
+   "summary": "Everton said Jack Grealish was unavailable for their Carabao Cup fourth-round tie against Newcastle 'due to a breach of club discipline'.",
+   "url": "https://www.skysports.com/football/news/11661/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jack-grealish-everton_7391253.jpg?20261029185811",
+   "source": "Sky Sports",
+   "published": "2026-10-29T18:45:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Everton latest: Branthwaite misses Newcastle cup visit due to concussion",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+   "source": "Sky Sports",
+   "published": "2026-10-29T18:45:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "WCL: Man City still pushing for breakthrough vs PSG LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/manchester-city-women-vs-paris-saint-germain-women/live/578257",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-football-alex-greenwood_7391371.jpg?20261029202217",
+   "source": "Sky Sports",
+   "published": "2026-10-29T18:07:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Arsenal latest: Arteta sweating on fitness of duo after Dowman appeal rejected",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+   "source": "Sky Sports",
+   "published": "2026-10-29T18:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Former Wolves and Nottingham Forest boss Vitor Pereira eyes a bold return to the Premier League",
+   "summary": "Pereira experienced highs and lows at two volatile clubs and wants another chance to prove his worth",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/former-wolves-and-nottingham-forest-boss-vitor-pereira-eyes-a-bold-return-to-the-premier-league",
+   "image": "https://cdn.mos.cms.futurecdn.net/LTa92cCmHHCauXSBve35Zc-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-10-29T18:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Why is there only one game in the Premier League on Sunday?",
+   "summary": "Liverpool vs Arsenal stands alone in the Premier League this Sunday",
+   "url": "https://www.fourfourtwo.com/competition/why-is-there-only-one-game-in-the-premier-league-on-sunday",
+   "image": "https://cdn.mos.cms.futurecdn.net/yMLMjdYJwZVjTccw3uVEmg-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-10-29T17:00:00+00:00",
+   "epl": true
+  },
   {
    "title": "Surprise Manchester United return for Roy Keane was thwarted by Michael Carrick appointment",
    "summary": "Man United legend Keane was earmarked for Old Trafford until Carrick became head coach permanently",
@@ -11,12 +74,39 @@
    "epl": true
   },
   {
+   "title": "Sage on finding solutions at Palace and visiting De Zerbi for ideas",
+   "summary": "The pressure has been on for Pierre Sage - but out of adversity he is aiming to improve his skills as a coach and bond together a Crystal Palace squad to go and achieve future success.",
+   "url": "https://www.skysports.com/football/news/11661/13605441/crystal-palace-pierre-sage-on-finding-solutions-visiting-roberto-de-zerbi-and-building-foundations-for-future-success",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-pierre-sage-crystal_7391098.jpg?20261029164204",
+   "source": "Sky Sports",
+   "published": "2026-10-29T16:27:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Celtic, Rangers lose appeal against stadium closure sanction after fan trouble",
+   "summary": "Celtic say having to play their next home Scottish Cup fixture behind closed doors is an \"excessive\" and \"disproportionate\" punishment, after they and Rangers lost their appeals against the Scottish FA sanction.",
+   "url": "https://www.skysports.com/football/news/11095/13605309/celtic-and-rangers-fail-to-overturn-ban-on-supporters-at-next-home-scottish-cup-games-after-fan-trouble-at-ibrox",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-celtic-rangers-fans_7333548.jpg?20260828120836",
+   "source": "Sky Sports",
+   "published": "2026-10-29T16:00:00+00:00",
+   "epl": false
+  },
+  {
    "title": "It's been 616 days: Can Spurs finally win three in a row?",
    "summary": "By the time Saturday rolls around, it will have been 616 days since Tottenham last won three Premier League games on the bounce. Three different managers have come and gone since the feat was last achieved, none able to…",
    "url": "https://www.skysports.com/football/news/11661/13605317/tottenham-vs-crystal-palace-have-spurs-genuinely-turned-a-corner-in-the-premier-league-under-roberto-de-zerbi",
    "image": "https://e1.365dm.com/26/10/1920x1080/skysports-james-maddison-goal_7381102.jpg?20261020060641",
    "source": "Sky Sports",
    "published": "2026-10-29T15:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Arsenal striker dilemma: Should Arteta keep faith in Havertz?",
+   "summary": "",
+   "url": "https://www.skysports.com/football/news/11661/13605389/arsenals-kai-havertz-in-goal-drought-so-should-mikel-arteta-keep-faith-in-him-ahead-of-viktor-gyokeres-against-liverpool",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kai-havertz-arsenal_7391052.jpg?20261029154631",
+   "source": "Sky Sports",
+   "published": "2026-10-29T15:13:00+00:00",
    "epl": true
   },
   {
@@ -35,6 +125,15 @@
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402",
    "source": "Sky Sports",
    "published": "2026-10-29T14:55:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Arsenal fail with appeal against Dowman's red card",
+   "summary": "Arsenal have failed in their appeal against Max Dowman's red card in the defeat to League Two Fleetwood Town.",
+   "url": "https://www.skysports.com/football/news/11661/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-dowman-arsenal_7389264.jpg?20261027232527",
+   "source": "Sky Sports",
+   "published": "2026-10-29T14:50:00+00:00",
    "epl": true
   },
   {
@@ -74,6 +173,15 @@
    "epl": true
   },
   {
+   "title": "PL Predictions: Man Utd to deliver a reaction for Carrick at Chelsea",
+   "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+   "url": "https://www.skysports.com/football/news/11661/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906",
+   "source": "Sky Sports",
+   "published": "2026-10-29T13:00:00+00:00",
+   "epl": true
+  },
+  {
    "title": "Leny Yoro lined up for Manchester United exit and surprise reunion: report",
    "summary": "Manchester United youngster Yoro is wanted for a 'key role' in European giants' defensive rebuild",
    "url": "https://www.fourfourtwo.com/transfer/leny-yoro-lined-up-for-manchester-united-exit-and-surprise-reunion-report",
@@ -110,17 +218,8 @@
    "epl": true
   },
   {
-   "title": "Aston Villa latest: Emery urges Villa to move on after Carabao Cup exit",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-   "source": "Sky Sports",
-   "published": "2026-10-29T11:13:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Toney trial date for alleged assault set for 2028",
-   "summary": "England striker Ivan Toney will face trial over an alleged assault at a London nightclub in summer 2028.",
+   "summary": "England striker Ivan Toney will face trial over an alleged assault at a London nightclub in June 2028, during the European Championships of that summer.",
    "url": "https://www.skysports.com/football/news/11095/13605220/ivan-toney-trial-for-england-striker-over-alleged-assault-is-set-for-june-2028",
    "image": "https://e1.365dm.com/26/10/1920x1080/skysports-ivan-toney-court_7365805.jpg?20261001141036",
    "source": "Sky Sports",
@@ -135,15 +234,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-29T11:00:00+00:00",
    "epl": true
-  },
-  {
-   "title": "Sir Harry? Kane responds to knighthood talk after Ballon d'Or win",
-   "summary": "Harry Kane would be \"massively proud\" to be knighted, but admits it would be \"weird\" to have everyone calling him Sir.",
-   "url": "https://www.skysports.com/football/news/11095/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-bayern-munich_7390749.jpg?20261029104939",
-   "source": "Sky Sports",
-   "published": "2026-10-29T10:31:00+00:00",
-   "epl": false
   },
   {
    "title": "Boyd questions Rangers' title credentials after Hearts draw",
@@ -236,16 +326,7 @@
    "epl": true
   },
   {
-   "title": "Bournemouth latest: 'We are relentless' - Rose on five wins in a row",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020",
-   "source": "Sky Sports",
-   "published": "2026-10-28T23:20:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Palace latest: Sage clarifies kisses were for his wife - not the fans",
+   "title": "Palace latest: Sarr still unavailable, confirms Sage",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
    "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
@@ -261,15 +342,6 @@
    "source": "Sky Sports",
    "published": "2026-10-28T21:00:00+00:00",
    "epl": true
-  },
-  {
-   "title": "EFL latest: Former Charlton captain Docherty on trial at Preston",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-greg-docherty-charlton_7390837.jpg?20261029120230",
-   "source": "Sky Sports",
-   "published": "2026-10-28T18:02:00+00:00",
-   "epl": false
   },
   {
    "title": "In-form striker tipped for Manchester United move as the Red Devils look for an answer to scoring issue",
@@ -290,19 +362,19 @@
    "epl": true
   },
   {
-   "title": "How to watch Arsenal vs Benfica - Free Streams, TV Details for UWCL clash",
-   "summary": "Arsenal host Benfica in the Champions League – here's how to watch online and on TV.",
-   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-benfica-uwcl-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/iRbJ2uFg2cUPMz3H3oqNCQ-1920-80.jpg",
+   "title": "How to watch Liverpool vs Chelsea for FREE: live stream details as Xabi Alonso returns to Anfield in Carabao Cup 4th round",
+   "summary": "Here's how to watch Liverpool vs Chelsea in the Carabao Cup 4th round online for free from anywhere in the world.",
+   "url": "https://www.fourfourtwo.com/competition/watch-liverpool-vs-chelsea-carabao-cup-4th-round-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/yMLMjdYJwZVjTccw3uVEmg-1920-80.png",
    "source": "FourFourTwo",
    "published": "2026-10-28T17:00:00+00:00",
    "epl": true
   },
   {
-   "title": "How to watch Liverpool vs Chelsea for FREE: live stream details as Xabi Alonso returns to Anfield in Carabao Cup 4th round",
-   "summary": "Here's how to watch Liverpool vs Chelsea in the Carabao Cup 4th round online for free from anywhere in the world.",
-   "url": "https://www.fourfourtwo.com/competition/watch-liverpool-vs-chelsea-carabao-cup-4th-round-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/yMLMjdYJwZVjTccw3uVEmg-1920-80.png",
+   "title": "How to watch Arsenal vs Benfica - Free Streams, TV Details for UWCL clash",
+   "summary": "Arsenal host Benfica in the Champions League – here's how to watch online and on TV.",
+   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-benfica-uwcl-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/iRbJ2uFg2cUPMz3H3oqNCQ-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-28T17:00:00+00:00",
    "epl": true
@@ -326,33 +398,6 @@
    "epl": true
   },
   {
-   "title": "Liverpool draw Bournemouth in Carabao Cup quarters",
-   "summary": "Liverpool will play Bournemouth in the Carabao Cup quarter-finals while League One Bradford City will host Manchester City.",
-   "url": "https://www.skysports.com/football/news/11095/13604920/carabao-cup-quarter-final-draw-liverpool-host-bournemouth-as-bradford-and-fleetwood-learn-premier-league-opposition",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-carabao-cup-trophy_7311954.jpg?20260801184714",
-   "source": "Sky Sports",
-   "published": "2026-10-28T16:11:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Fulham latest: Ali Wahid says Boreham Wood perfect place for him to progress",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855",
-   "source": "Sky Sports",
-   "published": "2026-10-28T16:10:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal latest: Details of Arteta's conversation with Dowman revealed",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-   "source": "Sky Sports",
-   "published": "2026-10-28T16:09:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Abdellah Ouazane named as the Football Manager 27 wonderkid to sign this time around - by FM27 developer",
    "summary": "The new Football Manager game launches as a free preview on Thursday",
    "url": "https://www.fourfourtwo.com/products-kit/fm27-developer-gives-fourfourtwo-his-top-signing-tips-ahead-of-free-launch",
@@ -360,15 +405,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-28T16:00:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Spurs latest: Incredible Van de Ven ‘has it all’, says Romero",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-10-28T15:05:00+00:00",
-   "epl": true
   },
   {
    "title": "Erling Haaland to 'make next step' towards Manchester City exit: report",
@@ -387,15 +423,6 @@
    "source": "FourFourTwo",
    "published": "2026-10-28T14:15:19+00:00",
    "epl": false
-  },
-  {
-   "title": "Ref Watch: Arsenal's red card appeal will fail - Dowman was aggressive",
-   "summary": "Former Premier League referee Dermot Gallagher believes Arsenal's appeal against Max Dowman's red card in their shock Carabao Cup defeat to Fleetwood Town will fail.",
-   "url": "https://www.skysports.com/football/news/11661/13604803/max-dowman-red-card-arsenals-appeal-against-decision-will-fail-says-former-premier-league-referee-dermot-gallagher",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-max-dowman-arsenal_7389720.jpg?20261028130824",
-   "source": "Sky Sports",
-   "published": "2026-10-28T13:15:00+00:00",
-   "epl": true
   },
   {
    "title": "Non-league club pledges to become the first club to play two matches at the same time - to solve bizarre calendar conundrum",
@@ -542,15 +569,6 @@
    "epl": true
   },
   {
-   "title": "'Delaying the inevitable' or right call? Key questions as Carrick stays",
-   "summary": "Michael Carrick has been given the chance to turn Manchester United's form around - a shock decision that has divided supporters and Sky Sports pundits.",
-   "url": "https://www.skysports.com/football/news/11661/13604361/michael-carrick-why-man-utd-head-coach-will-stay-on-and-could-bruno-fernandes-play-vs-chelsea-plus-other-key-questions",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-michael-carrick-manchester-united_7383931.jpg?20261022173420",
-   "source": "Sky Sports",
-   "published": "2026-10-27T14:40:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Manchester United make their Michael Carrick decision as major update issued: report",
    "summary": "Carrick has been under intensifying pressure after a disappointing start to the season for Man United",
    "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-make-their-michael-carrick-decision-as-major-update-issued",
@@ -584,15 +602,6 @@
    "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
    "source": "Sky Sports",
    "published": "2026-10-27T12:35:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Carrick to remain in charge of Man Utd for Chelsea trip",
-   "summary": "Michael Carrick will remain in charge of Manchester United for their game against Chelsea on Saturday.",
-   "url": "https://www.skysports.com/football/news/11661/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-michael-carrick-manchester-united_7388881.png?20261027171943",
-   "source": "Sky Sports",
-   "published": "2026-10-27T12:03:00+00:00",
    "epl": true
   },
   {
@@ -686,31 +695,13 @@
    "epl": true
   },
   {
-   "title": "Does Michael Carrick have a break clause?",
-   "summary": "Manchester United's under-fire head coach could be facing the sack, but is there a clause in his contract to grease the wheels?",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/does-michael-carrick-have-a-break-clause",
-   "image": "https://cdn.mos.cms.futurecdn.net/oqo8uTcLFwNjxBqeKXWqH4-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-26T17:00:00+00:00",
+   "title": "Tie over?! Barry adds Everton third against Newcastle LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/everton-vs-newcastle-united/live/578609",
+   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-everton-fc_7391373.jpg?20261029202613",
+   "source": "Sky Sports",
+   "published": "2026-10-26T16:18:00+00:00",
    "epl": true
-  },
-  {
-   "title": "Roberto De Zerbi’s false-nine fury shows Tottenham are up and running, while Xabi Alonso is still adapting to Premier League life with Chelsea",
-   "summary": "False nines and physicality were the story behind this particular Battle of the Bridge",
-   "url": "https://www.fourfourtwo.com/tactic/roberto-de-zerbis-false-nine-fury-shows-tottenham-are-up-and-running-while-xabi-alonso-is-still-adapting-to-premier-league-life-with-chelsea",
-   "image": "https://cdn.mos.cms.futurecdn.net/rS8ycTAAuUbfibos6S2Nv5-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-26T17:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Ballon d'Or 2026: The full standings",
-   "summary": "The full standings for Ballon d'Or 2026 see the usual suspects - and a fair few surprises",
-   "url": "https://www.fourfourtwo.com/competition/ballon-dor-2026-the-full-standings",
-   "image": "https://cdn.mos.cms.futurecdn.net/9geQVDXS3m7Tv9S56cMMgY-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-26T16:43:32+00:00",
-   "epl": false
   }
  ]
 }
