@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T19:52:22+00:00",
+ "updatedAt": "2026-10-31T23:09:48+00:00",
  "cardsUpdatedAt": "2026-10-31T04:37:59+00:00",
  "season": "2026",
  "teams": [
@@ -132,6 +132,22 @@
    "rc": 1
   },
   {
+   "name": "Aston Villa FC",
+   "shortName": "Aston Villa",
+   "tla": "AVL",
+   "crest": "https://crests.football-data.org/58.png",
+   "p": 9,
+   "w": 3,
+   "d": 3,
+   "l": 3,
+   "gf": 10,
+   "ga": 13,
+   "gd": -3,
+   "pts": 12,
+   "yc": 18,
+   "rc": 1
+  },
+  {
    "name": "Hull City AFC",
    "shortName": "Hull City",
    "tla": "HUL",
@@ -180,22 +196,6 @@
    "rc": 0
   },
   {
-   "name": "Aston Villa FC",
-   "shortName": "Aston Villa",
-   "tla": "AVL",
-   "crest": "https://crests.football-data.org/58.png",
-   "p": 8,
-   "w": 3,
-   "d": 2,
-   "l": 3,
-   "gf": 9,
-   "ga": 12,
-   "gd": -3,
-   "pts": 11,
-   "yc": 18,
-   "rc": 1
-  },
-  {
    "name": "Ipswich Town FC",
    "shortName": "Ipswich Town",
    "tla": "IPS",
@@ -228,6 +228,22 @@
    "rc": 0
   },
   {
+   "name": "Fulham FC",
+   "shortName": "Fulham",
+   "tla": "FUL",
+   "crest": "https://crests.football-data.org/63.png",
+   "p": 9,
+   "w": 2,
+   "d": 3,
+   "l": 4,
+   "gf": 9,
+   "ga": 11,
+   "gd": -2,
+   "pts": 9,
+   "yc": 16,
+   "rc": 1
+  },
+  {
    "name": "Coventry City FC",
    "shortName": "Coventry City",
    "tla": "COV",
@@ -241,22 +257,6 @@
    "gd": -7,
    "pts": 9,
    "yc": 8,
-   "rc": 1
-  },
-  {
-   "name": "Fulham FC",
-   "shortName": "Fulham",
-   "tla": "FUL",
-   "crest": "https://crests.football-data.org/63.png",
-   "p": 8,
-   "w": 2,
-   "d": 2,
-   "l": 4,
-   "gf": 8,
-   "ga": 10,
-   "gd": -2,
-   "pts": 8,
-   "yc": 16,
    "rc": 1
   },
   {
