@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-02T00:32:41+00:00",
- "cardsUpdatedAt": "2026-11-02T00:32:41+00:00",
+ "updatedAt": "2026-11-02T23:59:29+00:00",
+ "cardsUpdatedAt": "2026-11-02T23:59:29+00:00",
  "season": "2026",
  "teams": [
   {
@@ -16,7 +16,7 @@
    "ga": 5,
    "gd": 9,
    "pts": 24,
-   "yc": 10,
+   "yc": 14,
    "rc": 0
   },
   {
@@ -80,7 +80,7 @@
    "ga": 9,
    "gd": 2,
    "pts": 15,
-   "yc": 17,
+   "yc": 21,
    "rc": 1
   },
   {
@@ -98,6 +98,22 @@
    "pts": 14,
    "yc": 20,
    "rc": 2
+  },
+  {
+   "name": "Everton FC",
+   "shortName": "Everton",
+   "tla": "EVE",
+   "crest": "https://crests.football-data.org/62.png",
+   "p": 9,
+   "w": 3,
+   "d": 4,
+   "l": 2,
+   "gf": 9,
+   "ga": 9,
+   "gd": 0,
+   "pts": 13,
+   "yc": 15,
+   "rc": 0
   },
   {
    "name": "AFC Bournemouth",
@@ -184,13 +200,13 @@
    "shortName": "Newcastle",
    "tla": "NEW",
    "crest": "https://crests.football-data.org/67.png",
-   "p": 8,
+   "p": 9,
    "w": 3,
    "d": 2,
-   "l": 3,
+   "l": 4,
    "gf": 12,
-   "ga": 14,
-   "gd": -2,
+   "ga": 15,
+   "gd": -3,
    "pts": 11,
    "yc": 22,
    "rc": 0
@@ -210,22 +226,6 @@
    "pts": 11,
    "yc": 16,
    "rc": 1
-  },
-  {
-   "name": "Everton FC",
-   "shortName": "Everton",
-   "tla": "EVE",
-   "crest": "https://crests.football-data.org/62.png",
-   "p": 8,
-   "w": 2,
-   "d": 4,
-   "l": 2,
-   "gf": 8,
-   "ga": 9,
-   "gd": -1,
-   "pts": 10,
-   "yc": 15,
-   "rc": 0
   },
   {
    "name": "Fulham FC",
