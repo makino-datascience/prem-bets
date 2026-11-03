@@ -1,6 +1,15 @@
 {
- "updatedAt": "2026-11-02T23:59:30+00:00",
+ "updatedAt": "2026-11-03T06:31:53+00:00",
  "items": [
+  {
+   "title": "Quickfire Quiz 237: Can you answer 10 questions in 90 seconds?",
+   "summary": "Tackle these 10 football trivia questions about badges, blurred sponsors, the Ballon d'Or and more!",
+   "url": "https://www.fourfourtwo.com/quiz/quickfire-quiz-237",
+   "image": "https://cdn.mos.cms.futurecdn.net/mZyyP4b88KurQxK9f7EEJ6-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-11-03T06:00:00+00:00",
+   "epl": false
+  },
   {
    "title": "Everton latest: Moyes unsure if Grealish will be available for Coventry",
    "summary": "",
@@ -38,7 +47,7 @@
    "epl": true
   },
   {
-   "title": "Barry goal sees Everton ease past meagre Newcastle",
+   "title": "Barry goal sees Everton ease past dreadful Newcastle",
    "summary": "Highlights of the Premier League match between Newcastle and Everton.",
    "url": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights",
    "image": "https://e0.365dm.com/26/11/1920x1080/skysports-newcastle-everton_7395353.jpg?20261102220519",
@@ -647,15 +656,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/4pxhJ2WMJLGRiZRb65LWm5-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-10-30T11:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Pedro Porro admits 'I’d love to' when asked about 'dream' transfer - but admits it's 'unfair' on Tottenham Hotspur",
-   "summary": "Spurs defender confirms that he had offers to move before the World Cup",
-   "url": "https://www.fourfourtwo.com/transfer/tottenham-hotspur-star-admits-to-transfer-big-dream-despite-new-deal",
-   "image": "https://cdn.mos.cms.futurecdn.net/Ze6hWBsP5uTNzTGAsnpt2Y-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-10-30T10:50:06+00:00",
    "epl": true
   }
  ]
