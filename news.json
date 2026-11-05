@@ -1,31 +1,112 @@
 {
- "updatedAt": "2026-11-05T18:13:40+00:00",
+ "updatedAt": "2026-11-05T23:46:39+00:00",
  "items": [
   {
-   "title": "PL Predictions: Forest ready to turn promise into points vs Man City",
+   "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
+   "summary": "The top stories and transfer rumours from Friday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11095/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "source": "Sky Sports",
+   "published": "2026-11-05T23:05:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Amorim fumes at his Milan team after home Europa League loss to Ferencvaros",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ruben-amorim-ac-milan_7384075.jpg?20261022200500",
+   "source": "Sky Sports",
+   "published": "2026-11-05T22:45:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Sunderland latest: Le Bris - I prioritised Chelsea game over this one",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538",
+   "source": "Sky Sports",
+   "published": "2026-11-05T22:35:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Brighton latest: 'Lazy but deserved,' says Hurzeler on Getafe win",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121",
+   "source": "Sky Sports",
+   "published": "2026-11-05T22:31:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Yalcouye header secures narrow win for Brighton at Getafe",
+   "summary": "Malick Yalcouye's second-half header secured a narrow 1-0 win for Brighton at Getafe as Fabian Hurzeler's side moved into the top eight of the Conference League.",
+   "url": "https://www.skysports.com/football/getafe-vs-brighton-and-hove-albion/report/577924",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-brighton-malick-yalcouye_7398604.jpg?20261105220124",
+   "source": "Sky Sports",
+   "published": "2026-11-05T22:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Celtic claim dramatic Europa League win against Besiktas",
+   "summary": "Martin O'Neill's inspired substitutions saw Celtic come from behind to breathe life into their Europa League campaign with a much-needed 3-2 home victory over Besiktas.",
+   "url": "https://www.skysports.com/football/celtic-vs-besiktas/report/577800",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-celtic-camilo-duran_7398627.jpg?20261105222544",
+   "source": "Sky Sports",
+   "published": "2026-11-05T22:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Pressure ramps up on Le Bris as Sunderland beaten by Dinamo Zagreb",
+   "summary": "Pressure is ramping up even more on Regis Le Bris as Sunderland were comfortably beaten 2-0 by Dinamo Zagreb in the Europa League to continue the Black Cats' torrid run of form.",
+   "url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-sunderland-dinamo_7398561.jpg?20261105213242",
+   "source": "Sky Sports",
+   "published": "2026-11-05T21:56:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Palace latest: Sage refuses to explain Disasi absence amid questions over control",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
+   "source": "Sky Sports",
+   "published": "2026-11-05T21:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Kamada earns Palace injury-time Hoffenheim draw and offers Sage respite",
+   "summary": "Pierre Sage was handed a much-needed lifeline as Crystal Palace snatched a dramatic late 1-1 draw against Hoffenheim in the Europa League, despite playing the final stages with 10 men following Adam Wharton's dismissal.",
+   "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/report/577801",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kamada-crystal-palace_7398468.jpg?20261105200252",
+   "source": "Sky Sports",
+   "published": "2026-11-05T20:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
+   "summary": "Tyler Adams, Evanilson and Rayan came off the bench to rescue Bournemouth in the Europa League with a 3-1 turnaround victory over 10-man Sparta Prague, extending their winning run to seven matches.",
+   "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-evanilson-alvaro-rodriguez_7398470.jpg?20261105200539",
+   "source": "Sky Sports",
+   "published": "2026-11-05T20:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Family, friends and Tenerife players gather for De Miguel's funeral",
+   "summary": "The funeral of Tenerife striker Jesus de Miguel has taken place after the footballer died following an on-field ‌collision.",
+   "url": "https://www.skysports.com/football/news/11095/13608535/jesus-de-miguel-funeral-family-friends-and-tenerife-players-gather-to-remember-striker-who-died-following-on-field-collision",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-jesus-de-miguel_7398356.jpg?20261105180620",
+   "source": "Sky Sports",
+   "published": "2026-11-05T17:54:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "PL Predictions: How will your team fare this weekend?",
    "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
    "url": "https://www.skysports.com/football/news/11661/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
    "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906",
    "source": "Sky Sports",
    "published": "2026-11-05T17:40:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Tottenham latest: 'Xavi return to training date set' after ACL injury",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-11-05T17:37:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Crystal Palace latest: Sage gives cryptic response over Disasi absence vs Hoffenheim",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235",
-   "source": "Sky Sports",
-   "published": "2026-11-05T17:30:00+00:00",
    "epl": true
   },
   {
@@ -56,15 +137,6 @@
    "epl": true
   },
   {
-   "title": "Europa League LIVE! Nightmare start for Palace as Hoffenheim strike",
-   "summary": "",
-   "url": "https://www.skysports.com/football/crystal-palace-vs-tsg-hoffenheim/live/577801",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-prass-hoffenheim_7398353.jpg?20261105180427",
-   "source": "Sky Sports",
-   "published": "2026-11-05T16:25:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Chelsea latest: I became a joke with Blues - but I'm not a joke, says Rosenior",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -75,7 +147,7 @@
   },
   {
    "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
-   "summary": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England’s final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
+   "summary": "Cole Palmer's form for Chelsea ought to make him a shoo-in for England's final international squad of 2026. The question is whether Thomas Tuchel has lost patience with him.",
    "url": "https://www.skysports.com/football/news/11095/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed",
    "image": "https://e1.365dm.com/26/11/1920x1080/skysports-cole-palmer-england_7398142.jpg?20261105152017",
    "source": "Sky Sports",
@@ -198,15 +270,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-05T11:12:59+00:00",
    "epl": false
-  },
-  {
-   "title": "Brighton latest: Hurzeler among names considered as potential Carrick replacement",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121",
-   "source": "Sky Sports",
-   "published": "2026-11-05T11:00:00+00:00",
-   "epl": true
   },
   {
    "title": "Ronaldo's Portugal statement in full",
@@ -422,15 +485,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/kYWtyWDE6sZ2JTiGA73aLG-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-04T10:33:34+00:00",
-   "epl": true
-  },
-  {
-   "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-   "summary": "Real Madrid have reached a verbal agreement with 16-year-old JJ Gabriel over a potential move to the Santiago Bernabeu.",
-   "url": "https://www.skysports.com/football/news/11661/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jj-gabriel-man-utd_7369112.jpg?20261005182930",
-   "source": "Sky Sports",
-   "published": "2026-11-04T09:28:00+00:00",
    "epl": true
   },
   {
@@ -665,42 +719,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/FaDxpmCKFWQ5qidHs6TNtX-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-02T14:16:23+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal star Riccardo Calafiori linked with bombshell exit following enquiry: report",
-   "summary": "Arsenal full-back Riccardo Calafiori has been fantastic this season - and the Gunners won't want to lose him",
-   "url": "https://www.fourfourtwo.com/transfer/arsenal-star-riccardo-calafiori-linked-with-bombshell-exit-following-enquiry-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/GivUut7mSF9aCnj4uPnGgH-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-02T13:04:10+00:00",
-   "epl": true
-  },
-  {
-   "title": "Manchester City offered shock lifeline to sell £100m underperformer: report",
-   "summary": "Manchester City have lost two on the bounce - with expensive signings starting to come under fire",
-   "url": "https://www.fourfourtwo.com/transfer/manchester-city-offered-shock-lifeline-to-sell-gbp100m-underperformer-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/AWAhW3bpQpUxtVLe3b8BvR-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-02T11:43:40+00:00",
-   "epl": true
-  },
-  {
-   "title": "Manchester United moving 'closer' to completing first January transfer: report",
-   "summary": "Manchester United are looking to their next signing - a move that may help Lisandro Martinez out",
-   "url": "https://www.fourfourtwo.com/transfer/manchester-united-moving-closer-to-completing-first-january-transfer-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/rBx2wGJAGTC7zEZH32cWJ7-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-02T11:04:42+00:00",
-   "epl": true
-  },
-  {
-   "title": "Liverpool's £300m investment is becoming a laughing stock in Anfield away dressing room",
-   "summary": "Fortress Anfield is no more. Arsenal proved Liverpool have lost their fear factor.",
-   "url": "https://www.fourfourtwo.com/team/liverpools-gbp300m-investment-is-becoming-a-laughing-stock-in-anfield-away-dressing-room",
-   "image": "https://cdn.mos.cms.futurecdn.net/28LGXAxMH7nCgnTqjmqH8J-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-02T10:33:23+00:00",
    "epl": true
   }
  ]
