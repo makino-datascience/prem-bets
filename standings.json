@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-03T20:48:30+00:00",
- "cardsUpdatedAt": "2026-11-05T18:13:39+00:00",
+ "updatedAt": "2026-11-06T20:17:35+00:00",
+ "cardsUpdatedAt": "2026-11-06T20:17:35+00:00",
  "season": "2026",
  "teams": [
   {
@@ -104,14 +104,14 @@
    "shortName": "Everton",
    "tla": "EVE",
    "crest": "https://crests.football-data.org/62.png",
-   "p": 9,
+   "p": 10,
    "w": 3,
-   "d": 4,
+   "d": 5,
    "l": 2,
    "gf": 9,
    "ga": 9,
    "gd": 0,
-   "pts": 13,
+   "pts": 14,
    "yc": 17,
    "rc": 0
   },
@@ -228,6 +228,22 @@
    "rc": 1
   },
   {
+   "name": "Coventry City FC",
+   "shortName": "Coventry City",
+   "tla": "COV",
+   "crest": "https://crests.football-data.org/1076.png",
+   "p": 10,
+   "w": 3,
+   "d": 1,
+   "l": 6,
+   "gf": 9,
+   "ga": 16,
+   "gd": -7,
+   "pts": 10,
+   "yc": 10,
+   "rc": 1
+  },
+  {
    "name": "Fulham FC",
    "shortName": "Fulham",
    "tla": "FUL",
@@ -241,22 +257,6 @@
    "gd": -2,
    "pts": 9,
    "yc": 19,
-   "rc": 1
-  },
-  {
-   "name": "Coventry City FC",
-   "shortName": "Coventry City",
-   "tla": "COV",
-   "crest": "https://crests.football-data.org/1076.png",
-   "p": 9,
-   "w": 3,
-   "d": 0,
-   "l": 6,
-   "gf": 9,
-   "ga": 16,
-   "gd": -7,
-   "pts": 9,
-   "yc": 10,
    "rc": 1
   },
   {
