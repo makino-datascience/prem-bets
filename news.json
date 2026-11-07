@@ -1,23 +1,113 @@
 {
- "updatedAt": "2026-11-07T18:13:35+00:00",
+ "updatedAt": "2026-11-07T22:11:53+00:00",
  "items": [
   {
-   "title": "Delap doubles Forest's lead over City with glorious goal",
-   "summary": "Man City sloppy as Liam Delap doubles Forest's lead",
-   "url": "https://www.skysports.com/watch/video/13609474/goal-l-delap-18-nottm-forest-2-0-manchester-city",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400332.jpg?20261107175631",
+   "title": "Rangers end winless away run with comfortable victory at St Mirren",
+   "summary": "Rangers moved one point behind Scottish Premiership leaders Celtic thanks to goals from Ryan Naderi and Dan Neil in a 2-0 win over St Mirren.",
+   "url": "https://www.skysports.com/football/st-mirren-vs-rangers/report/558409",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rangers-naderi-scottish-premiership_7400583.jpg?20261107220209",
    "source": "Sky Sports",
-   "published": "2026-11-07T17:56:00+00:00",
+   "published": "2026-11-07T21:50:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "'A different Noni?' Madueke finding a new level for Arsenal",
+   "summary": "Noni Madueke lay sprawled on the turf, head in his hands, following his one-on-one miss late in Arsenal's 1-0 victory over Hull . His frustration continued to show even after the final whistle.",
+   "url": "https://www.skysports.com/football/news/11661/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-noni-madueke-arsenal_7400541.jpg?20261107205850",
+   "source": "Sky Sports",
+   "published": "2026-11-07T20:55:00+00:00",
    "epl": true
   },
   {
-   "title": "'Cool finish' from Cunha gives Forest an early lead vs Man City",
-   "summary": "Jair Cunha puts Forest ahead after six minutes as they face Manchester City in the Premier League.",
-   "url": "https://www.skysports.com/watch/video/13609457/goal-j-cunha-6-nottm-forest-1-0-manchester-city",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-football-prmier-league_7400307.jpg?20261107174421",
+   "title": "Hits and misses: Could Konsa hold off Saliba's return?",
+   "summary": "",
+   "url": "https://www.skysports.com/football/news/11095/13609127/could-arsenals-ezri-konsa-hold-off-william-saliba-from-reuniting-partnership-with-gabriel-premier-league-hits-and-misses",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-oli-mcburnie_7400464.jpg?20261107194812",
    "source": "Sky Sports",
-   "published": "2026-11-07T17:43:00+00:00",
+   "published": "2026-11-07T20:20:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Delightful Delap stars as Forest shock Man City",
+   "summary": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Manchester City.",
+   "url": "https://www.skysports.com/watch/video/13609523/nottingham-forest-3-1-manchester-city-premier-league-highlights",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-premier-league_7400455.jpg?20261107193914",
+   "source": "Sky Sports",
+   "published": "2026-11-07T19:37:00+00:00",
    "epl": true
+  },
+  {
+   "title": "Forest end goal drought to make it three defeats in a row for Man City",
+   "summary": "Liam Delap scored two as Nottingham Forest ended their goal drought in style to beat Manchester City 3-1 at the City Ground.",
+   "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400474.jpg?20261107195655",
+   "source": "Sky Sports",
+   "published": "2026-11-07T19:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Fulham latest: Arbeloa hails Muniz after breaking seven-month scoring duck",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855",
+   "source": "Sky Sports",
+   "published": "2026-11-07T19:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Hull City latest: Tigers nine without win but Jakirovic sees positives",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339",
+   "source": "Sky Sports",
+   "published": "2026-11-07T18:54:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Kane makes Bundesliga assist history as Bayern beat Mainz",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-harry-kane-bayern-munich_7400413.jpg?20261107184217",
+   "source": "Sky Sports",
+   "published": "2026-11-07T18:40:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Arsenal latest: Why Gunners should have had a penalty vs Hull",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+   "source": "Sky Sports",
+   "published": "2026-11-07T18:20:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Spurs to lodge complaint over Bogle tackle on Tel",
+   "summary": "Tottenham will submit a formal complaint to Pro Ref following the decision not to send off Leeds United defender Jayden Bogle for his challenge on Mathys Tel in Spurs' 1-0 defeat at Elland Road.",
+   "url": "https://www.skysports.com/football/news/11661/13609496/tottenham-to-submit-complaint-to-pro-ref-over-jayden-bogles-tackle-on-mathys-tel-in-leeds-win-at-elland-road",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mathys-tel-spurs_7399858.jpg?20261107133330",
+   "source": "Sky Sports",
+   "published": "2026-11-07T18:18:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Spurs latest: De Zerbi to serve touchline ban",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+   "source": "Sky Sports",
+   "published": "2026-11-07T18:09:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Rangers move to within one point of Celtic after beating St Mirren LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/st-mirren-vs-rangers/live/558409",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-st-mirren-rangers_7395008.jpg?20261102151724",
+   "source": "Sky Sports",
+   "published": "2026-11-07T18:00:00+00:00",
+   "epl": false
   },
   {
    "title": "Odegaard earns Arsenal narrow win over Hull to extend gap at the top",
@@ -74,30 +164,12 @@
    "epl": true
   },
   {
-   "title": "Delap doubles Forest lead vs Man City LIVE! & highlights",
-   "summary": "",
-   "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-liam-delap-nottingham-forest_7400335.jpg?20261107175718",
-   "source": "Sky Sports",
-   "published": "2026-11-07T15:49:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Leeds latest: Farke says 'butterfly' Bogle is 'softest player' in PL",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402",
    "source": "Sky Sports",
    "published": "2026-11-07T15:24:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Bronze mistake, Chelsea frustration, Shaw hat-trick - WSL round-up",
-   "summary": "Khadija 'Bunny' Shaw struck a perfect hat-trick as Manchester City dispatched West Ham 5-0 to retake top spot in the Women's Super League.",
-   "url": "https://www.skysports.com/football/news/11095/13608977/man-city-5-0-west-ham-chelsea-1-1-everton-reigning-wsl-champions-make-title-statement-as-bunny-shaw-scores-hat-trick",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-khadija-shaw-man-city_7399861.jpg?20261107133450",
-   "source": "Sky Sports",
-   "published": "2026-11-07T15:00:00+00:00",
    "epl": true
   },
   {
@@ -117,33 +189,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-07T14:30:00+00:00",
    "epl": true
-  },
-  {
-   "title": "Wrexham hit back to hold Wolves",
-   "summary": "Lewis O'Brien's first goal of the season earned Wrexham a 1-1 draw and prevented Wolves going top of the SkyBet Championship.",
-   "url": "https://www.skysports.com/football/wrexham-vs-wolverhampton-wanderers/report/560677",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lewis-o-brien-wrexham_7399815.jpg?20261107131041",
-   "source": "Sky Sports",
-   "published": "2026-11-07T14:10:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Norwich thump five past Bristol City as home fans turn on Skubala",
-   "summary": "Bristol City fans turned on manager Michael Skubala as Norwich made it nine goals in successive away victories with a 5-0 Sky Bet Championship win at Ashton Gate.",
-   "url": "https://www.skysports.com/football/bristol-city-vs-norwich-city/report/560668",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mathias-kvistgaarden_7399917.jpg?20261107143044",
-   "source": "Sky Sports",
-   "published": "2026-11-07T14:10:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Stoke battle back to win at Portsmouth",
-   "summary": "Jack McGlynn and Ben Wilmot scored as Stoke hit back to beat Portsmouth 2-1 and maintain their impressive Championship form.",
-   "url": "https://www.skysports.com/football/portsmouth-vs-stoke-city/report/560672",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-jack-mcglynn-stoke-city_7399913.jpg?20261107143006",
-   "source": "Sky Sports",
-   "published": "2026-11-07T14:10:00+00:00",
-   "epl": false
   },
   {
    "title": "Watch Altrincham vs Notts County for FREE: Live Streams",
@@ -236,15 +281,6 @@
    "epl": false
   },
   {
-   "title": "Arsenal latest: Saliba to play for U21s against Aston Villa",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-   "source": "Sky Sports",
-   "published": "2026-11-07T07:22:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Vinicius Junior, what's going on?",
    "summary": "Cosmetic surgery, conspiracy theories and a conspicuous lack of goals have defined his 2026/27 season so far",
    "url": "https://www.fourfourtwo.com/person/player/vinicius-junior-whats-going-on",
@@ -260,24 +296,6 @@
    "image": "https://e1.365dm.com/26/11/1920x1080/skysports-frank-lampard-coventry_7399658.jpg?20261106231845",
    "source": "Sky Sports",
    "published": "2026-11-06T23:20:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Papers: Man Utd handed boost in pursuit of Barca left-back Balde",
-   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-   "url": "https://www.skysports.com/football/news/11095/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "source": "Sky Sports",
-   "published": "2026-11-06T22:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe",
-   "summary": "Thierno Barry continued his fine form as his two goals and an assist fired Everton to a comeback 3-1 win over Coventry - who had three big VAR calls go against them on Merseyside.",
-   "url": "https://www.skysports.com/football/everton-vs-coventry-city/report/559537",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-thierno-barry-everton_7399579.jpg?20261106214109",
-   "source": "Sky Sports",
-   "published": "2026-11-06T22:00:00+00:00",
    "epl": true
   },
   {
@@ -297,15 +315,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-06T17:00:00+00:00",
    "epl": true
-  },
-  {
-   "title": "Birmingham top, Cardiff stun Burnley 5-4 & Blackburn beat West Ham - Championship highlights",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13608936/wrexham-vs-wolves-live-championship-match-updates-score-stream-and-free-highlights",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-blackburn-rovers_7400135.jpg?20261107162444",
-   "source": "Sky Sports",
-   "published": "2026-11-06T16:06:00+00:00",
-   "epl": false
   },
   {
    "title": "How Arsenal have decided the title race before winter has even arrived - the Gunners dine alone this season",
@@ -335,15 +344,6 @@
    "epl": true
   },
   {
-   "title": "Spurs latest: De Zerbi has 'big confidence' in officials despite Bogle call",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-11-06T15:02:00+00:00",
-   "epl": true
-  },
-  {
    "title": "NEW ISSUE: How to fix football: our 30 point guide. Edwin van der Sar on his glittering career, on the bench at Harrogate, Bobby Robson's England, on the ground at FC Midtjylland PLUS Graeme Souness answers YOUR questions",
    "summary": "Get your hands on the latest issue of FourFourTwo magazine – available in print or on your device now",
    "url": "https://www.fourfourtwo.com/team/new-issue-30-point-guide-on-how-to-fix-football-edwin-van-der-sar-on-his-glittering-career-on-the-bench-at-harrogate-bobby-robsons-england-on-the-ground-at-fc-midtjylland-plus-graeme-souness-answers-your-questions",
@@ -359,6 +359,15 @@
    "image": "https://cdn.mos.cms.futurecdn.net/SjHwW7uwobSxdRapXHbinn-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-06T14:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Newcastle latest: Jaissle frustrated at 'soft' disallowed goal",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104",
+   "source": "Sky Sports",
+   "published": "2026-11-06T14:27:00+00:00",
    "epl": true
   },
   {
