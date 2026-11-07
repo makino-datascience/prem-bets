@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T00:12:48+00:00",
+ "updatedAt": "2026-11-07T13:26:35+00:00",
  "cardsUpdatedAt": "2026-11-06T20:17:35+00:00",
  "season": "2026",
  "teams": [
@@ -116,6 +116,22 @@
    "rc": 2
   },
   {
+   "name": "Tottenham Hotspur FC",
+   "shortName": "Tottenham",
+   "tla": "TOT",
+   "crest": "https://crests.football-data.org/73.png",
+   "p": 10,
+   "w": 3,
+   "d": 4,
+   "l": 3,
+   "gf": 10,
+   "ga": 10,
+   "gd": 0,
+   "pts": 13,
+   "yc": 13,
+   "rc": 1
+  },
+  {
    "name": "AFC Bournemouth",
    "shortName": "Bournemouth",
    "tla": "BOU",
@@ -132,20 +148,20 @@
    "rc": 0
   },
   {
-   "name": "Tottenham Hotspur FC",
-   "shortName": "Tottenham",
-   "tla": "TOT",
-   "crest": "https://crests.football-data.org/73.png",
-   "p": 9,
-   "w": 3,
-   "d": 3,
-   "l": 3,
-   "gf": 10,
-   "ga": 10,
-   "gd": 0,
+   "name": "Leeds United FC",
+   "shortName": "Leeds United",
+   "tla": "LEE",
+   "crest": "https://crests.football-data.org/341.png",
+   "p": 10,
+   "w": 2,
+   "d": 6,
+   "l": 2,
+   "gf": 9,
+   "ga": 8,
+   "gd": 1,
    "pts": 12,
-   "yc": 13,
-   "rc": 1
+   "yc": 17,
+   "rc": 0
   },
   {
    "name": "Aston Villa FC",
@@ -177,22 +193,6 @@
    "gd": 1,
    "pts": 11,
    "yc": 24,
-   "rc": 0
-  },
-  {
-   "name": "Leeds United FC",
-   "shortName": "Leeds United",
-   "tla": "LEE",
-   "crest": "https://crests.football-data.org/341.png",
-   "p": 9,
-   "w": 2,
-   "d": 5,
-   "l": 2,
-   "gf": 9,
-   "ga": 8,
-   "gd": 1,
-   "pts": 11,
-   "yc": 17,
    "rc": 0
   },
   {
