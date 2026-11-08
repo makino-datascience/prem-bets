@@ -1,13 +1,175 @@
 {
- "updatedAt": "2026-11-08T08:42:17+00:00",
+ "updatedAt": "2026-11-08T15:50:26+00:00",
  "items": [
   {
-   "title": "Could former Arsenal boss Wenger challenge Infantino for FIFA presidency?",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-fifa-arsene-wenger_7313553.jpg?20260804112138",
+   "title": "Russo shines at Anfield, United snatch late win - WSL round-up",
+   "summary": "Arsenal claimed a hard-fought 2-1 victory over Liverpool at Anfield as Alessia Russo's double secured three important points for Renee Slegers' side, while Manchester United left it late to beat Aston Villa 1-0",
+   "url": "https://www.skysports.com/football/news/11095/13608979/wsl-liverpool-1-2-arsenal-aston-villa-0-1-man-utd-8211-alessia-russo-double-inspires-gunners-as-julia-zigiotti-olme-earns-late-united-win",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alessia-russo-arsenal_7400827.jpg?20261108150936",
    "source": "Sky Sports",
-   "published": "2026-11-08T08:29:00+00:00",
+   "published": "2026-11-08T15:07:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man Utd vs Aston Villa team news as Tielemans starts LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/manchester-united-vs-aston-villa/live/559541",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-man-utd-aston-villa_7394999.jpg?20261102151150",
+   "source": "Sky Sports",
+   "published": "2026-11-08T15:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Jota starts for Celtic vs Kilmarnock LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/celtic-vs-kilmarnock/live/558406",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-jota-celtic_7400988.jpg?20261108150220",
+   "source": "Sky Sports",
+   "published": "2026-11-08T14:30:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Russo brace seals win for Arsenal against Liverpool",
+   "summary": "Highlights of the Women's Super League match between Liverpool and Arsenal.",
+   "url": "https://www.skysports.com/watch/video/13609714/liverpool-1-2-arsenal-womens-super-league-highlights",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-football-wsl_7400891.jpg?20261108140251",
+   "source": "Sky Sports",
+   "published": "2026-11-08T14:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Watch Man Utd vs Aston Villa: Live streams and TV info",
+   "summary": "Here's how to watch Man Utd vs Aston Villa from anywhere in the world as the Premier League throws up a Super Sunday spectacle at Old Trafford.",
+   "url": "https://www.fourfourtwo.com/competition/watch-man-utd-aston-villa-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/YbJkNxR4NBNg5PPHWMuKyB-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T13:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Kieran Gibbs on the challenges of moving to Major League Soccer",
+   "summary": "The former England international headed stateside in 2021",
+   "url": "https://www.fourfourtwo.com/person/player/once-i-spoke-to-david-beckham-inter-miami-appealed-to-me-i-knew-it-was-going-to-be-a-physical-game-people-mentioned-the-travel-but-i-didnt-think-that-was-going-to-be-quite-so-difficult-kieran-gibbs-on-moving-to-major-league-soccer",
+   "image": "https://cdn.mos.cms.futurecdn.net/Zqz7nda9yMg3TrQFmurqGe-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T13:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Chelsea behind and struggling to break down Sunderland LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/sunderland-vs-chelsea/live/559543",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-enzo-le-fee-sunderland_7400955.jpg?20261108144350",
+   "source": "Sky Sports",
+   "published": "2026-11-08T12:33:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Sage in trouble with Palace trailing by two goals vs Liverpool LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/crystal-palace-vs-liverpool/live/559536",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7401017.jpg?20261108152537",
+   "source": "Sky Sports",
+   "published": "2026-11-08T12:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Brighton pushing for third against 10-man Brentford LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/live/559535",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pascal-gross-maxim-de-cuyper_7400969.jpg?20261108145113",
+   "source": "Sky Sports",
+   "published": "2026-11-08T12:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "How Marcelo Bielsa 'reignited that pure love the game' for Javier Zanetti",
+   "summary": "The Argentina and Inter Milan great worked with some of the game’s most influential coaches",
+   "url": "https://www.fourfourtwo.com/person/player/he-has-a-way-of-reaching-something-deep-inside-you-of-reigniting-that-pure-love-of-the-game-you-had-as-a-kid-javier-zanetti-on-working-with-marcelo-bielsa",
+   "image": "https://cdn.mos.cms.futurecdn.net/zJxV3MzgBBmRDzrURejTnV-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T11:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Watch Ipswich Town vs Bournemouth: FREE stream and TV info",
+   "summary": "Here's how to watch Ipswich Town vs Bournemouth from anywhere in the world as the Cherries look to continue their unbeaten run.",
+   "url": "https://www.fourfourtwo.com/competition/watch-ipswich-town-vs-bournemouth-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/ouqvFCzWhoDbijyiySbtpM-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T11:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Watch Crystal Palace vs Liverpool: FREE stream and TV info",
+   "summary": "Here's how to watch Crystal Palace vs Liverpool for FREE from anywhere in the world as the Eagles look for an upset at home against Andoni Iraola's men.",
+   "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-liverpool-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/qoZ8LhrLAXo2T4sQnGz628-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T11:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "How to watch Sunderland vs Chelsea for FREE: Live streams",
+   "summary": "Here's how to watch Sunderland vs Chelsea for free online from anywhere as the clubs meet in a Premier League today at the Stadium of Light.",
+   "url": "https://www.fourfourtwo.com/competition/watch-sunderland-vs-chelsea-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/bwzHaUfCSFtxCq5JsoD3UB-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T11:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Watch Brighton vs Brentford: Live streams and TV channels",
+   "summary": "Here's how to watch Brighton vs Brentford from anywhere in the world as the Seagulls host the Bees in a battle of two Premier League high-fliers.",
+   "url": "https://www.fourfourtwo.com/competition/watch-brighton-vs-brentford-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/z7Shtw9gxqdcAZUKs7KVpF-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T11:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+   "source": "Sky Sports",
+   "published": "2026-11-08T10:55:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man Utd latest: Carrick given no assurances over future beyond Villa match",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+   "source": "Sky Sports",
+   "published": "2026-11-08T10:24:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Watch Cray Wanderers vs Stockport County: FREE Streams",
+   "summary": "Here's how to watch Cray Wanderers vs Stockport County for free from anywhere as the seventh-tier side welcome League One opponents in the FA Cup First Round.",
+   "url": "https://www.fourfourtwo.com/competition/watch-cray-wanderers-vs-stockport-county-fa-cup-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/egU9dzMJwBCo4MvD2hm4pX-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T10:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Ipswich pull a goal back against Bournemouth LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/ipswich-town-vs-bournemouth/live/559539",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ryan-christie-bournemouth_7401016.jpg?20261108152358",
+   "source": "Sky Sports",
+   "published": "2026-11-08T09:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "From VAR to ticket prices, football needs fixing – here are 30 ways to make the game better",
+   "summary": "The Manchester City scandal is the latest issue to anger supporters – is the game we all love broken? Can FourFourTwo fix it? Read our 30-point plan to save the day",
+   "url": "https://www.fourfourtwo.com/competition/from-var-to-ticket-prices-football-needs-fixing-here-are-30-ways-to-make-the-game-better",
+   "image": "https://cdn.mos.cms.futurecdn.net/yE6BQK5A4NrXTSwnxceNig-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-08T09:00:00+00:00",
    "epl": true
   },
   {
@@ -38,15 +200,6 @@
    "epl": true
   },
   {
-   "title": "Rangers end winless away run with comfortable victory at St Mirren",
-   "summary": "Rangers moved one point behind Scottish Premiership leaders Celtic thanks to goals from Ryan Naderi and Dan Neil in a 2-0 win over St Mirren.",
-   "url": "https://www.skysports.com/football/st-mirren-vs-rangers/report/558409",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rangers-naderi-scottish-premiership_7400583.jpg?20261107220209",
-   "source": "Sky Sports",
-   "published": "2026-11-07T21:50:00+00:00",
-   "epl": false
-  },
-  {
    "title": "'A different Noni?' Madueke finding a new level for Arsenal",
    "summary": "Noni Madueke lay sprawled on the turf, head in his hands, following his one-on-one miss late in Arsenal's 1-0 victory over Hull . His frustration continued to show even after the final whistle.",
    "url": "https://www.skysports.com/football/news/11661/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency",
@@ -63,15 +216,6 @@
    "source": "Sky Sports",
    "published": "2026-11-07T20:20:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Man City latest: Maresca admits side did not match Forest's intensity",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-   "source": "Sky Sports",
-   "published": "2026-11-07T20:00:00+00:00",
-   "epl": true
   },
   {
    "title": "Delightful Delap stars as Forest shock Man City",
@@ -98,24 +242,6 @@
    "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
    "source": "Sky Sports",
    "published": "2026-11-07T18:20:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Spurs to lodge complaint over Bogle tackle on Tel",
-   "summary": "Tottenham will submit a formal complaint to Pro Ref following the decision not to send off Leeds United defender Jayden Bogle for his challenge on Mathys Tel in Spurs' 1-0 defeat at Elland Road.",
-   "url": "https://www.skysports.com/football/news/11661/13609496/tottenham-to-submit-complaint-to-pro-ref-over-jayden-bogles-tackle-on-mathys-tel-in-leeds-win-at-elland-road",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mathys-tel-spurs_7399858.jpg?20261107133330",
-   "source": "Sky Sports",
-   "published": "2026-11-07T18:18:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Spurs latest: De Zerbi to serve touchline ban",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-11-07T18:09:00+00:00",
    "epl": true
   },
   {
@@ -218,19 +344,19 @@
    "epl": false
   },
   {
-   "title": "Fulham vs Newcastle United: FREE streams and TV channels",
-   "summary": "Here's how to watch Fulham vs Newcastle United for free online from anywhere in the world, as the Cottagers host the Magpies in the Premier League.",
-   "url": "https://www.fourfourtwo.com/competition/watch-fulham-vs-newcastle-united-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/KEXQdJYfoEwLz48hxYR3D4-1920-80.jpg",
+   "title": "Watch Arsenal vs Hull City: Live Streams and TV channels",
+   "summary": "Here's how to watch Arsenal vs Hull City online from anywhere, as the Premier League champions aim to extend their lead at the summit.",
+   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-hull-city-premier-league-2026-27",
+   "image": "https://cdn.mos.cms.futurecdn.net/wn562xGyD5MAv5RVQnBUMf-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-07T12:00:00+00:00",
    "epl": true
   },
   {
-   "title": "Watch Arsenal vs Hull City: Live Streams and TV channels",
-   "summary": "Here's how to watch Arsenal vs Hull City online from anywhere, as the Premier League champions aim to extend their lead at the summit.",
-   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-hull-city-premier-league-2026-27",
-   "image": "https://cdn.mos.cms.futurecdn.net/wn562xGyD5MAv5RVQnBUMf-1920-80.jpg",
+   "title": "Fulham vs Newcastle United: FREE streams and TV channels",
+   "summary": "Here's how to watch Fulham vs Newcastle United for free online from anywhere in the world, as the Cottagers host the Magpies in the Premier League.",
+   "url": "https://www.fourfourtwo.com/competition/watch-fulham-vs-newcastle-united-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/KEXQdJYfoEwLz48hxYR3D4-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-07T12:00:00+00:00",
    "epl": true
@@ -263,15 +389,6 @@
    "epl": false
   },
   {
-   "title": "What's gone so wrong so quickly at Crystal Palace?",
-   "summary": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
-   "url": "https://www.skysports.com/football/news/11661/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515",
-   "source": "Sky Sports",
-   "published": "2026-11-07T08:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "FourFourTwo's Weekend Crossword 78: Myths, legends and Germans",
    "summary": "Your weekend football puzzle is here just waiting to be solved",
    "url": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-78",
@@ -288,15 +405,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-07T07:00:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Lampard says VAR 'didn't do its job' as Redknapp calls decision 'rubbish'",
-   "summary": "Coventry boss Frank Lampard says VAR 'didn't do its job' in his side's defeat to Everton as three reviews controversially went against his side.",
-   "url": "https://www.skysports.com/football/news/11661/13609067/everton-3-1-coventry-frank-lampard-says-var-didnt-do-its-job-after-three-incidents-went-against-sky-blues-in-premier-league-defeat",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-frank-lampard-coventry_7399658.jpg?20261106231845",
-   "source": "Sky Sports",
-   "published": "2026-11-06T23:20:00+00:00",
-   "epl": true
   },
   {
    "title": "Watch Everton vs Coventry City: FREE streams and TV channels",
@@ -389,15 +497,6 @@
    "epl": false
   },
   {
-   "title": "Forest latest: Glasner hails incredible energy against Man City",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014",
-   "source": "Sky Sports",
-   "published": "2026-11-06T09:56:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Man Utd's next generation can rescue Carrick",
    "summary": "Being at Old Trafford on Tuesday night was quite incredible.",
    "url": "https://www.skysports.com/football/news/11661/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
@@ -443,7 +542,7 @@
    "epl": false
   },
   {
-   "title": "PL Predictions: How will your team fare this weekend?",
+   "title": "PL Predictions: Emery's Villa to inflict more misery on Carrick and Man Utd",
    "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
    "url": "https://www.skysports.com/football/news/11661/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
    "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906",
@@ -593,87 +692,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/fKWYtqVycqLbRrPL2s3qe9-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-04T18:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Watch RB Leipzig vs Manchester City for FREE: Live Streams",
-   "summary": "Here's how to watch RB Leipzig vs Manchester City for free from anywhere as Enzo Maresca's men continue their Champions League 2026/27 league phase campaign.",
-   "url": "https://www.fourfourtwo.com/competition/watch-rb-leipzig-vs-manchester-city-champions-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/jZMKrVPcfFuCfYwNDSUMbK-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T17:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Manchester City star's talent is being 'wasted' by Enzo Maresca as dressing room unrest revealed",
-   "summary": "Enzo Maresca's first season as Manchester City boss isn't all going according to plan so far",
-   "url": "https://www.fourfourtwo.com/transfer/manchester-city-stars-talent-is-being-wasted-by-enzo-maresca-as-dressing-room-unrest-revealed",
-   "image": "https://cdn.mos.cms.futurecdn.net/AWAhW3bpQpUxtVLe3b8BvR-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T16:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal have blocked TWO major January exits already: report",
-   "summary": "Arsenal manager Mikel Arteta is determined to keep the core of his title-winning team",
-   "url": "https://www.fourfourtwo.com/transfer/arsenal-have-blocked-two-major-january-exits-already-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/P6Q4XQtfsS8Bd9XwTvB2sH-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T16:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Jesus Owono could face four years in prison after the death of Jesus de Miguel",
-   "summary": "Jesus de Miguel suffered a cardiac arrest after colliding with goalkeeper Jesus Owono - who now could face criminal charges",
-   "url": "https://www.fourfourtwo.com/person/player/jesus-owono-could-face-four-years-in-prison-after-the-death-of-jesus-de-miguel",
-   "image": "https://cdn.mos.cms.futurecdn.net/szjwuWTDa4zFdXokS6Jxmf-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T15:00:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Watch Fenerbahce vs Liverpool: FREE Streams and TV Channels",
-   "summary": "Here's how to watch Fenerbahce vs Liverpool for free from anywhere as the Reds travel to Istanbul in the Champions League 2026/27 league phase.",
-   "url": "https://www.fourfourtwo.com/competition/watch-fenerbahce-vs-liverpool-champions-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/xdbbCvwR6gPZBAtV5XTntb-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T14:45:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Manchester United dodged a bullet but Old Trafford chief could still make same mistake",
-   "summary": "Manchester United director of football Jason Wilcox has come under fresh scrutiny following a new revelation about one of his preferred managerial targets",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-dodged-a-bullet-but-old-trafford-chief-could-still-make-same-mistake",
-   "image": "https://cdn.mos.cms.futurecdn.net/bGQ7aq9LKyaSJTXoLX65zE-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T14:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "The final straw for Unai Emery at Aston Villa? New transfer emerges, that could force Basque out",
-   "summary": "Aston Villa boss Unai Emery has overseen a huge rebuild - but perhaps not even he could stomach losing another star",
-   "url": "https://www.fourfourtwo.com/transfer/the-final-straw-for-unai-emery-at-aston-villa-new-transfer-emerges-that-could-force-basque-out",
-   "image": "https://cdn.mos.cms.futurecdn.net/eRixPKBhcsRBiTha9NPjYS-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T12:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "David Beckham's Manchester United takeover BACKED, as ownership solution presented",
-   "summary": "Could Manchester United legend David Beckham save the club from the Glazers?",
-   "url": "https://www.fourfourtwo.com/transfer/david-beckhams-manchester-united-takeover-backed-as-ownership-solution-presented",
-   "image": "https://cdn.mos.cms.futurecdn.net/Lgt6NqeHUA5zo5HtnVwSiK-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T10:58:43+00:00",
-   "epl": true
-  },
-  {
-   "title": "Liverpool report: Bayern Munich in for Rio Ngumoha, following nine-figure move",
-   "summary": "Bayern Munich want Liverpool starlet Rio Ngumoha, as the Reds are presented with a difficult decision",
-   "url": "https://www.fourfourtwo.com/transfer/liverpool-report-bayern-munich-in-for-rio-ngumoha-following-nine-figure-move",
-   "image": "https://cdn.mos.cms.futurecdn.net/kYWtyWDE6sZ2JTiGA73aLG-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-04T10:33:34+00:00",
    "epl": true
   }
  ]

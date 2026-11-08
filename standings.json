@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-07T22:11:52+00:00",
- "cardsUpdatedAt": "2026-11-07T18:13:34+00:00",
+ "updatedAt": "2026-11-08T15:50:25+00:00",
+ "cardsUpdatedAt": "2026-11-08T15:50:25+00:00",
  "season": "2026",
  "teams": [
   {
@@ -20,6 +20,22 @@
    "rc": 0
   },
   {
+   "name": "Brighton & Hove Albion FC",
+   "shortName": "Brighton Hove",
+   "tla": "BHA",
+   "crest": "https://crests.football-data.org/397.png",
+   "p": 10,
+   "w": 7,
+   "d": 1,
+   "l": 2,
+   "gf": 26,
+   "ga": 7,
+   "gd": 19,
+   "pts": 22,
+   "yc": 20,
+   "rc": 1
+  },
+  {
    "name": "Manchester City FC",
    "shortName": "Man City",
    "tla": "MCI",
@@ -36,19 +52,19 @@
    "rc": 1
   },
   {
-   "name": "Brighton & Hove Albion FC",
-   "shortName": "Brighton Hove",
-   "tla": "BHA",
-   "crest": "https://crests.football-data.org/397.png",
-   "p": 9,
-   "w": 6,
-   "d": 1,
+   "name": "Liverpool FC",
+   "shortName": "Liverpool",
+   "tla": "LIV",
+   "crest": "https://crests.football-data.org/64.png",
+   "p": 10,
+   "w": 5,
+   "d": 3,
    "l": 2,
-   "gf": 24,
-   "ga": 7,
-   "gd": 17,
-   "pts": 19,
-   "yc": 20,
+   "gf": 13,
+   "ga": 9,
+   "gd": 4,
+   "pts": 18,
+   "yc": 21,
    "rc": 1
   },
   {
@@ -56,13 +72,13 @@
    "shortName": "Chelsea",
    "tla": "CHE",
    "crest": "https://crests.football-data.org/61.png",
-   "p": 9,
+   "p": 10,
    "w": 5,
    "d": 1,
-   "l": 3,
+   "l": 4,
    "gf": 19,
-   "ga": 15,
-   "gd": 4,
+   "ga": 16,
+   "gd": 3,
    "pts": 16,
    "yc": 16,
    "rc": 1
@@ -84,33 +100,33 @@
    "rc": 0
   },
   {
-   "name": "Liverpool FC",
-   "shortName": "Liverpool",
-   "tla": "LIV",
-   "crest": "https://crests.football-data.org/64.png",
-   "p": 9,
+   "name": "AFC Bournemouth",
+   "shortName": "Bournemouth",
+   "tla": "BOU",
+   "crest": "https://crests.football-data.org/bournemouth.png",
+   "p": 10,
    "w": 4,
    "d": 3,
-   "l": 2,
-   "gf": 11,
-   "ga": 9,
+   "l": 3,
+   "gf": 16,
+   "ga": 14,
    "gd": 2,
    "pts": 15,
-   "yc": 21,
-   "rc": 1
+   "yc": 24,
+   "rc": 0
   },
   {
    "name": "Brentford FC",
    "shortName": "Brentford",
    "tla": "BRE",
    "crest": "https://crests.football-data.org/402.png",
-   "p": 9,
+   "p": 10,
    "w": 3,
    "d": 5,
-   "l": 1,
+   "l": 2,
    "gf": 16,
-   "ga": 9,
-   "gd": 7,
+   "ga": 11,
+   "gd": 5,
    "pts": 14,
    "yc": 20,
    "rc": 2
@@ -128,23 +144,7 @@
    "ga": 8,
    "gd": 2,
    "pts": 14,
-   "yc": 17,
-   "rc": 0
-  },
-  {
-   "name": "AFC Bournemouth",
-   "shortName": "Bournemouth",
-   "tla": "BOU",
-   "crest": "https://crests.football-data.org/bournemouth.png",
-   "p": 9,
-   "w": 3,
-   "d": 3,
-   "l": 3,
-   "gf": 14,
-   "ga": 13,
-   "gd": 1,
-   "pts": 12,
-   "yc": 24,
+   "yc": 19,
    "rc": 0
   },
   {
@@ -160,7 +160,7 @@
    "ga": 11,
    "gd": -1,
    "pts": 12,
-   "yc": 13,
+   "yc": 16,
    "rc": 1
   },
   {
@@ -176,7 +176,7 @@
    "ga": 16,
    "gd": -3,
    "pts": 12,
-   "yc": 24,
+   "yc": 26,
    "rc": 1
   },
   {
@@ -208,7 +208,7 @@
    "ga": 11,
    "gd": 0,
    "pts": 11,
-   "yc": 24,
+   "yc": 29,
    "rc": 0
   },
   {
@@ -216,13 +216,13 @@
    "shortName": "Ipswich Town",
    "tla": "IPS",
    "crest": "https://crests.football-data.org/349.png",
-   "p": 9,
+   "p": 10,
    "w": 3,
    "d": 2,
-   "l": 4,
-   "gf": 14,
-   "ga": 18,
-   "gd": -4,
+   "l": 5,
+   "gf": 15,
+   "ga": 20,
+   "gd": -5,
    "pts": 11,
    "yc": 16,
    "rc": 1
@@ -256,7 +256,7 @@
    "ga": 13,
    "gd": -4,
    "pts": 9,
-   "yc": 20,
+   "yc": 24,
    "rc": 0
   },
   {
@@ -274,6 +274,22 @@
    "pts": 9,
    "yc": 11,
    "rc": 1
+  },
+  {
+   "name": "Sunderland AFC",
+   "shortName": "Sunderland",
+   "tla": "SUN",
+   "crest": "https://crests.football-data.org/71.png",
+   "p": 10,
+   "w": 2,
+   "d": 2,
+   "l": 6,
+   "gf": 8,
+   "ga": 17,
+   "gd": -9,
+   "pts": 8,
+   "yc": 13,
+   "rc": 3
   },
   {
    "name": "Manchester United FC",
@@ -296,32 +312,16 @@
    "shortName": "Crystal Palace",
    "tla": "CRY",
    "crest": "https://crests.football-data.org/354.png",
-   "p": 9,
+   "p": 10,
    "w": 2,
    "d": 1,
-   "l": 6,
+   "l": 7,
    "gf": 9,
-   "ga": 21,
-   "gd": -12,
+   "ga": 23,
+   "gd": -14,
    "pts": 7,
    "yc": 13,
    "rc": 2
-  },
-  {
-   "name": "Sunderland AFC",
-   "shortName": "Sunderland",
-   "tla": "SUN",
-   "crest": "https://crests.football-data.org/71.png",
-   "p": 9,
-   "w": 1,
-   "d": 2,
-   "l": 6,
-   "gf": 7,
-   "ga": 17,
-   "gd": -10,
-   "pts": 5,
-   "yc": 13,
-   "rc": 3
   }
  ]
 }
