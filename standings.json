@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T15:50:25+00:00",
+ "updatedAt": "2026-11-08T20:15:56+00:00",
  "cardsUpdatedAt": "2026-11-08T15:50:25+00:00",
  "season": "2026",
  "teams": [
@@ -60,8 +60,8 @@
    "w": 5,
    "d": 3,
    "l": 2,
-   "gf": 13,
-   "ga": 9,
+   "gf": 14,
+   "ga": 10,
    "gd": 4,
    "pts": 18,
    "yc": 21,
@@ -148,6 +148,22 @@
    "rc": 0
   },
   {
+   "name": "Aston Villa FC",
+   "shortName": "Aston Villa",
+   "tla": "AVL",
+   "crest": "https://crests.football-data.org/58.png",
+   "p": 10,
+   "w": 3,
+   "d": 4,
+   "l": 3,
+   "gf": 14,
+   "ga": 17,
+   "gd": -3,
+   "pts": 13,
+   "yc": 19,
+   "rc": 1
+  },
+  {
    "name": "Tottenham Hotspur FC",
    "shortName": "Tottenham",
    "tla": "TOT",
@@ -177,22 +193,6 @@
    "gd": -3,
    "pts": 12,
    "yc": 26,
-   "rc": 1
-  },
-  {
-   "name": "Aston Villa FC",
-   "shortName": "Aston Villa",
-   "tla": "AVL",
-   "crest": "https://crests.football-data.org/58.png",
-   "p": 9,
-   "w": 3,
-   "d": 3,
-   "l": 3,
-   "gf": 10,
-   "ga": 13,
-   "gd": -3,
-   "pts": 12,
-   "yc": 19,
    "rc": 1
   },
   {
@@ -276,6 +276,22 @@
    "rc": 1
   },
   {
+   "name": "Manchester United FC",
+   "shortName": "Man United",
+   "tla": "MUN",
+   "crest": "https://crests.football-data.org/66.png",
+   "p": 10,
+   "w": 1,
+   "d": 5,
+   "l": 4,
+   "gf": 14,
+   "ga": 19,
+   "gd": -5,
+   "pts": 8,
+   "yc": 20,
+   "rc": 1
+  },
+  {
    "name": "Sunderland AFC",
    "shortName": "Sunderland",
    "tla": "SUN",
@@ -292,22 +308,6 @@
    "rc": 3
   },
   {
-   "name": "Manchester United FC",
-   "shortName": "Man United",
-   "tla": "MUN",
-   "crest": "https://crests.football-data.org/66.png",
-   "p": 9,
-   "w": 1,
-   "d": 4,
-   "l": 4,
-   "gf": 10,
-   "ga": 15,
-   "gd": -5,
-   "pts": 7,
-   "yc": 20,
-   "rc": 1
-  },
-  {
    "name": "Crystal Palace FC",
    "shortName": "Crystal Palace",
    "tla": "CRY",
@@ -316,8 +316,8 @@
    "w": 2,
    "d": 1,
    "l": 7,
-   "gf": 9,
-   "ga": 23,
+   "gf": 10,
+   "ga": 24,
    "gd": -14,
    "pts": 7,
    "yc": 13,
