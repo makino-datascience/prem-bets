@@ -1,32 +1,230 @@
 {
- "updatedAt": "2026-11-10T06:27:12+00:00",
+ "updatedAt": "2026-11-10T15:10:37+00:00",
  "items": [
   {
-   "title": "Man Utd latest: 'It doesn't matter who is in charge at Old Trafford'",
+   "title": "Manchester United chiefs to discuss relegation plan at Michael Carrick summit in Monaco",
+   "summary": "The Manchester United hierarchy must not disregard relegation as an impossibility after one win in their opening 10 league matches this season",
+   "url": "https://www.fourfourtwo.com/team/manchester-united-chiefs-to-discuss-relegation-plan-at-michael-carrick-summit-in-monaco",
+   "image": "https://cdn.mos.cms.futurecdn.net/8vo3gdThGBLFd3Ngkn9KnZ-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T15:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Spurs latest: Simons reveals emotional toll of injury as he eyes early return",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+   "source": "Sky Sports",
+   "published": "2026-11-10T14:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
+   "summary": "Sky Sports' Paul Merson believes Manchester United’s transfer strategy is to blame for their worst start to a top-flight season instead of head coach Michael Carrick.",
+   "url": "https://www.skysports.com/football/news/11661/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7401837.jpg?20261109081304",
+   "source": "Sky Sports",
+   "published": "2026-11-10T13:30:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Brentford latest: Bees defender receives first senior Netherlands call-up",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049",
+   "source": "Sky Sports",
+   "published": "2026-11-10T12:23:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Liverpool latest: Van Dijk 'not panicking' about new deal.",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+   "source": "Sky Sports",
+   "published": "2026-11-10T12:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Lure of the Championship - Why foreign coaches are drawn to England's second tier",
+   "summary": "The focus is often on the lack of opportunities for British coaches but look at it another way and it is remarkable that 16 of the clubs in the sixth-richest league in European football – two thirds of them – are…",
+   "url": "https://www.skysports.com/football/news/11095/13610313/foreign-coaches-in-the-championship-why-working-in-englands-second-tier-is-a-target-for-top-managers-from-abroad",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-vitor-campelos_7402016.jpg?20261109111209",
+   "source": "Sky Sports",
+   "published": "2026-11-10T12:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "EFL and National League clubs to be required to hold financial reserves",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+   "image": "https://e2.365dm.com/25/12/1920x1080/skysports-generic-footballs_7115072.jpg?20251219141909",
+   "source": "Sky Sports",
+   "published": "2026-11-10T12:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Jude Bellingham's 'strong views' over World Cup 2026 defeat revealed - as his bid for England captaincy grows: report",
+   "summary": "England crashed out of the World Cup in what felt like a tactical collapse - and the Three Lions' biggest names have been painfully honest about the exit",
+   "url": "https://www.fourfourtwo.com/team/jude-bellinghams-strong-views-over-world-cup-2026-defeat-revealed-as-his-bid-for-england-captaincy-grows-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/66grqzfaNVb8ednJ8iGKAV-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T11:38:45+00:00",
+   "epl": false
+  },
+  {
+   "title": "Why the UEFA Nations League matters this month - and what it means for England, Scotland, Wales and co",
+   "summary": "Knockout spots, relegation dogfights, and crucial seeding: why this week's Nations League action matters far more than you think",
+   "url": "https://www.fourfourtwo.com/competition/why-the-uefa-nations-league-matters-this-month-and-what-it-means-for-england-scotland-wales-and-co",
+   "image": "https://cdn.mos.cms.futurecdn.net/o3uDPJQf6iUS6FZFcTitAi-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T11:36:30+00:00",
+   "epl": false
+  },
+  {
+   "title": "Man Utd latest: Chiefs meeting in Monaco on Wednesday to discuss Carrick future",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
    "source": "Sky Sports",
-   "published": "2026-11-09T23:06:00+00:00",
+   "published": "2026-11-10T11:15:00+00:00",
    "epl": true
   },
   {
-   "title": "Carrick position increasingly in doubt as hierarchy mulls over his future",
-   "summary": "Michael Carrick's position as Manchester United head coach is looking increasingly in doubt, but Sky Sports News has been told as yet, no final decision has been taken about his future.",
-   "url": "https://www.skysports.com/football/news/11661/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-but-no-final-decision-made",
-   "image": "https://e0.365dm.com/26/10/1920x1080/skysports-michael-carrick-man-utd_7386919.jpg?20261025163701",
+   "title": "England latest: Defender called up with Konsa out of Croatia tie",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+   "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
    "source": "Sky Sports",
-   "published": "2026-11-09T23:04:00+00:00",
+   "published": "2026-11-10T10:39:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Everton begin talks for shock Kevin De Bruyne move: report",
+   "summary": "Kevin De Bruyne to Everton is on, with the Manchester City legend struggling at Napoli",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/everton-begin-talks-for-shock-kevin-de-bruyne-move-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/a8ire2Ys7eyBMC955QCc3Y-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T10:36:14+00:00",
    "epl": true
   },
   {
-   "title": "Papers: Poch would consider PL return to join Man Utd",
-   "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "url": "https://www.skysports.com/football/news/11095/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "title": "Poch open to Man Utd talks with Carrick's position in doubt",
+   "summary": "Michael Carrick's position as Manchester United head coach is looking increasingly in doubt, with Mauricio Pochettino open to a discussion if he were approached by the club.",
+   "url": "https://www.skysports.com/football/news/11661/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-with-mauricio-pochettino-open-to-talks",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7402897.jpg?20261110104010",
    "source": "Sky Sports",
-   "published": "2026-11-09T23:00:00+00:00",
+   "published": "2026-11-10T10:24:00+00:00",
    "epl": true
+  },
+  {
+   "title": "Merson: If Chelsea don't get Champions League it's a massive failure",
+   "summary": "In his latest Sky Sports column, Paul Merson gives his view on Chelsea's defeat to Sunderland - as Xabi Alonso's inconsistent start to life at Stamford Bridge continues.",
+   "url": "https://www.skysports.com/football/news/11661/13610138/chelsea-not-showing-the-consistency-to-get-champions-league-football-this-season-says-paul-merson",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-chelsea_7402109.jpg?20261109122921",
+   "source": "Sky Sports",
+   "published": "2026-11-10T10:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Aston Villa latest: Lindelof agrees new contract",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
+   "source": "Sky Sports",
+   "published": "2026-11-10T10:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Tough-tackling Schlager proves his worth for Forest",
+   "summary": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday when he dispossessed Elliot Anderson for…",
+   "url": "https://www.skysports.com/football/news/11661/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447",
+   "source": "Sky Sports",
+   "published": "2026-11-10T10:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Kompany at Bayern training base for first time since collapse",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-vincent-kompany_7384819.jpg?20261023173822",
+   "source": "Sky Sports",
+   "published": "2026-11-10T10:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Manchester United report: Mauricio Pochettino to ACCEPT managerial job role",
+   "summary": "Manchester United look set to sack Michael Carrick, with Mauricio Pochettino in the frame to take the hot seat",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-report-mauricio-pochettino-to-accept-managerial-job-role",
+   "image": "https://cdn.mos.cms.futurecdn.net/4ZjS9B3UFUyjYzfqzFvh6L-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T09:49:20+00:00",
+   "epl": true
+  },
+  {
+   "title": "'I met genius Sir Alex Ferguson for lunch and we argued over who would pay. I came so close, I want to try and win the Premier League again' Mauricio Pochettino adds fuel to Manchester United links",
+   "summary": "Mauricio Pochettino has been linked with the soon-to-be vacant Manchester United position repeatedly for the best part of 10 years",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/i-met-genius-sir-alex-ferguson-for-lunch-and-we-argued-over-who-would-pay-i-came-so-close-i-want-to-try-and-win-the-premier-league-again-mauricio-pochettino-adds-fuel-to-manchester-united-links",
+   "image": "https://cdn.mos.cms.futurecdn.net/UPFmxX7nZWUe4FpCQ6MsSi-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T09:29:32+00:00",
+   "epl": true
+  },
+  {
+   "title": "\"My parents convinced me to consider picking Sunderland over Ajax\"",
+   "summary": "The former Sunderland goalkeeper admits he was dismissive of the idea of moving to the north-east of England",
+   "url": "https://www.fourfourtwo.com/person/my-parents-convinced-me-to-consider-picking-sunderland-over-ajax-it-was-one-of-the-best-decisions-i-ever-made-thomas-sorensen-on-his-left-field-move",
+   "image": "https://cdn.mos.cms.futurecdn.net/r4gdYmDMnZJCURk3DsTcfR-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T09:27:39+00:00",
+   "epl": true
+  },
+  {
+   "title": "Quiz! Can you name every player to have won the World Cup and the Champions League since 1992?",
+   "summary": "Why choose between football's biggest honours when you can have both?",
+   "url": "https://www.fourfourtwo.com/quiz/quiz-can-you-name-every-player-to-have-won-the-world-cup-and-the-champions-league-since-1992",
+   "image": "https://cdn.mos.cms.futurecdn.net/VpxyWHir5PysM7a8HPY4AG-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T09:25:31+00:00",
+   "epl": false
+  },
+  {
+   "title": "Quickfire Quiz 242: Can you answer 10 questions in 90 seconds?",
+   "summary": "Tackle these 10 football trivia questions about Kaka, sponsors, loans and more!",
+   "url": "https://www.fourfourtwo.com/quiz/quickfire-quiz-242",
+   "image": "https://cdn.mos.cms.futurecdn.net/8unwAyfQNCN8Dsvcj5NFEc-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T09:25:23+00:00",
+   "epl": false
+  },
+  {
+   "title": "Transfer Centre LIVE! What has Poch said about Premier League return?",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+   "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053",
+   "source": "Sky Sports",
+   "published": "2026-11-10T09:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Leeds latest: 'Elland Road was the right place to reignite my career,' says DCL",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402",
+   "source": "Sky Sports",
+   "published": "2026-11-10T07:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Bosnia-Herzegovina's life after Edin Dzeko is a revolution built on something stronger than football 'The Boy's A Bit Special'",
+   "summary": "Bosnia-Herzegovina is evolving as a footballing nation, relying on the pull of emotional ties and homeland pride to spearhead their upcoming qualification campaigns",
+   "url": "https://www.fourfourtwo.com/team/bosnia-herzegovinas-life-after-edin-dzeko-is-a-revolution-built-on-something-stronger-than-football-the-boys-a-bit-special",
+   "image": "https://cdn.mos.cms.futurecdn.net/NWspMGfvv5Hq4njmYtsBV6-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-10T07:00:00+00:00",
+   "epl": false
   },
   {
    "title": "Birmingham announce shock Brady departure",
@@ -65,15 +263,6 @@
    "epl": false
   },
   {
-   "title": "Aberdeen sack Robinson",
-   "summary": "Aberdeen have sacked Stephen Robinson with the club sitting 11th in the Scottish Premiership.",
-   "url": "https://www.skysports.com/football/news/11095/13605319/stephen-robinson-aberdeen-sack-head-coach-with-club-11th-in-scottish-premiership-after-hibs-defeat",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-robinson-aberdeen_7402374.jpg?20261109172811",
-   "source": "Sky Sports",
-   "published": "2026-11-09T16:00:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Manchester United are missing perfect new manager opportunity to avoid £30m bill",
    "summary": "Manchester United must buy Mauricio Pochettino out of his United States contract, even if it comes at an uncomfortable cost",
    "url": "https://www.fourfourtwo.com/team/manchester-united-are-missing-perfect-new-manager-opportunity-to-avoid-gbp30m-bill",
@@ -92,66 +281,12 @@
    "epl": true
   },
   {
-   "title": "Liverpool latest: Van Dijk pulls out of Netherlands squad",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-   "source": "Sky Sports",
-   "published": "2026-11-09T13:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Fulham latest: King fit and ready for England duty",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855",
-   "source": "Sky Sports",
-   "published": "2026-11-09T13:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Coventry latest: FNF's big calls all assessed on Ref Watch",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142",
-   "source": "Sky Sports",
-   "published": "2026-11-09T13:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "World Cup winner Cubarsi named 2026 Golden Boy",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-   "image": "https://e2.365dm.com/26/07/1920x1080/skysports-pau-cubarsi-spain_7301943.jpg?20260719233938",
-   "source": "Sky Sports",
-   "published": "2026-11-09T13:00:00+00:00",
-   "epl": false
-  },
-  {
    "title": "It’s not the mistakes and it’s not “desire and intensity” Manchester City STILL have a Rodri problem",
    "summary": "His absence remains keenly felt, with another transfer oversight at the club adding to the challenge they face without him",
    "url": "https://www.fourfourtwo.com/tactic/its-not-the-mistakes-and-its-not-desire-and-intensity-manchester-city-still-have-a-rodri-problem",
    "image": "https://cdn.mos.cms.futurecdn.net/opaSb6wDtH5wTncAJe7xDg-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-09T13:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Aston Villa latest: 'Cunha and Lammens foul Suzuki,' says Sherwood",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-   "source": "Sky Sports",
-   "published": "2026-11-09T12:58:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Spurs latest: Tel pulls out of France U21 duty after Bogle challenge",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-11-09T12:48:00+00:00",
    "epl": true
   },
   {
@@ -182,30 +317,12 @@
    "epl": true
   },
   {
-   "title": "England latest: Fans would not boo me if they knew truth behind exile, says White",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-   "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
-   "source": "Sky Sports",
-   "published": "2026-11-09T11:51:00+00:00",
-   "epl": false
-  },
-  {
    "title": "Heysel ’85 is the definitive, eye-opening drama that finally looks past Liverpool terrace narrative",
    "summary": "FourFourTwo attended the 2026 London Film Festival for the screening of 'Heysel 85', which will be released in cinemas this November",
    "url": "https://www.fourfourtwo.com/team/heysel-85-is-the-definitive-eye-opening-drama-that-finally-looks-past-liverpool-terrace-narrative",
    "image": "https://cdn.mos.cms.futurecdn.net/jzmN88Pohega6XTGB7yK43-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-09T11:41:19+00:00",
-   "epl": true
-  },
-  {
-   "title": "'Should've been ruled out!' - Did Lammens foul Suzuki for Man Utd's late equaliser?",
-   "summary": "The Ref Watch panel debate whether or not Manchester United's late equaliser against Aston Villa in their 4-4 draw should have been disallowed because of contact on Zion Suzuki.",
-   "url": "https://www.skysports.com/watch/video/13610140/ref-watch-should-manchester-uniteds-late-equaliser-against-aston-villa-have-been-disallowed-because-of-contact-on-zion-suzuki",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ref-watch-dermot_7402024.jpg?20261109111949",
-   "source": "Sky Sports",
-   "published": "2026-11-09T11:11:00+00:00",
    "epl": true
   },
   {
@@ -218,19 +335,19 @@
    "epl": true
   },
   {
-   "title": "Ref Watch: Lammens 'foul' and potential Yoro red card analysed",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-patrick-dorgu-man-utd_7401391.jpg?20261108184410",
+   "title": "How has Sage's Palace tenure unravelled so quickly?",
+   "summary": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
+   "url": "https://www.skysports.com/football/news/11661/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515",
    "source": "Sky Sports",
    "published": "2026-11-09T10:00:00+00:00",
    "epl": true
   },
   {
-   "title": "How has Sage's Palace tenure unravelled so quickly?",
-   "summary": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
-   "url": "https://www.skysports.com/football/news/11661/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515",
+   "title": "Ref Watch: Lammens 'foul' and potential Yoro red card analysed",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-patrick-dorgu-man-utd_7401391.jpg?20261108184410",
    "source": "Sky Sports",
    "published": "2026-11-09T10:00:00+00:00",
    "epl": true
@@ -252,15 +369,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-09T09:30:28+00:00",
    "epl": true
-  },
-  {
-   "title": "Euro Debrief: Kane has become the king of assists",
-   "summary": "",
-   "url": "https://www.skysports.com/football/news/11095/13607213/harry-kane-is-bayern-munichs-assist-king-barcelona-win-at-atletico-madrid-and-inter-close-gap-on-lazio-all-in-the-euro-debrief",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-euro-debrief-harry-kane_7401725.jpg?20261108232322",
-   "source": "Sky Sports",
-   "published": "2026-11-09T09:30:00+00:00",
-   "epl": false
   },
   {
    "title": "‘I retired because of my concussions. I couldn’t drive or look after my kids. That’s when I knew I had to stop’ Serie A winner turned MMA fighter reveals why he retired from football",
@@ -290,15 +398,6 @@
    "epl": false
   },
   {
-   "title": "Papers: Pochettino favourite to replace Carrick at Man Utd",
-   "summary": "The top stories and transfer rumours from Monday's newspapers...",
-   "url": "https://www.skysports.com/football/news/11661/13610018/michael-carrick-will-not-resign-at-manchester-united-after-draw-leaves-side-one-place-off-bottom-paper-talk",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "source": "Sky Sports",
-   "published": "2026-11-08T22:30:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
    "summary": "Thomas Frank has emerged as a leading candidate to take over as Crystal Palace manager if the Eagles decide to sack Pierre Sage.",
    "url": "https://www.skysports.com/football/news/11661/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
@@ -317,30 +416,12 @@
    "epl": true
   },
   {
-   "title": "Villa boss Emery explains why he went down tunnel before full-time",
-   "summary": "A prickly Unai Emery claimed he headed down the Old Trafford tunnel after Manchester United's late equaliser against his Aston Villa side because he thought the match was about to end.",
-   "url": "https://www.skysports.com/football/news/11661/13609937/unai-emery-aston-villa-boss-reveals-why-he-went-down-old-trafford-tunnel-before-full-time-in-eight-goal-thriller-at-man-utd",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-unai-emery-aston-villa_7401498.jpg?20261108193125",
-   "source": "Sky Sports",
-   "published": "2026-11-08T19:25:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Man Utd rescue draw in EIGHT-goal thriller against Villa",
    "summary": "FREE TO WATCH: Highlights from the Premier League match between Manchester United and Aston Villa.",
    "url": "https://www.skysports.com/watch/video/13609907/manchester-united-4-4-aston-villa-premier-league-highlights",
    "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7401407.jpg?20261108184941",
    "source": "Sky Sports",
    "published": "2026-11-08T18:49:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Man Utd score two in stoppage-time to salvage 4-4 draw with Villa",
-   "summary": "Manchester United scored twice in stoppage-time to salvage an incredible 4-4 draw with Aston Villa at Old Trafford that still leaves them in the relegation zone.",
-   "url": "https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-patrick-dorgu-man-utd_7401391.jpg?20261108184410",
-   "source": "Sky Sports",
-   "published": "2026-11-08T18:30:00+00:00",
    "epl": true
   },
   {
@@ -353,15 +434,6 @@
    "epl": false
   },
   {
-   "title": "Hits and misses: Alisson recapturing his best form while Chelsea go back to square one",
-   "summary": "",
-   "url": "https://www.skysports.com/football/news/11661/13609830/liverpool-goalkeeper-alisson-back-to-his-best-while-chelsea-go-back-to-square-one-premier-league-hits-and-misses",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-hits_7401417.jpg?20261108185308",
-   "source": "Sky Sports",
-   "published": "2026-11-08T16:58:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Freddy Adu reflects on his Blackpool stint",
    "summary": "The American trained with the Seasiders in 2014",
    "url": "https://www.fourfourtwo.com/person/player/blackpool-was-cool-the-football-was-really-different-compared-to-what-i-was-used-to-it-was-more-direct-and-very-physically-demanding-but-i-had-a-good-time-there-it-was-great-freddy-adu-on-his-tangerines-stint",
@@ -369,15 +441,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-08T16:00:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Sage in big trouble as Palace hit rock-bottom after defeat to Liverpool",
-   "summary": "Liverpool beat Crystal Palace 3-1 at Selhurst Park to inflict a fourth consecutive Premier League defeat on the hosts and leave Pierre Sage in a perilous position with his side bottom of the table.",
-   "url": "https://www.skysports.com/football/crystal-palace-vs-liverpool/report/559536",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7401069.jpg?20261108160204",
-   "source": "Sky Sports",
-   "published": "2026-11-08T15:50:00+00:00",
-   "epl": true
   },
   {
    "title": "Watch Man Utd vs Aston Villa: Live streams and TV info",
@@ -476,6 +539,15 @@
    "image": "https://cdn.mos.cms.futurecdn.net/mAqb9TRYW8n8zgWnTroysN-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-08T07:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Arsenal latest: Fans would not boo if they knew England truth, says White",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+   "source": "Sky Sports",
+   "published": "2026-11-07T18:20:00+00:00",
    "epl": true
   },
   {
@@ -603,96 +675,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-06T16:00:00+00:00",
    "epl": true
-  },
-  {
-   "title": "Is Ezri Konsa injured this weekend? Arsenal injury update",
-   "summary": "Arsenal star Ezri Konsa was taken off in the win against Slavia Prague",
-   "url": "https://www.fourfourtwo.com/person/player/is-ezri-konsa-injured-this-weekend-arsenal-injury-update",
-   "image": "https://cdn.mos.cms.futurecdn.net/xM27SeM8kp75WWKQjCiwVZ-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T15:09:12+00:00",
-   "epl": true
-  },
-  {
-   "title": "NEW ISSUE: How to fix football: our 30 point guide. Edwin van der Sar on his glittering career, on the bench at Harrogate, Bobby Robson's England, on the ground at FC Midtjylland PLUS Graeme Souness answers YOUR questions",
-   "summary": "Get your hands on the latest issue of FourFourTwo magazine – available in print or on your device now",
-   "url": "https://www.fourfourtwo.com/team/new-issue-30-point-guide-on-how-to-fix-football-edwin-van-der-sar-on-his-glittering-career-on-the-bench-at-harrogate-bobby-robsons-england-on-the-ground-at-fc-midtjylland-plus-graeme-souness-answers-your-questions",
-   "image": "https://cdn.mos.cms.futurecdn.net/v2NrL3snvztUMynqDqi7v6-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T15:00:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Virgil van Dijk's best days are behind him but Liverpool head coach will prolong his stay at the top",
-   "summary": "Virgil van Dijk is slowly but surely adjusting to Andoni Iraola's style of play at Liverpool",
-   "url": "https://www.fourfourtwo.com/competition/virgil-van-dijks-best-days-are-behind-him-but-liverpool-head-coach-will-help-prolong-his-stay-at-the-top",
-   "image": "https://cdn.mos.cms.futurecdn.net/SjHwW7uwobSxdRapXHbinn-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T14:30:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Aston Villa rocked by Real Madrid interest in new signing: report",
-   "summary": "Aston Villa have only just brought one player to the Midlands - but Real Madrid AND Paris Saint-Germain are circling",
-   "url": "https://www.fourfourtwo.com/transfer/aston-villa-rocked-by-real-madrid-interest-in-new-signing-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/4G7qCbv49vFEHYASrNyAkB-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T14:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Brighton & Hove Albion approached manager who rejected them over his Duolingo streak: report",
-   "summary": "One manager has revealed Brighton & Hove Albion interest - plus calls from other Premier League giants",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/brighton-and-hove-albion-approached-manager-who-rejected-them-over-his-duolingo-streak-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/Yj3cedYzgkPJAzmgwvKFyd-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T13:11:01+00:00",
-   "epl": true
-  },
-  {
-   "title": "How we made 442GOALS",
-   "summary": "How did FourFourTwo make the viral game that took the long international break by storm? We reveal all",
-   "url": "https://www.fourfourtwo.com/quiz/competitions/how-we-made-442goals",
-   "image": "https://cdn.mos.cms.futurecdn.net/rRm8bdJMgoQErkhVrrNwJD-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T11:59:06+00:00",
-   "epl": false
-  },
-  {
-   "title": "Thomas Tuchel makes surprise England Bellingham announcement: Three Lions' November squad in full",
-   "summary": "Thomas Tuchel has selected his England squad for the upcoming Nations League fixtures",
-   "url": "https://www.fourfourtwo.com/team/thomas-tuchel-makes-surprise-england-bellingham-announcement-three-lions-november-squad-in-full",
-   "image": "https://cdn.mos.cms.futurecdn.net/4Mp3PcSjWE7qdNuyKdRC2c-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T10:15:36+00:00",
-   "epl": false
-  },
-  {
-   "title": "John Arne Riise on the Craig Bellamy golf club incident that helped saved Wrexham from relegation",
-   "summary": "The former Liverpool left-back had a couple of high-profile fallings-out in his time",
-   "url": "https://www.fourfourtwo.com/person/craig-bellamy-went-for-my-shins-with-the-golf-club-it-could-have-ended-my-career-john-arne-riise-on-the-hotel-room-incident-that-cost-his-liverpool-teammate-gbp80k-and-helped-saved-wrexham-from-relegation",
-   "image": "https://cdn.mos.cms.futurecdn.net/pkWvNcqtxQjjxWBAeZ8vnS-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T09:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "This is Russell Martin’s last chance to change the narrative",
-   "summary": "The Leicester City manager’s reputation may never recover if his side lose to non-League Oxford City tonight",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/russell-martins-last-chance-to-change-the-narrative-lies-in-avoiding-fa-cup-humiliation",
-   "image": "https://cdn.mos.cms.futurecdn.net/iBCGeBcT8SgECkC43Apamj-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T08:11:26+00:00",
-   "epl": false
-  },
-  {
-   "title": "Friday Football Quiz, episode 140: Can you get 20 correct answers?",
-   "summary": "Get stuck into the latest Friday Football Quiz from FourFourTwo",
-   "url": "https://www.fourfourtwo.com/quiz/friday-football-quiz-061126",
-   "image": "https://cdn.mos.cms.futurecdn.net/nKTjLMF3YAMJkycdwXKEdM-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-06T08:00:00+00:00",
-   "epl": false
   }
  ]
 }
