@@ -1,6 +1,15 @@
 {
- "updatedAt": "2026-11-10T21:23:22+00:00",
+ "updatedAt": "2026-11-11T01:23:30+00:00",
  "items": [
+  {
+   "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+   "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11095/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "source": "Sky Sports",
+   "published": "2026-11-10T22:44:00+00:00",
+   "epl": false
+  },
   {
    "title": "Chelsea latest: 'Blues join race to sign Arsenal midfielder'",
    "summary": "",
@@ -17,15 +26,6 @@
    "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049",
    "source": "Sky Sports",
    "published": "2026-11-10T20:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Breathing space for Man City who extend lead vs Inter LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/live/578260",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-city_7403442.jpg?20261110211853",
-   "source": "Sky Sports",
-   "published": "2026-11-10T19:30:00+00:00",
    "epl": true
   },
   {
@@ -270,6 +270,15 @@
    "source": "FourFourTwo",
    "published": "2026-11-10T07:00:00+00:00",
    "epl": false
+  },
+  {
+   "title": "City claim first win of European campaign in Inter thrashing",
+   "summary": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
+   "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-man-city_7403449.jpg?20261110213156",
+   "source": "Sky Sports",
+   "published": "2026-11-09T21:55:00+00:00",
+   "epl": true
   },
   {
    "title": "Birmingham announce shock Brady departure",
