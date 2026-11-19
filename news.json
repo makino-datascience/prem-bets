@@ -1,6 +1,24 @@
 {
- "updatedAt": "2026-11-18T19:16:02+00:00",
+ "updatedAt": "2026-11-19T01:21:44+00:00",
  "items": [
+  {
+   "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
+   "summary": "Veerle Buurman's late winner snatched a late 1-0 win for Chelsea against Paris Saint-Germain to move them to the top of the Champions League table.",
+   "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-buurman-chelsea-veerle_7409927.jpg?20261118215413",
+   "source": "Sky Sports",
+   "published": "2026-11-18T22:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Hemp stars as Man City beat Hacken in Champions League",
+   "summary": "Lauren Hemp scored one and assisted another as Manchester City beat BK Hacken 2-0 in their penultimate Women's Champions League league phase game on Wednesday.",
+   "url": "https://www.skysports.com/football/bk-hcken-women-vs-manchester-city-women/report/578269",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-khadija-shaw-lauren-hemp_7409846.jpg?20261118200554",
+   "source": "Sky Sports",
+   "published": "2026-11-18T19:50:00+00:00",
+   "epl": true
+  },
   {
    "title": "Transfer Centre LIVE! Time for Man Utd to sell Fernandes? Vote here!",
    "summary": "",
@@ -8,15 +26,6 @@
    "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261011111018",
    "source": "Sky Sports",
    "published": "2026-11-18T19:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "FREE STREAM: Watch 'Unfinished Business' Transfer Show on Sky Sports News",
-   "summary": "",
-   "url": "https://www.skysports.com/football/news/11661/13613662/free-stream-watch-special-unfinished-business-transfer-show-on-sky-sports-news-with-guest-alan-pardew",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703",
-   "source": "Sky Sports",
-   "published": "2026-11-18T18:55:00+00:00",
    "epl": true
   },
   {
@@ -47,15 +56,6 @@
    "epl": true
   },
   {
-   "title": "WCL: Hemp's deflected goal puts Man City ahead at Hacken LIVE!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/bk-hcken-women-vs-manchester-city-women/live/578269",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-beth-mead-man-city_7409746.jpg?20261118164520",
-   "source": "Sky Sports",
-   "published": "2026-11-18T16:45:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Premier League predictor - play our new game each week!",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
@@ -74,7 +74,7 @@
    "epl": true
   },
   {
-   "title": "Man Utd latest: Pochettino's first words as he arrives at Carrington for first time",
+   "title": "Man Utd latest: Pochettino's words as he arrived at Carrington for first time",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
@@ -153,6 +153,15 @@
    "source": "FourFourTwo",
    "published": "2026-11-18T11:31:50+00:00",
    "epl": true
+  },
+  {
+   "title": "Matos completes Strasbourg switch with Williams in Swansea talks",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+   "image": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438",
+   "source": "Sky Sports",
+   "published": "2026-11-18T11:30:00+00:00",
+   "epl": false
   },
   {
    "title": "New Sealand: The former naval fort once had a national team managed by Julian Dicks, now they're relaunching...",
@@ -287,6 +296,15 @@
    "image": "https://cdn.mos.cms.futurecdn.net/7knDQt3Se5LpSiC84a39oS-1920-80.png",
    "source": "FourFourTwo",
    "published": "2026-11-18T06:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Papers: Pochettino could help Man Utd's pursuit of Paz",
+   "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11661/13613766/manchester-united-pursuit-of-nico-paz-boosted-by-mauricio-pochettino-arrival-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "source": "Sky Sports",
+   "published": "2026-11-17T22:58:00+00:00",
    "epl": true
   },
   {
