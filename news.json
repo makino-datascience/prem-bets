@@ -1,6 +1,213 @@
 {
- "updatedAt": "2026-11-19T09:13:52+00:00",
+ "updatedAt": "2026-11-19T18:30:53+00:00",
  "items": [
+  {
+   "title": "West Ham latest: Parker looking forward to Hammers homecoming",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817",
+   "source": "Sky Sports",
+   "published": "2026-11-19T17:40:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Forest latest: PL vote not in support of Man City",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014",
+   "source": "Sky Sports",
+   "published": "2026-11-19T17:38:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Spurs latest: 'You only know a tenth of the truth,' says Frank",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+   "source": "Sky Sports",
+   "published": "2026-11-19T17:20:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Palace latest: Frank outlines three key areas of improvement ahead of first game",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402",
+   "source": "Sky Sports",
+   "published": "2026-11-19T17:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Coventry latest: Yirenkyi to face late fitness test before Palace clash",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142",
+   "source": "Sky Sports",
+   "published": "2026-11-19T16:45:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
+   "summary": "Premier League clubs have voted to cover the legal costs of their five board members if they are sued individually by Manchester City's sponsors.",
+   "url": "https://www.skysports.com/football/news/11661/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+   "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954",
+   "source": "Sky Sports",
+   "published": "2026-11-19T15:26:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Leeds latest: 'I’m a bit bored,' jokes Farke after Trafford frenzy",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402",
+   "source": "Sky Sports",
+   "published": "2026-11-19T15:20:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Frick targets Premiership top-six for Aberdeen with 'heavy metal football'",
+   "summary": "Aberdeen's new head coach Mario Frick will not just be happy with Scottish Premiership survival this season, insisting he wants a top-six finish.",
+   "url": "https://www.skysports.com/football/news/11095/13613844/mario-frick-aberdeens-new-head-coach-targets-scottish-premiership-top-six-with-heavy-metal-football",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mario-frick-aberdeen_7410719.jpg?20261119164048",
+   "source": "Sky Sports",
+   "published": "2026-11-19T15:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Man Utd announce financial results as revenue and wages rise",
+   "summary": "Manchester United have released their latest financial results, with revenue and wages increasing.",
+   "url": "https://www.skysports.com/football/news/11661/13613832/man-utd-latest-financial-results-revealed-as-revenue-and-wages-increase",
+   "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ratcliffe-berrada_7359340.jpg?20260923124639",
+   "source": "Sky Sports",
+   "published": "2026-11-19T14:35:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Assessing Iraola's Liverpool start",
+   "summary": "Liverpool head coach Andoni Iraola asked for judgements on his tenure to wait until after the November international break - we assess how the Basque is faring so far in his new role ahead of the visit of Manchester…",
+   "url": "https://www.skysports.com/football/news/11661/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-liverpool_7410291.jpg?20261119104807",
+   "source": "Sky Sports",
+   "published": "2026-11-19T13:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January",
+   "summary": "Arsenal's trip to Man City and Man Utd hosting Liverpool at Old Trafford are two of the standout fixtures live on Sky Sports in January.",
+   "url": "https://www.skysports.com/football/news/11661/13613937/premier-league-fixtures-on-sky-sports-man-city-vs-arsenal-and-man-utd-vs-liverpool-live-in-january",
+   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-badges_7380864.jpg?20261019161220",
+   "source": "Sky Sports",
+   "published": "2026-11-19T12:50:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Premier League confirms key dates for 2027/28 season",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
+   "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954",
+   "source": "Sky Sports",
+   "published": "2026-11-19T12:45:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Manchester City dealt £1.5bn blow over Premier League charges: report",
+   "summary": "Manchester City were found guilty of breaking over 100 Premier League rules, and have been",
+   "url": "https://www.fourfourtwo.com/team/manchester-city-dealt-gbp1-5bn-blow-over-premier-league-charges-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/YHS8E9aSeyTEVc2q6DABwB-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-19T12:40:25+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man Utd latest: Pochettino reveals 1999 Treble connection and Fergie dream",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
+   "source": "Sky Sports",
+   "published": "2026-11-19T12:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "EFL latest: Evatt sacked hours after Happy Birthday message from Blackpool",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ian-evatt-blackpool_7410754.jpg?20261119172041",
+   "source": "Sky Sports",
+   "published": "2026-11-19T11:48:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Who are the two men running against Gianni Infantino in FIFA president election?",
+   "summary": "FIFA have announced the three candidates running to be elected as president of the world's governing body",
+   "url": "https://www.fourfourtwo.com/person/revealed-the-two-men-running-against-fifa-president-gianni-infantino-in-2027-election",
+   "image": "https://cdn.mos.cms.futurecdn.net/459soC94N7KVNyRw8cmcU3-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-19T11:03:55+00:00",
+   "epl": false
+  },
+  {
+   "title": "Pochettino vows to 'change things' at Man Utd",
+   "summary": "Mauricio Pochettino has vowed to \"change things\" at Old Trafford in a confident first interview as Manchester United boss.",
+   "url": "https://www.skysports.com/football/news/11661/13613821/mauricio-pochettino-at-manchester-united-new-boss-vows-to-change-situation-at-old-trafford-in-first-interview",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-manchester-united_7410113.jpg?20261119072308",
+   "source": "Sky Sports",
+   "published": "2026-11-19T11:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Consistently inconsistent? Ten things we've learnt about Alonso's Chelsea so far",
+   "summary": "Xabi Alonso's Chelsea project is 10 Premier League games in. Here's what we've learnt so far...",
+   "url": "https://www.skysports.com/football/news/11661/13612519/chelsea-ten-things-weve-learnt-about-xabi-alonsos-blues-after-10-premier-league-games",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-chelsea_7408490.jpg?20261117103110",
+   "source": "Sky Sports",
+   "published": "2026-11-19T11:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "How 'sleeping giant' Everton are exceeding expectations",
+   "summary": "Everything felt a bit gloomy at Everton after the closure of the summer transfer window. 'Disappointment' was the buzzword used by David Moyes - especially after a Deadline Day move for Folarin Balogun fell through.",
+   "url": "https://www.skysports.com/football/news/11095/13612885/everton-how-premier-leagues-sleeping-giant-are-exceeding-expectations-ahead-of-brentford-test",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-everton_7408528.jpg?20261117111835",
+   "source": "Sky Sports",
+   "published": "2026-11-19T10:45:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Manchester United’s fitness levels are like that of a Sunday league team - no wonder they appointed Mauricio Pochettino",
+   "summary": "Fitness is the aim, and Pochettino is the master of the game",
+   "url": "https://www.fourfourtwo.com/person/player/manchester-uniteds-fitness-levels-are-like-that-of-a-sunday-league-team-no-wonder-they-appointed-mauricio-pochettino",
+   "image": "https://cdn.mos.cms.futurecdn.net/nCPXtJDRh3yYwDxh7SMVei-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-19T10:09:17+00:00",
+   "epl": true
+  },
+  {
+   "title": "Seven years on from the sack at Spurs what sort of coach is Pochettino now?",
+   "summary": "What Mauricio Pochettino achieved with Tottenham Hotspur in the previous decade looks even more impressive now than it did at the time. Manchester United really should have turned to the popular Argentine coach years…",
+   "url": "https://www.skysports.com/football/news/11661/13612583/mauricio-pochettino-at-man-utd-seven-years-on-from-the-sack-at-spurs-what-sort-of-coach-is-he-now-we-will-soon-find-out",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243",
+   "source": "Sky Sports",
+   "published": "2026-11-19T10:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Leicester City drop sponsor following row over Russian adult actor",
+   "summary": "Leicester City are dropping their BC.GAME sponsor, following pornography backlash from fans",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/leicester-city-drop-sponsor-following-row-over-russian-adult-actor",
+   "image": "https://cdn.mos.cms.futurecdn.net/qEtdSH5tSEG6M4xTGSsYgm-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-19T09:58:26+00:00",
+   "epl": false
+  },
+  {
+   "title": "Arsenal in shock Alex Scott move - with sales needed for transfer: report",
+   "summary": "Arsenal have five first-team central midfielders - but want to sign a sixth",
+   "url": "https://www.fourfourtwo.com/transfer/arsenal-in-shock-alex-scott-move-with-sales-needed-for-transfer-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/3ianFATh8g9ciKpK5daXvi-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-19T09:31:26+00:00",
+   "epl": true
+  },
   {
    "title": "Man City have problems - is Fernandez their most obvious?",
    "summary": "Enzo Maresca is being forced to work within an unprecedented set of circumstances this season. Up until recently, his fixation on football matters served to quieten the noise around the club. But now the anomalous…",
@@ -38,15 +245,6 @@
    "epl": false
   },
   {
-   "title": "Man Utd latest: Poch's Carrington arrival recap – reaction, transfer plans and what's next",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
-   "source": "Sky Sports",
-   "published": "2026-11-19T07:30:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Why Dominik Szoboszlai and Ryan Gravenberch face a fight for their Liverpool futures under Andoni Iraola",
    "summary": "Liverpool's midfield needs Trey Nyoni, but it might upset a few",
    "url": "https://www.fourfourtwo.com/team/why-dominik-szoboszlai-and-ryan-gravenberch-face-a-fight-for-their-liverpool-futures-under-andoni-iraola",
@@ -65,57 +263,12 @@
    "epl": false
   },
   {
-   "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
-   "summary": "Veerle Buurman's late winner snatched a late 1-0 win for Chelsea against Paris Saint-Germain to move them to the top of the Champions League table.",
-   "url": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-buurman-chelsea-veerle_7409927.jpg?20261118215413",
-   "source": "Sky Sports",
-   "published": "2026-11-18T22:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Hemp stars as Man City beat Hacken in Champions League",
-   "summary": "Lauren Hemp scored one and assisted another as Manchester City beat BK Hacken 2-0 in their penultimate Women's Champions League league phase game on Wednesday.",
-   "url": "https://www.skysports.com/football/bk-hcken-women-vs-manchester-city-women/report/578269",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-khadija-shaw-lauren-hemp_7409846.jpg?20261118200554",
-   "source": "Sky Sports",
-   "published": "2026-11-18T19:50:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Transfer Centre LIVE! Time for Man Utd to sell Fernandes? Vote here!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-   "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261011111018",
-   "source": "Sky Sports",
-   "published": "2026-11-18T19:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "‘It’s that Glaswegian way’: Leon Osman explains why David Moyes was the ultimate fit for Everton",
    "summary": "The former Toffees midfielder reflects on how his old boss understood the fabric of Liverpool - and why his Everton legacy goes far beyond silverware.",
    "url": "https://www.fourfourtwo.com/person/its-that-glaswegian-way-leon-osman-explains-why-david-moyes-was-the-ultimate-fit-for-everton",
    "image": "https://cdn.mos.cms.futurecdn.net/KYXTM8qU2BqoCArUzaWBBN-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-18T18:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Fernandes tumbles as new No 1 is crowned: Sky Sports' top 25 Premier League players",
-   "summary": "Bruno Fernandes has been dethroned as the king of the Premier League in a major shake-up to the top 25 Premier League players.",
-   "url": "https://www.skysports.com/football/news/11661/13613154/bruno-fernandes-tumbles-as-new-no-1-is-crowned-sky-sports-ranks-the-premier-leagues-top-25-players-right-now",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-erling-haaland_7408870.jpg?20261117153443",
-   "source": "Sky Sports",
-   "published": "2026-11-18T17:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Premier League Top 25 - Sky Sports writers give their HOT TAKES",
-   "summary": "The Sky Sports Digital team have given their HOT TAKES on the Premier League's Top 25 players...",
-   "url": "https://www.skysports.com/watch/video/13613629/sky-sports-writers-give-their-hot-takes-on-the-premier-leagues-top-25-players",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-hot-takes_7409686.jpg?20261118152022",
-   "source": "Sky Sports",
-   "published": "2026-11-18T17:00:00+00:00",
    "epl": true
   },
   {
@@ -128,12 +281,12 @@
    "epl": true
   },
   {
-   "title": "Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing",
-   "summary": "Arsenal are one of three top Premier League clubs interested in signing Bournemouth and England midfielder Alex Scott.",
-   "url": "https://www.skysports.com/football/news/11661/13613285/alex-scott-arsenal-keen-on-chelsea-and-liverpool-target-with-bournemouth-softening-stance-over-potential-sale",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-tranfser_7408820.jpg?20261117150121",
+   "title": "Why Raya is the Premier League's best goalkeeper",
+   "summary": "",
+   "url": "https://www.skysports.com/football/news/11661/13613642/david-rayas-shot-stopping-cross-claiming-and-passing-make-him-premier-leagues-best-goalkeeper-the-radar",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-daviod-raya-arsenal_7409699.png?20261118153705",
    "source": "Sky Sports",
-   "published": "2026-11-18T15:00:00+00:00",
+   "published": "2026-11-18T15:12:00+00:00",
    "epl": true
   },
   {
@@ -143,15 +296,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/4ZjS9B3UFUyjYzfqzFvh6L-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-18T15:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Man City latest: Club braced for Ait-Nouri interest in January",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-   "source": "Sky Sports",
-   "published": "2026-11-18T13:05:00+00:00",
    "epl": true
   },
   {
@@ -173,24 +317,6 @@
    "epl": true
   },
   {
-   "title": "Your PL club's 'Unfinished Business' revealed ahead of January window",
-   "summary": "",
-   "url": "https://www.skysports.com/football/news/11661/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703",
-   "source": "Sky Sports",
-   "published": "2026-11-18T12:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Man Utd expected to back Poch in January transfer window",
-   "summary": "Manchester United head coach Mauricio Pochettino is expected to be backed in the January transfer window as the club aim to address their disappointing start to the season.",
-   "url": "https://www.skysports.com/football/news/11661/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-transfers_7408772.jpg?20261117144218",
-   "source": "Sky Sports",
-   "published": "2026-11-18T12:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Arsenal to make 'unpopular decisions' over contract renewal situation: report",
    "summary": "Arsenal are in the midst of tying down key players - and not every decision they make will go down well with fans",
    "url": "https://www.fourfourtwo.com/transfer/arsenal-to-make-unpopular-decisions-over-contract-renewal-situation-report",
@@ -209,16 +335,7 @@
    "epl": false
   },
   {
-   "title": "Aston Villa latest: Onana signs new deal",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
-   "source": "Sky Sports",
-   "published": "2026-11-18T11:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal latest: Three transfer targets revealed ahead of January window",
+   "title": "Arsenal latest: Madueke on Newcastle test and Gunners' approach to title defence",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
@@ -236,30 +353,12 @@
    "epl": true
   },
   {
-   "title": "Spurs latest: 'Tottenham were one of three clubs in Poch's USA exit clause'",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-11-18T09:47:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Revealed: The unknown holding midfielder Liverpool NEED to sign in January",
    "summary": "Despite Trey Nyoni's breakthrough this season, Liverpool are still light in the centre of the park",
    "url": "https://www.fourfourtwo.com/transfer/revealed-the-unknown-holding-midfielder-liverpool-need-to-sign-in-january",
    "image": "https://cdn.mos.cms.futurecdn.net/sHHW2Ns8S5SPbQxEyL2rk9-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-18T09:45:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Pochettino vows to make Manchester red again",
-   "summary": "Mauricio Pochettino has promised to make Manchester United the dominant force in the city again, insisting \"you will see\" when challenged over Manchester City's supremacy.",
-   "url": "https://www.skysports.com/football/news/11661/13613499/mauricio-pochettino-incoming-manchester-united-head-coach-calls-for-time-to-topple-manchester-city-ahead-of-old-trafford-arrival",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7409424.png?20261118104615",
-   "source": "Sky Sports",
-   "published": "2026-11-18T09:21:00+00:00",
    "epl": true
   },
   {
@@ -272,7 +371,7 @@
    "epl": true
   },
   {
-   "title": "Liverpool latest: Leoni and Bradley return to training after long-term injuries",
+   "title": "Liverpool latest: 'A promising picture on the injury front'",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
@@ -290,24 +389,6 @@
    "epl": false
   },
   {
-   "title": "Rank your own Premier League top 10 players!",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13613478/premier-league-top-25-players-who-is-the-best-player-in-the-premier-league-right-now",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-premier-league_7409411.jpg?20261118103312",
-   "source": "Sky Sports",
-   "published": "2026-11-18T07:42:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Chelsea latest: Martinez keeps clean sheet on return from broken jaw",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829",
-   "source": "Sky Sports",
-   "published": "2026-11-18T07:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "The last golden era of the Premier League is long gone: Why 2004-16 was the best of the Barclays",
    "summary": "With the English top-flight a state of flux right now, it's not hard to yearn for years gone by.",
    "url": "https://www.fourfourtwo.com/competition/the-last-golden-era-of-the-premier-league-is-long-gone-why-2004-16-was-the-best-of-the-barclays",
@@ -323,15 +404,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/7knDQt3Se5LpSiC84a39oS-1920-80.png",
    "source": "FourFourTwo",
    "published": "2026-11-18T06:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Papers: Pochettino could help Man Utd's pursuit of Paz",
-   "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-   "url": "https://www.skysports.com/football/news/11661/13613766/manchester-united-pursuit-of-nico-paz-boosted-by-mauricio-pochettino-arrival-paper-talk",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "source": "Sky Sports",
-   "published": "2026-11-17T22:58:00+00:00",
    "epl": true
   },
   {
@@ -603,51 +675,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-16T08:00:00+00:00",
    "epl": false
-  },
-  {
-   "title": "Quickfire Quiz 246: Can you answer 10 questions in 90 seconds?",
-   "summary": "Tackle these 10 football trivia questions about Fernando Torres, World Cup venues, uncapped managers and more!",
-   "url": "https://www.fourfourtwo.com/quiz/quickfire-quiz-246",
-   "image": "https://cdn.mos.cms.futurecdn.net/XGdYFUmyqN7gcw6EPo7kHj-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-16T06:00:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "France vs Turkey FREE live stream: TV channels, kick-off time, team news and predictions for Nations League match in League A",
-   "summary": "Here's how to watch France vs Turkey for free online from anywhere in the world with TV channels and broadcast details provided for this Nations League fixture.",
-   "url": "https://www.fourfourtwo.com/competition/watch-france-vs-turkey-nations-league-2026-27",
-   "image": "https://cdn.mos.cms.futurecdn.net/TMHn4GksXXX2xZmbAia6e5-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-15T17:00:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "How to watch Spain vs England for FREE: Live Streams, TV Channels, Team News & Predictions for HUGE Nations League Clash",
-   "summary": "Here's how to watch Spain vs England for free online from anywhere in the world with TV channels and broadcast details provided for this Nations League fixture.",
-   "url": "https://www.fourfourtwo.com/competition/watch-spain-vs-england-nations-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/t2Krd3Rnc6fLgHrNyRqP3S-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-15T16:45:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "How to watch Belgium vs Italy: Free Live Stream & TV Channels for crucial Nations League clash",
-   "summary": "Here's how to watch Belgium vs Italy for free online from anywhere in the world with TV channels and broadcast details provided for this Nations League fixture.",
-   "url": "https://www.fourfourtwo.com/competition/watch-belgium-vs-italy-nations-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/LnZRcQPuUEKcpLzDTaETH7-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-15T16:45:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Tomas Sorensen on his relationship with Denmark team-mate Peter Schmeichel",
-   "summary": "The former Sunderland stopper trained alongside the ex-Manchester United great with Denmark",
-   "url": "https://www.fourfourtwo.com/person/player/training-with-peter-schmeichel-was-pretty-intimidating-he-could-be-quite-rough-sometimes-hed-put-me-in-my-place-one-day-hed-be-my-best-friend-and-the-next-he-wouldnt-even-say-good-morning-tomas-sorensen-on-his-relationship-with-denmarks-greatest-keeper",
-   "image": "https://cdn.mos.cms.futurecdn.net/haJcBcq7txiE4xwC5WGtXm-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-15T16:00:00+00:00",
-   "epl": true
   }
  ]
 }
