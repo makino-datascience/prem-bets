@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-09T14:12:42+00:00",
- "cardsUpdatedAt": "2026-11-20T17:40:10+00:00",
+ "updatedAt": "2026-11-21T14:51:24+00:00",
+ "cardsUpdatedAt": "2026-11-21T14:51:24+00:00",
  "season": "2026",
  "teams": [
   {
@@ -40,14 +40,14 @@
    "shortName": "Man City",
    "tla": "MCI",
    "crest": "https://crests.football-data.org/65.png",
-   "p": 10,
+   "p": 11,
    "w": 7,
-   "d": 0,
+   "d": 1,
    "l": 3,
-   "gf": 21,
-   "ga": 13,
+   "gf": 22,
+   "ga": 14,
    "gd": 8,
-   "pts": 21,
+   "pts": 22,
    "yc": 13,
    "rc": 1
   },
@@ -212,6 +212,22 @@
    "rc": 0
   },
   {
+   "name": "Fulham FC",
+   "shortName": "Fulham",
+   "tla": "FUL",
+   "crest": "https://crests.football-data.org/63.png",
+   "p": 11,
+   "w": 2,
+   "d": 5,
+   "l": 4,
+   "gf": 11,
+   "ga": 13,
+   "gd": -2,
+   "pts": 11,
+   "yc": 19,
+   "rc": 1
+  },
+  {
    "name": "Ipswich Town FC",
    "shortName": "Ipswich Town",
    "tla": "IPS",
@@ -225,22 +241,6 @@
    "gd": -5,
    "pts": 11,
    "yc": 18,
-   "rc": 1
-  },
-  {
-   "name": "Fulham FC",
-   "shortName": "Fulham",
-   "tla": "FUL",
-   "crest": "https://crests.football-data.org/63.png",
-   "p": 10,
-   "w": 2,
-   "d": 4,
-   "l": 4,
-   "gf": 10,
-   "ga": 12,
-   "gd": -2,
-   "pts": 10,
-   "yc": 19,
    "rc": 1
   },
   {
