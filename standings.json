@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T20:48:42+00:00",
- "cardsUpdatedAt": "2026-11-21T14:51:24+00:00",
+ "updatedAt": "2026-11-22T16:56:48+00:00",
+ "cardsUpdatedAt": "2026-11-22T16:56:48+00:00",
  "season": "2026",
  "teams": [
   {
@@ -16,7 +16,7 @@
    "ga": 7,
    "gd": 10,
    "pts": 28,
-   "yc": 14,
+   "yc": 17,
    "rc": 0
   },
   {
@@ -24,13 +24,13 @@
    "shortName": "Brighton Hove",
    "tla": "BHA",
    "crest": "https://crests.football-data.org/397.png",
-   "p": 10,
+   "p": 11,
    "w": 7,
    "d": 1,
-   "l": 2,
+   "l": 3,
    "gf": 26,
-   "ga": 7,
-   "gd": 19,
+   "ga": 9,
+   "gd": 17,
    "pts": 22,
    "yc": 24,
    "rc": 1
@@ -48,7 +48,23 @@
    "ga": 14,
    "gd": 8,
    "pts": 22,
-   "yc": 13,
+   "yc": 14,
+   "rc": 1
+  },
+  {
+   "name": "Liverpool FC",
+   "shortName": "Liverpool",
+   "tla": "LIV",
+   "crest": "https://crests.football-data.org/64.png",
+   "p": 11,
+   "w": 6,
+   "d": 3,
+   "l": 2,
+   "gf": 16,
+   "ga": 10,
+   "gd": 6,
+   "pts": 21,
+   "yc": 25,
    "rc": 1
   },
   {
@@ -64,24 +80,8 @@
    "ga": 14,
    "gd": 4,
    "pts": 18,
-   "yc": 27,
+   "yc": 28,
    "rc": 0
-  },
-  {
-   "name": "Liverpool FC",
-   "shortName": "Liverpool",
-   "tla": "LIV",
-   "crest": "https://crests.football-data.org/64.png",
-   "p": 10,
-   "w": 5,
-   "d": 3,
-   "l": 2,
-   "gf": 14,
-   "ga": 10,
-   "gd": 4,
-   "pts": 18,
-   "yc": 25,
-   "rc": 1
   },
   {
    "name": "Leeds United FC",
@@ -96,7 +96,7 @@
    "ga": 9,
    "gd": 5,
    "pts": 17,
-   "yc": 19,
+   "yc": 22,
    "rc": 0
   },
   {
@@ -128,7 +128,7 @@
    "ga": 20,
    "gd": 0,
    "pts": 16,
-   "yc": 20,
+   "yc": 21,
    "rc": 1
   },
   {
@@ -144,7 +144,7 @@
    "ga": 11,
    "gd": 1,
    "pts": 15,
-   "yc": 16,
+   "yc": 20,
    "rc": 1
   },
   {
@@ -164,6 +164,22 @@
    "rc": 3
   },
   {
+   "name": "Hull City AFC",
+   "shortName": "Hull City",
+   "tla": "HUL",
+   "crest": "https://crests.football-data.org/322.png",
+   "p": 11,
+   "w": 3,
+   "d": 5,
+   "l": 3,
+   "gf": 13,
+   "ga": 11,
+   "gd": 2,
+   "pts": 14,
+   "yc": 29,
+   "rc": 0
+  },
+  {
    "name": "Aston Villa FC",
    "shortName": "Aston Villa",
    "tla": "AVL",
@@ -176,7 +192,7 @@
    "ga": 17,
    "gd": -3,
    "pts": 14,
-   "yc": 20,
+   "yc": 22,
    "rc": 1
   },
   {
@@ -192,7 +208,7 @@
    "ga": 18,
    "gd": -3,
    "pts": 13,
-   "yc": 26,
+   "yc": 29,
    "rc": 1
   },
   {
@@ -208,24 +224,8 @@
    "ga": 21,
    "gd": -8,
    "pts": 12,
-   "yc": 11,
+   "yc": 12,
    "rc": 1
-  },
-  {
-   "name": "Hull City AFC",
-   "shortName": "Hull City",
-   "tla": "HUL",
-   "crest": "https://crests.football-data.org/322.png",
-   "p": 10,
-   "w": 2,
-   "d": 5,
-   "l": 3,
-   "gf": 11,
-   "ga": 11,
-   "gd": 0,
-   "pts": 11,
-   "yc": 29,
-   "rc": 0
   },
   {
    "name": "Fulham FC",
@@ -240,7 +240,7 @@
    "ga": 13,
    "gd": -2,
    "pts": 11,
-   "yc": 19,
+   "yc": 22,
    "rc": 1
   },
   {
@@ -256,7 +256,7 @@
    "ga": 22,
    "gd": -7,
    "pts": 11,
-   "yc": 18,
+   "yc": 19,
    "rc": 1
   },
   {
@@ -272,7 +272,7 @@
    "ga": 15,
    "gd": -6,
    "pts": 9,
-   "yc": 24,
+   "yc": 27,
    "rc": 0
   },
   {
@@ -288,7 +288,7 @@
    "ga": 17,
    "gd": -9,
    "pts": 9,
-   "yc": 18,
+   "yc": 20,
    "rc": 3
   },
   {
@@ -296,13 +296,13 @@
    "shortName": "Man United",
    "tla": "MUN",
    "crest": "https://crests.football-data.org/66.png",
-   "p": 10,
+   "p": 11,
    "w": 1,
    "d": 5,
-   "l": 4,
+   "l": 5,
    "gf": 14,
-   "ga": 19,
-   "gd": -5,
+   "ga": 21,
+   "gd": -7,
    "pts": 8,
    "yc": 21,
    "rc": 1
@@ -320,7 +320,7 @@
    "ga": 27,
    "gd": -15,
    "pts": 7,
-   "yc": 15,
+   "yc": 17,
    "rc": 2
   }
  ]
