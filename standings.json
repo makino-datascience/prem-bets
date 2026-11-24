@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T22:22:08+00:00",
- "cardsUpdatedAt": "2026-11-22T16:56:48+00:00",
+ "updatedAt": "2026-11-24T00:11:37+00:00",
+ "cardsUpdatedAt": "2026-11-24T00:11:37+00:00",
  "season": "2026",
  "teams": [
   {
@@ -32,8 +32,8 @@
    "ga": 9,
    "gd": 17,
    "pts": 22,
-   "yc": 24,
-   "rc": 1
+   "yc": 26,
+   "rc": 2
   },
   {
    "name": "Manchester City FC",
@@ -64,7 +64,7 @@
    "ga": 10,
    "gd": 8,
    "pts": 21,
-   "yc": 25,
+   "yc": 26,
    "rc": 1
   },
   {
@@ -84,6 +84,22 @@
    "rc": 0
   },
   {
+   "name": "Brentford FC",
+   "shortName": "Brentford",
+   "tla": "BRE",
+   "crest": "https://crests.football-data.org/402.png",
+   "p": 11,
+   "w": 4,
+   "d": 5,
+   "l": 2,
+   "gf": 20,
+   "ga": 11,
+   "gd": 9,
+   "pts": 17,
+   "yc": 22,
+   "rc": 3
+  },
+  {
    "name": "Leeds United FC",
    "shortName": "Leeds United",
    "tla": "LEE",
@@ -97,22 +113,6 @@
    "gd": 5,
    "pts": 17,
    "yc": 22,
-   "rc": 0
-  },
-  {
-   "name": "Everton FC",
-   "shortName": "Everton",
-   "tla": "EVE",
-   "crest": "https://crests.football-data.org/62.png",
-   "p": 10,
-   "w": 4,
-   "d": 4,
-   "l": 2,
-   "gf": 12,
-   "ga": 10,
-   "gd": 2,
-   "pts": 16,
-   "yc": 18,
    "rc": 0
   },
   {
@@ -132,6 +132,22 @@
    "rc": 1
   },
   {
+   "name": "Everton FC",
+   "shortName": "Everton",
+   "tla": "EVE",
+   "crest": "https://crests.football-data.org/62.png",
+   "p": 11,
+   "w": 4,
+   "d": 4,
+   "l": 3,
+   "gf": 12,
+   "ga": 14,
+   "gd": -2,
+   "pts": 16,
+   "yc": 18,
+   "rc": 0
+  },
+  {
    "name": "Tottenham Hotspur FC",
    "shortName": "Tottenham",
    "tla": "TOT",
@@ -148,22 +164,6 @@
    "rc": 1
   },
   {
-   "name": "Brentford FC",
-   "shortName": "Brentford",
-   "tla": "BRE",
-   "crest": "https://crests.football-data.org/402.png",
-   "p": 10,
-   "w": 3,
-   "d": 5,
-   "l": 2,
-   "gf": 16,
-   "ga": 11,
-   "gd": 5,
-   "pts": 14,
-   "yc": 22,
-   "rc": 3
-  },
-  {
    "name": "Hull City AFC",
    "shortName": "Hull City",
    "tla": "HUL",
@@ -176,7 +176,7 @@
    "ga": 11,
    "gd": 2,
    "pts": 14,
-   "yc": 29,
+   "yc": 31,
    "rc": 0
   },
   {
@@ -305,7 +305,7 @@
    "gd": -9,
    "pts": 8,
    "yc": 21,
-   "rc": 1
+   "rc": 2
   },
   {
    "name": "Crystal Palace FC",
