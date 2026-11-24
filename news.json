@@ -1,22 +1,337 @@
 {
- "updatedAt": "2026-11-24T10:16:07+00:00",
+ "updatedAt": "2026-11-24T20:46:20+00:00",
  "items": [
   {
-   "title": "New research shows stagnation in girls’ ambitions of reaching top of sport",
+   "title": "Aston Villa latest: Emery's blunt response when asked about Garnacho absence",
    "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-michelle-agyemang_7415103.jpg?20261124095353",
+   "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826",
    "source": "Sky Sports",
-   "published": "2026-11-24T09:50:00+00:00",
+   "published": "2026-11-24T20:40:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Ronaldo scores 987th career goal in Al Nassr victory",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+   "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372504.jpg?20261012222844",
+   "source": "Sky Sports",
+   "published": "2026-11-24T20:35:00+00:00",
    "epl": false
   },
   {
-   "title": "Transfer Centre LIVE! 'Real Madrid close to agreeing new contract with Bellingham'",
+   "title": "Man Utd latest: Bruno Fernandes 'not worried' about future",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
+   "source": "Sky Sports",
+   "published": "2026-11-24T19:43:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Villa beaten late on at Galatasaray as winless run continues",
+   "summary": "Aston Villa's winless run extended to six games as a late Deniz Gul's header saw them beaten 1-0 by Galatasaray in the Champions League league phase.",
+   "url": "https://www.skysports.com/football/galatasaray-vs-aston-villa/report/577673",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-galatasaray-deniz-gul_7415608.jpg?20261124194142",
+   "source": "Sky Sports",
+   "published": "2026-11-24T19:40:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Portsmouth strike first against West Ham LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/portsmouth-vs-west-ham-united/live/560695",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-west-ham-portsmouth_7415613.jpg?20261124200543",
+   "source": "Sky Sports",
+   "published": "2026-11-24T19:15:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Lyons heads Aberdeen in front vs Rangers LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/rangers-vs-aberdeen/live/578619",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-aberdeen-rangers_7415633.jpg?20261124204359",
+   "source": "Sky Sports",
+   "published": "2026-11-24T18:30:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "EFL latest: Swansea offer head coach job to Rosenborg boss Alexandersson",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-freyr-alexandersson_7415559.jpg?20261124183015",
+   "source": "Sky Sports",
+   "published": "2026-11-24T18:30:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Liverpool latest: Wirtz explains how he has hit 'best form' since joining",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+   "source": "Sky Sports",
+   "published": "2026-11-24T18:15:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "West Ham latest: Hammers monitoring Heaven's Man Utd situation",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817",
+   "source": "Sky Sports",
+   "published": "2026-11-24T18:02:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Arsenal leading Dortmund after Gyokeres stunner LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-arsenal-bvb_7415620.jpg?20261124201939",
+   "source": "Sky Sports",
+   "published": "2026-11-24T18:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Why Arsenal’s crazy festive fixture run could hand them the Premier League title in record time",
+   "summary": "Are the Premier League’s London clubs at an advantage? Arsenal prepare to put that unique theory to the test",
+   "url": "https://www.fourfourtwo.com/team/why-arsenals-crazy-festive-fixture-run-could-hand-them-the-premier-league-title-in-record-time",
+   "image": "https://cdn.mos.cms.futurecdn.net/vhhtDti48KcA989VRAvxXU-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T17:16:51+00:00",
+   "epl": true
+  },
+  {
+   "title": "How 'quick check' and unseen angle saw Timber's Isak shirt-pull go unpunished",
+   "summary": "Referees’ chief Howard Webb admitted it was a “quick check” by VAR for Arsenal defender Jurrien Timber’s unpunished shirt-pull on Liverpool striker Alexander Isak in the Gunners’ win at Anfield.",
+   "url": "https://www.skysports.com/football/news/11661/13616058/jurrien-timbers-shirt-pull-on-alexander-isak-ref-chief-howard-webb-admits-quick-check-in-arsenals-win-at-liverpool",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128",
+   "source": "Sky Sports",
+   "published": "2026-11-24T17:13:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Man Utd to contact PL and refs over 'totally wrong' Yoro red card interpretation",
+   "summary": "Manchester United will contact ProRef and the Premier League directly over what they believe to be a 'totally wrong' interpretation of Leny Yoro's red card against Liverpool.",
+   "url": "https://www.skysports.com/football/news/11661/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102",
+   "source": "Sky Sports",
+   "published": "2026-11-24T17:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Yoro red card overturned after successful Man Utd appeal",
+   "summary": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
+   "url": "https://www.skysports.com/football/news/11661/13616021/leny-yoros-red-card-for-manchester-united-against-liverpool-overturned-following-successful-appeal",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441",
+   "source": "Sky Sports",
+   "published": "2026-11-24T17:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Listen in! The VAR audio that supported Yoro's red card decision at Anfield",
+   "summary": "Speaking on Match Officials Mic'd Up, Howard Webb and Michael Owen take a look at the VAR process from Anfield after Leny Yoro was given a red card in the eighth minute.",
+   "url": "https://www.skysports.com/watch/video/13616024/match-officials-micd-up-the-var-audio-that-supported-leny-yoros-red-card-decision-at-anfield",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-var-micd-up-football_7415422.jpg?20261124154655",
+   "source": "Sky Sports",
+   "published": "2026-11-24T17:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Watch Real Madrid vs PSV Eindhoven: Live Streams",
+   "summary": "Here's how to watch Real Madrid vs PSV Eindhoven from anywhere in the Champions League 2026/27, as Jose Mourinho's men eye a tenth straight win.",
+   "url": "https://www.fourfourtwo.com/competition/watch-real-madrid-vs-psv-eindhoven-champions-league-2026-27",
+   "image": "https://cdn.mos.cms.futurecdn.net/JEgcewDENAwuDfudqyf3dV-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T17:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Watch Manchester City vs Napoli for FREE: Live Streams",
+   "summary": "Here's how to watch Manchester City vs Napoli for free from anywhere as Enzo Maresca's side continue their Champions League 2026/27 campaign.",
+   "url": "https://www.fourfourtwo.com/competition/watch-manchester-city-vs-napoli-champions-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/E9vb844vrzivFmke9pQGYa-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T17:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Transfer Centre LIVE! Heaven open to leaving Man Utd in January",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jude-bellingham-real_7328794.jpg?20260822223452",
+   "image": "https://e1.365dm.com/25/03/1920x1080/skysports-man-utd-ayden-heaven_6858858.jpg?20250316174910",
    "source": "Sky Sports",
-   "published": "2026-11-24T09:20:00+00:00",
+   "published": "2026-11-24T16:55:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Arsenal star Ethan Nwaneri dealt big blow, with wonderkid on the move in January: report",
+   "summary": "Arsenal wonderkid Ethan Nwaneri hasn't established himself on loan - and now faces further competition for his place",
+   "url": "https://www.fourfourtwo.com/transfer/arsenal-star-ethan-nwaneri-dealt-big-blow-with-wonderkid-on-the-move-in-january-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/GWfVaQtUqcUEPdTKTWLB8c-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T16:36:47+00:00",
+   "epl": true
+  },
+  {
+   "title": "Manchester United eye cut-price January deal for 100-game Premier League defender",
+   "summary": "Manchester United are in the market for a central defender and Mauricio Pochettino understands the need better than most",
+   "url": "https://www.fourfourtwo.com/transfer/manchester-united-eye-cut-price-january-deal-for-100-game-premier-league-defender",
+   "image": "https://cdn.mos.cms.futurecdn.net/J9E4DEWngtAYoW2ZmEXHoX-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T16:30:41+00:00",
+   "epl": true
+  },
+  {
+   "title": "Spurs latest: Williams-Barnett signs new deal as contract length revealed",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+   "source": "Sky Sports",
+   "published": "2026-11-24T16:15:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Berrada admits Man Utd transfer spending will be limited by stadium plans",
+   "summary": "Manchester United chief executive Omar Berrada admits plans to build a new 100,000-seater stadium will limit transfer spending in upcoming windows.",
+   "url": "https://www.skysports.com/football/news/11661/13615995/man-utd-transfer-spending-to-be-limited-by-new-stadium-plans-in-the-short-term-according-to-chief-executive-omar-berrada",
+   "image": "https://e2.365dm.com/26/06/1920x1080/skysports-omar-berrada-man-utd_7265413.jpg?20260604164618",
+   "source": "Sky Sports",
+   "published": "2026-11-24T16:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Could Man Utd really be relegated this season?",
+   "summary": "Sky Sports' Ron Walker takes a closer look at whether or not Manchester United being relegated is a real possibility this season.",
+   "url": "https://www.skysports.com/watch/video/13616010/explained-could-manchester-united-really-be-relegated-this-season",
+   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-walker-pochettino_7415397.jpg?20261124151712",
+   "source": "Sky Sports",
+   "published": "2026-11-24T15:08:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Watch Arsenal vs Borussia Dortmund for FREE: Live Streams",
+   "summary": "Here's how to watch Arsenal vs Borussia Dortmund for free from anywhere as the Gunners host the Bundesliga leaders in the Champions League 2026/27 league phase.",
+   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-borussia-dortmund-champions-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/ct5vGC2cqyFxpV2vKTZzzS-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T15:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Watch Galatasaray vs Aston Villa for FREE: Live Streams",
+   "summary": "Here's how to watch Galatasaray vs Aston Villa for free from anywhere as Unai Emery's side travel to Istanbul in the Champions League 2026/27 league phase.",
+   "url": "https://www.fourfourtwo.com/competition/watch-galatasaray-vs-aston-villa-champions-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/phrCXWRkncWGKb44aZwKkc-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T14:45:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Senegal confirmed AFCON 2025 champions after appeal",
+   "summary": "The Court of Arbitration for Sport (CAS) has announced Senegal as the winners of the 2025 Africa Cup of Nations (AFCON).",
+   "url": "https://www.skysports.com/football/news/11095/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sadio-mane_7415365.jpg?20261124145012",
+   "source": "Sky Sports",
+   "published": "2026-11-24T14:20:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Newcastle United tipped to re-sign striker as Matthias Jaissle seeks January reinforcements",
+   "summary": "Newcastle United and head coach Matthias Jaissle could reunite with a former striker, according to reports",
+   "url": "https://www.fourfourtwo.com/transfer/newcastle-united-tipped-to-re-sign-striker-as-matthias-jaissle-seeks-january-reinforcements",
+   "image": "https://cdn.mos.cms.futurecdn.net/2LZB8d5Uc3xC7rKDFevAWm-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T14:18:01+00:00",
+   "epl": true
+  },
+  {
+   "title": "Chelsea preparing for Xabi Alonso sack, following poor form: report",
+   "summary": "Chelsea were hammered by Leeds United at the weekend - with Xabi Alonso feeling the pressure",
+   "url": "https://www.fourfourtwo.com/transfer/chelsea-preparing-for-xabi-alonso-sack-following-poor-form-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/2zYyfmJyM6xDDUqbQDf4D8-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T14:13:05+00:00",
+   "epl": true
+  },
+  {
+   "title": "Millwall first club hit with partial closure over discriminatory chants",
+   "summary": "Millwall have become the first club in the top four divisions of English football to be punished with a partial stadium closure for discriminatory chanting after a regulatory commission proved two FA charges.",
+   "url": "https://www.skysports.com/football/news/11095/13615754/millwall-forced-to-partially-close-the-den-after-commission-proves-fa-charges-of-discriminatory-chanting",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-the-den-millwall_7414741.jpg?20261123192207",
+   "source": "Sky Sports",
+   "published": "2026-11-24T14:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Man City seek breakthrough against Napoli LIVE!",
+   "summary": "",
+   "url": "https://www.skysports.com/football/manchester-city-vs-napoli/live/577674",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-city-napoli_7415623.jpg?20261124202708",
+   "source": "Sky Sports",
+   "published": "2026-11-24T12:40:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Manchester United have transfer war chest to spend on backing Mauricio Pochettino in January",
+   "summary": "Exactly how much Squad Cost Ratio (SCR) headroom do Manchester United have to back Mauricio Pochettino in the January transfer window?",
+   "url": "https://www.fourfourtwo.com/transfer/how-much-money-do-manchester-united-have-to-spend-on-transfers-in-january",
+   "image": "https://cdn.mos.cms.futurecdn.net/2CDX5wuChGPRyuQfr5opqW-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T12:01:27+00:00",
+   "epl": true
+  },
+  {
+   "title": "Crystal Palace Women deducted three points for use of subs",
+   "summary": "Crystal Palace Women have been deducted three points in the WSL with immediate effect.",
+   "url": "https://www.skysports.com/football/news/11095/13615948/crystal-palace-women-deducted-three-points-in-wsl-for-making-substitutions-at-four-windows-in-everton-win",
+   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-crystal-palace-general_7415221.jpg?20261124120619",
+   "source": "Sky Sports",
+   "published": "2026-11-24T11:34:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "Manchester United January transfer plan confirmed: report",
+   "summary": "Manchester United are in the market for three midseason signings",
+   "url": "https://www.fourfourtwo.com/transfer/manchester-united-january-transfer-plan-confirmed-report",
+   "image": "https://cdn.mos.cms.futurecdn.net/SXF32crEZXTqhnpWyeMjRL-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T11:18:13+00:00",
+   "epl": true
+  },
+  {
+   "title": "Quiz! Can you guess these World Cup stadiums?",
+   "summary": "How many of these famous World Cup venues do you recognise?",
+   "url": "https://www.fourfourtwo.com/quiz/quiz-can-you-guess-these-world-cup-stadiums",
+   "image": "https://cdn.mos.cms.futurecdn.net/dyYBPvLoqsT8h2bSewrUgD-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T11:06:52+00:00",
+   "epl": false
+  },
+  {
+   "title": "Quickfire Quiz 252: Can you answer 10 questions in 90 seconds?",
+   "summary": "Tackle these 10 football trivia questions about club links, old grounds, full names and more!",
+   "url": "https://www.fourfourtwo.com/quiz/quickfire-quiz-252",
+   "image": "https://cdn.mos.cms.futurecdn.net/bi37upUvoJFCVRBwDfnGUS-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T11:06:47+00:00",
+   "epl": false
+  },
+  {
+   "title": "Revealed: Newcastle United NEED to sign this Bruno Guimaraes replacement in January",
+   "summary": "If Newcastle don't sign a Bruno Guimaraes replacement in January they could find themselves dragged into a relegation dogfight",
+   "url": "https://www.fourfourtwo.com/transfer/revealed-newcastle-united-need-to-sign-this-bruno-guimaraes-replacement-in-january",
+   "image": "https://cdn.mos.cms.futurecdn.net/eCeQGLBGUJx6E2bwzzVokB-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-24T10:47:18+00:00",
+   "epl": true
+  },
+  {
+   "title": "Leeds latest: Tanaka close to signing new contract",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402",
+   "source": "Sky Sports",
+   "published": "2026-11-24T10:45:00+00:00",
    "epl": true
   },
   {
@@ -38,15 +353,6 @@
    "epl": true
   },
   {
-   "title": "Man Utd latest: 'No one is coming to save us from relegation' - Mainoo",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
-   "source": "Sky Sports",
-   "published": "2026-11-24T07:15:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Wolves are clicking, Stoke are dreaming - but could QPR be dark horses?",
    "summary": "",
    "url": "https://www.skysports.com/football/news/11095/13615599/wolves-hit-their-stride-stoke-continue-to-dream-but-can-they-last-the-course-and-are-qpr-dark-horses-of-championship",
@@ -62,33 +368,6 @@
    "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
    "source": "Sky Sports",
    "published": "2026-11-23T23:02:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Brentford latest: 'Get real' - Andrews pushes back against rising expectations",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049",
-   "source": "Sky Sports",
-   "published": "2026-11-23T23:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
-   "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-   "url": "https://www.skysports.com/football/news/11661/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-   "source": "Sky Sports",
-   "published": "2026-11-23T22:40:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Janelt scores rocket as Brentford thrash 10-man Everton to move sixth!",
-   "summary": "FREE TO WATCH: Highlights from Brentford’s match against Everton in the Premier League.",
-   "url": "https://www.skysports.com/watch/video/13615838/brentford-4-0-everton-premier-league-highlights",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pl-hlts_7414919.jpg?20261123222612",
-   "source": "Sky Sports",
-   "published": "2026-11-23T22:21:00+00:00",
    "epl": true
   },
   {
@@ -110,15 +389,6 @@
    "epl": true
   },
   {
-   "title": "Liverpool latest: Carra says Wirtz's Man Utd finish 'one of goals of season'",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-   "source": "Sky Sports",
-   "published": "2026-11-23T20:52:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Chelsea latest: Carra explains why Fofana-Colwill partnership 'will never work'",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -129,9 +399,9 @@
   },
   {
    "title": "Are Man Utd genuinely in a relegation battle?",
-   "summary": "What started as a blip has become a problem far more systemic for Man Utd.",
+   "summary": "What started as a blip has become a problem far more systemic for Manchester United.",
    "url": "https://www.skysports.com/football/news/11661/13615552/are-manchester-united-in-a-relegation-battle-gary-neville-and-jamie-carragher-assess-their-survival-chances",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-manchester-united_7414626.jpg?20261123164222",
+   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-manchester-united_7414626.jpg?20261124123536",
    "source": "Sky Sports",
    "published": "2026-11-23T19:45:00+00:00",
    "epl": true
@@ -155,15 +425,6 @@
    "epl": true
   },
   {
-   "title": "Spurs latest: Maddison jokes 'email worked' as Williams-Barnett awarded assist",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
-   "source": "Sky Sports",
-   "published": "2026-11-23T16:28:00+00:00",
-   "epl": true
-  },
-  {
    "title": "What would relegation mean for Man Utd? Kaveh answers your questions!",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13615719/premier-league-qa-sky-sports-news-kaveh-solhekol-answers-your-questions-on-man-utd-liverpool-arsenal-and-more",
@@ -171,15 +432,6 @@
    "source": "Sky Sports",
    "published": "2026-11-23T16:14:00+00:00",
    "epl": true
-  },
-  {
-   "title": "UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?",
-   "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
-   "url": "https://www.skysports.com/football/news/11095/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
-   "image": "https://e0.365dm.com/25/04/1920x1080/skysports-women-world-cup-england_6874715.jpg?20250403093156",
-   "source": "Sky Sports",
-   "published": "2026-11-23T15:05:00+00:00",
-   "epl": false
   },
   {
    "title": "Xabi Alonso’s and Enzo Maresca’s ‘intensity’ issues prove underrated Mikel Arteta leads our post-Guardiola world",
@@ -218,15 +470,6 @@
    "epl": true
   },
   {
-   "title": "Man Utd to appeal Yoro red card",
-   "summary": "Manchester United have notified the FA of their intention to appeal Leny Yoro's red card against Liverpool.",
-   "url": "https://www.skysports.com/football/news/11661/13615539/manchester-united-to-appeal-leny-yoros-red-card-as-ex-pl-referee-dermot-gallagehr-casts-his-verdict",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441",
-   "source": "Sky Sports",
-   "published": "2026-11-23T12:30:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Merson: My worry is that Liverpool thought Alonso wasn't good enough",
    "summary": "In his latest Sky Sports column, Paul Merson has raised doubts about whether Xabi Alonso is good enough as Chelsea manager - after another disappointing defeat in the Premier League.",
    "url": "https://www.skysports.com/football/news/11661/13615585/paul-merson-believes-liverpool-knew-xabi-alonso-wasnt-good-enough-and-were-seeing-it-play-out-as-chelsea-manager",
@@ -254,15 +497,6 @@
    "epl": true
   },
   {
-   "title": "Ref Watch: Yoro correctly sent off and Haaland 'foul' explained",
-   "summary": "",
-   "url": "https://www.skysports.com/football/live-blog/11661/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-   "image": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102",
-   "source": "Sky Sports",
-   "published": "2026-11-23T10:50:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Aston Villa are struggling to rediscover the comfort of home and it’s costing points they can’t afford to lose",
    "summary": "Aston Villa have won once in their six home matches in the Premier League this season",
    "url": "https://www.fourfourtwo.com/team/aston-villa-are-struggling-to-rediscover-the-comfort-of-home-and-its-costing-points-they-cant-afford-to-lose",
@@ -278,15 +512,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/pkLJVfhsYFuJmL7x4NhMJE-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-23T10:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "The day Liverpool's attack showed its devastating potential",
-   "summary": "The conditions were favourable. Leny Yoro's red card after just eight minutes. A Man Utd team devoid of confidence and defensive resilience. But on Sunday, Liverpool's attack showed its devastating potential.",
-   "url": "https://www.skysports.com/football/news/11661/13615535/liverpools-attack-shows-its-devastating-potential-as-florian-wirtz-steps-up-in-thumping-win-over-10-man-man-utd",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wirtz-florian-liverpool_7414195.jpg?20261123091321",
-   "source": "Sky Sports",
-   "published": "2026-11-23T09:01:00+00:00",
    "epl": true
   },
   {
@@ -326,15 +551,6 @@
    "epl": false
   },
   {
-   "title": "Nightmare start for Pochettino as Liverpool rout 10-man Man Utd",
-   "summary": "Mauricio Pochettino endured a horror start to his Manchester United tenure as his 10-man side were thrashed 4-0 by Liverpool at Anfield following Leny Yoro's early sending off.",
-   "url": "https://www.skysports.com/football/liverpool-vs-manchester-united/report/559550",
-   "image": "https://e1.365dm.com/26/11/1920x1080/skysports-rio-ngumoha-liverpool_7413795.jpg?20261122181605",
-   "source": "Sky Sports",
-   "published": "2026-11-22T18:25:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Jayden Bogle on what it’s like to be backed by the Leeds United faithful",
    "summary": "The right-back joined Leeds United in 2024 and has gone from strength-to-strength ever since",
    "url": "https://www.fourfourtwo.com/person/player/leeds-fans-give-you-so-much-energy-when-you-made-a-big-tackle-or-a-block-and-the-promotion-parade-is-something-ill-never-forget-jayden-bogle-on-what-its-like-to-be-backed-by-the-elland-road-faithful",
@@ -362,19 +578,19 @@
    "epl": false
   },
   {
-   "title": "Kenny Daglish opens up on his Celtic exit for Liverpool",
-   "summary": "The Celtic great moved south of the border in 1977",
-   "url": "https://www.fourfourtwo.com/person/player/jock-stein-phoned-and-said-right-do-you-still-want-to-go-i-said-aye-boss-it-was-about-10-30pm-bob-paisley-and-the-chairman-of-liverpool-were-there-about-five-minutes-later-everything-was-agreed-kenny-dalglish-on-his-celtic-exit",
-   "image": "https://cdn.mos.cms.futurecdn.net/EGstWGthQaiXoqeU2W5rLj-1920-80.jpg",
+   "title": "How to watch Hull City vs Brighton for FREE: Live streams",
+   "summary": "Here's how to watch Hull City vs Brighton for free online and from anywhere as the clubs meet in the Premier League.",
+   "url": "https://www.fourfourtwo.com/competition/watch-hull-v-brighton-premier-league-2026-27-free",
+   "image": "https://cdn.mos.cms.futurecdn.net/JdZNw39Jptd5XYU8qdpZa4-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-22T11:00:00+00:00",
    "epl": true
   },
   {
-   "title": "How to watch Hull City vs Brighton for FREE: Live streams",
-   "summary": "Here's how to watch Hull City vs Brighton for free online and from anywhere as the clubs meet in the Premier League.",
-   "url": "https://www.fourfourtwo.com/competition/watch-hull-v-brighton-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/JdZNw39Jptd5XYU8qdpZa4-1920-80.jpg",
+   "title": "Kenny Daglish opens up on his Celtic exit for Liverpool",
+   "summary": "The Celtic great moved south of the border in 1977",
+   "url": "https://www.fourfourtwo.com/person/player/jock-stein-phoned-and-said-right-do-you-still-want-to-go-i-said-aye-boss-it-was-about-10-30pm-bob-paisley-and-the-chairman-of-liverpool-were-there-about-five-minutes-later-everything-was-agreed-kenny-dalglish-on-his-celtic-exit",
+   "image": "https://cdn.mos.cms.futurecdn.net/EGstWGthQaiXoqeU2W5rLj-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-22T11:00:00+00:00",
    "epl": true
@@ -504,132 +720,6 @@
    "source": "FourFourTwo",
    "published": "2026-11-21T12:00:00+00:00",
    "epl": true
-  },
-  {
-   "title": "Kieran Gibbs recalls his infamous Chelsea red card",
-   "summary": "A case of mistaken identity sparked one of the most bizarre Premier League incidents ever",
-   "url": "https://www.fourfourtwo.com/person/player/it-was-a-surreal-and-very-frustrating-moment-that-was-unique-in-the-premier-league-so-it-brought-a-lot-of-attention-both-captains-and-the-referee-were-telling-me-i-was-definitely-going-off-it-was-a-big-error-from-the-referee-who-apologised-later-kieran-gibbs-on-that-red-card",
-   "image": "https://cdn.mos.cms.futurecdn.net/YQ9q79sqX9mj65NgPLtqwS-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-21T11:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "How to watch Manchester City vs Fulham: FREE streams",
-   "summary": "Here's how to watch Manchester City vs Fulham for free online from anywhere in the world, as the Premier League returns with this Saturday-lunchtime clash.",
-   "url": "https://www.fourfourtwo.com/competition/watch-manchester-city-vs-fulham-premier-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/UgkeneYcqNdULN28TZMuEY-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-21T09:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "John Toshack on Bill Shankly, Liverpool and an extraordinary football career",
-   "summary": "John Toshack’s remarkable career took him from Wales, Liverpool and Real Madrid to Azerbaijan, Morocco and Iran. After a brush with death in 2022, he tells his story to FFT",
-   "url": "https://www.fourfourtwo.com/team/welcome-to-liverpool-son-youve-come-out-of-school-to-come-to-church-john-toshack-on-bill-shankly-liverpool-and-an-extraordinary-football-career",
-   "image": "https://cdn.mos.cms.futurecdn.net/e5bHc9CnyDFfVtFtPqdok8-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-21T09:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Why is Kai Havertz always offside for Arsenal this season?",
-   "summary": "The Gunners' forward just can’t seem to time his runs this season",
-   "url": "https://www.fourfourtwo.com/person/player/why-is-kai-havertz-always-offside-for-arsenal-this-season",
-   "image": "https://cdn.mos.cms.futurecdn.net/rCetEwqVvZNn36NGMirYh7-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-21T07:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "FourFourTwo's Weekend Crossword 80: Gods, Golds and codes",
-   "summary": "Our new Weekend Crossword is the perfect accompaniment to a delicious hot beverage",
-   "url": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-80",
-   "image": "https://cdn.mos.cms.futurecdn.net/rr2kArAsT4vDvZRQjhf6EG-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-21T07:00:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "What's eating Adam Wharton? Crystal Palace star’s suitors must ask themselves one big question",
-   "summary": "The Crystal Palace man hasn't lived up to previous seasons' form in 2026/27",
-   "url": "https://www.fourfourtwo.com/person/coaches-managers/whats-eating-adam-wharton-crystal-palace-stars-suitors-must-ask-themselves-one-big-question",
-   "image": "https://cdn.mos.cms.futurecdn.net/U3Fm5nqnxtfdQKJPyTJRp6-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-21T06:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Are Manchester United about to appoint their first ever female coach?",
-   "summary": "Following Mauricio Pochettino's appointment, Manchester United could be about to appoint their first female coach to the men's first team",
-   "url": "https://www.fourfourtwo.com/team/are-manchester-united-about-to-appoint-their-first-ever-female-coach",
-   "image": "https://cdn.mos.cms.futurecdn.net/vTQvZrTF8SaUw3WQTeQCw7-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T16:53:40+00:00",
-   "epl": true
-  },
-  {
-   "title": "NWSL Championship 2026: Final preview, players to watch and predictions",
-   "summary": "Just two teams remain in the race for the 2026 NWSL Championship: Will Washington Spirit or Kansas City Current take the crown?",
-   "url": "https://www.fourfourtwo.com/competition/nwsl-championship-2026-final-preview-players-to-watch-and-predictions",
-   "image": "https://cdn.mos.cms.futurecdn.net/BRGbiJ4AgS8JLKvF8p5Qug-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T16:00:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Lock in Champions League coverage for $2.99/month with this Paramount+ Black Friday deal",
-   "summary": "Stream the Champions League, Europa League and EFL with this massive Paramount+ Black Friday deal.",
-   "url": "https://www.fourfourtwo.com/products-kit/lock-in-champions-league-coverage-with-this-paramount-black-friday-deal",
-   "image": "https://cdn.mos.cms.futurecdn.net/2H6mHVc2YLf98o6dJFAvZA-1920-80.png",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T15:25:21+00:00",
-   "epl": false
-  },
-  {
-   "title": "Liverpool star pulled out of game with freak injury following GTA release - with Premier League bosses on high alert following Grand Theft Auto VI",
-   "summary": "Watch out FPL bosses: Liverpool may well have history when it comes to Grand Theft Auto sickies",
-   "url": "https://www.fourfourtwo.com/transfer/liverpool-star-pulled-out-of-game-with-freak-injury-following-gta-release-with-premier-league-bosses-on-high-alert-following-grand-theft-auto-vi",
-   "image": "https://cdn.mos.cms.futurecdn.net/28LGXAxMH7nCgnTqjmqH8J-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T15:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "‘Would I have broken Peter Shilton’s record without the injuries? If I had Harry Kane’s constitution, I would have scored many more goals and played many more games, but you can’t spend your life thinking ‘What if?’ England great hails history-maker",
-   "summary": "Former striker assesses how many caps he could have reached, had he been able to continue playing regularly at club level",
-   "url": "https://www.fourfourtwo.com/person/player/would-i-have-broken-peter-shiltons-record-without-the-injuries-if-i-had-harry-kanes-constitution-i-would-have-scored-many-more-goals-and-played-many-more-games-but-you-cant-spend-your-life-thinking-what-if-england-great-hails-history-maker",
-   "image": "https://cdn.mos.cms.futurecdn.net/8RhbyEBUM9BtZznLstyCB3-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T14:00:00+00:00",
-   "epl": false
-  },
-  {
-   "title": "Manchester United ready to repeat transfer trick for Mauricio Pochettino's first buy: report",
-   "summary": "Manchester United manager Mauricio Pochettino's first signing could be made using the same method they tried last summer with a move",
-   "url": "https://www.fourfourtwo.com/transfer/manchester-united-ready-to-repeat-transfer-trick-for-mauricio-pochettinos-first-buy-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/YU7GQ6uLJGghnrmvG2qoT9-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T12:06:17+00:00",
-   "epl": true
-  },
-  {
-   "title": "Arsenal set for 'record-breaking' deal for next South American wonderkid: report",
-   "summary": "Arsenal are moving for a potential superstar, as they welcome a wonderkid to North London",
-   "url": "https://www.fourfourtwo.com/transfer/arsenal-set-for-record-breaking-deal-for-next-south-american-wonderkid-report",
-   "image": "https://cdn.mos.cms.futurecdn.net/zdrJTKTuNfH3JGAekHYMCJ-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T11:42:06+00:00",
-   "epl": true
-  },
-  {
-   "title": "‘Even at a hostel in Australia, guys shouted “Unbelievable, Jeff” at me. Who’d have been the worst footballer to take with me on Race Across The World? I know who – this person couldn’t do Race Across Birmingham!’ Jeff Stelling talks exclusively to FFT",
-   "summary": "The Soccer Saturday legend on his remarkable 2026 journey from Borneo, and the most disastrous choice he could have made for a travel partner...",
-   "url": "https://www.fourfourtwo.com/person/even-at-a-hostel-in-australia-guys-shouted-unbelievable-jeff-at-me-whod-have-been-the-worst-footballer-to-take-with-me-on-race-across-the-world-i-know-who-this-person-couldnt-do-race-across-birmingham-jeff-stelling-talks-exclusively-to-fft",
-   "image": "https://cdn.mos.cms.futurecdn.net/GW8UFportbBpBJUjSmAjFa-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-20T11:00:00+00:00",
-   "epl": false
   }
  ]
 }
