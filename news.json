@@ -1,6 +1,51 @@
 {
- "updatedAt": "2026-11-28T01:47:36+00:00",
+ "updatedAt": "2026-11-28T09:54:41+00:00",
  "items": [
+  {
+   "title": "From Gunnersaurus to a giant cucumber: FourFourTwo ranks the 30 greatest football mascots in the world",
+   "summary": "It's time to rate the finest Wombles, jalapeno peppers and chainsaw-wielding maniacs that football has to offer",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/from-gunnersaurus-to-a-giant-cucumber-fourfourtwo-ranks-the-30-greatest-football-mascots-in-the-world",
+   "image": "https://cdn.mos.cms.futurecdn.net/Pa7Guw4mXcCEkg6LoUXkrS-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-28T09:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "Everton latest: Moyes still waiting for transfer news",
+   "summary": "",
+   "url": "https://www.skysports.com/football/live-blog/11661/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+   "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259",
+   "source": "Sky Sports",
+   "published": "2026-11-28T08:25:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "‘Wrexham are our rivals, so that’s not the club I want to talk about, but Bournemouth, Brentford and Brighton have been unbelievable success stories – it shows things can happen’ Brad Friedel tells FFT about his ambitions after Shrewsbury Town takeover",
+   "summary": "Legendary US goalkeeper is taking inspiration from some high-flying clubs as he takes on sporting director role in League Two",
+   "url": "https://www.fourfourtwo.com/person/wrexham-are-our-rivals-so-thats-not-the-club-i-want-to-talk-about-but-bournemouth-brentford-and-brighton-have-been-unbelievable-success-stories-it-shows-things-can-happen-brad-friedel-tells-fft-about-his-ambitions-after-shrewsbury-town-takeover",
+   "image": "https://cdn.mos.cms.futurecdn.net/bvca4GyeUk6hZwnVgcsKMS-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-28T08:00:00+00:00",
+   "epl": true
+  },
+  {
+   "title": "FourFourTwo's Weekend Crossword 81: Ones, Twos and Threes",
+   "summary": "It's time for another Weekend Crossword from FourFourTwo",
+   "url": "https://www.fourfourtwo.com/quiz/fourfourtwo-weekend-crossword-81",
+   "image": "https://cdn.mos.cms.futurecdn.net/KcL66aePx5TsfikAy7vqp7-1920-80.png",
+   "source": "FourFourTwo",
+   "published": "2026-11-28T07:00:00+00:00",
+   "epl": false
+  },
+  {
+   "title": "What exactly are Xabi Alonso's Chelsea trying to be?",
+   "summary": "The Blues' lack of a clear identity is as much of a problem as poor results",
+   "url": "https://www.fourfourtwo.com/person/coaches-managers/what-exactly-are-xabi-alonsos-chelsea-trying-to-be",
+   "image": "https://cdn.mos.cms.futurecdn.net/hMZCaFM6RTHAFJcptBd7T4-1920-80.jpg",
+   "source": "FourFourTwo",
+   "published": "2026-11-28T07:00:00+00:00",
+   "epl": true
+  },
   {
    "title": "What went wrong for Alonso's Chelsea at Forest?",
    "summary": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a miserable 3-2 defeat at Nottingham Forest.",
@@ -20,6 +65,15 @@
    "epl": false
   },
   {
+   "title": "Papers: Man Utd in running for Paz, but Champions League key",
+   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+   "url": "https://www.skysports.com/football/news/11661/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
+   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
+   "source": "Sky Sports",
+   "published": "2026-11-27T23:00:00+00:00",
+   "epl": true
+  },
+  {
    "title": "Chelsea latest: Alonso urges fans to 'support everyone' after Fofana boos",
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -33,15 +87,6 @@
    "summary": "",
    "url": "https://www.skysports.com/football/live-blog/11661/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
    "image": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014",
-   "source": "Sky Sports",
-   "published": "2026-11-27T23:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Papers: Man Utd in running for Paz, but Champions League key",
-   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-   "url": "https://www.skysports.com/football/news/11661/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
-   "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
    "source": "Sky Sports",
    "published": "2026-11-27T23:00:00+00:00",
    "epl": true
@@ -533,15 +578,6 @@
    "epl": true
   },
   {
-   "title": "Why do teams mark man-to-man? Watch Affengruber's masterclass against Haaland",
-   "summary": "The sight of Matthijs de Ligt, arms outstretched in disbelief at the lack of cover as Alexander Isak raced away from him, immediately felt symbolic. The Dutchman is only 27 years old but this looked like a zonal…",
-   "url": "https://www.skysports.com/football/news/11661/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league",
-   "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-fulham_7416216.jpg?20261125133643",
-   "source": "Sky Sports",
-   "published": "2026-11-25T16:00:00+00:00",
-   "epl": true
-  },
-  {
    "title": "Aston Villa manager Unai Emery drops 'humiliating' update on Alejandro Garnacho",
    "summary": "Aston Villa signed Alejandro Garnacho over the summer on loan - but the Argentine winger clearly isn't trusted by Unai Emery",
    "url": "https://www.fourfourtwo.com/person/player/aston-villa-manager-unai-emery-drops-humiliating-update-on-alejandro-garnacho",
@@ -665,42 +701,6 @@
    "image": "https://cdn.mos.cms.futurecdn.net/GWfVaQtUqcUEPdTKTWLB8c-1920-80.jpg",
    "source": "FourFourTwo",
    "published": "2026-11-24T16:36:47+00:00",
-   "epl": true
-  },
-  {
-   "title": "Manchester United eye cut-price January deal for 100-game Premier League defender",
-   "summary": "Manchester United are in the market for a central defender and Mauricio Pochettino understands the need better than most",
-   "url": "https://www.fourfourtwo.com/transfer/manchester-united-eye-cut-price-january-deal-for-100-game-premier-league-defender",
-   "image": "https://cdn.mos.cms.futurecdn.net/J9E4DEWngtAYoW2ZmEXHoX-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-24T16:30:41+00:00",
-   "epl": true
-  },
-  {
-   "title": "Watch Arsenal vs Borussia Dortmund for FREE: Live Streams",
-   "summary": "Here's how to watch Arsenal vs Borussia Dortmund for free from anywhere as the Gunners host the Bundesliga leaders in the Champions League 2026/27 league phase.",
-   "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-borussia-dortmund-champions-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/ct5vGC2cqyFxpV2vKTZzzS-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-24T15:00:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Watch Galatasaray vs Aston Villa for FREE: Live Streams",
-   "summary": "Here's how to watch Galatasaray vs Aston Villa for free from anywhere as Unai Emery's side travel to Istanbul in the Champions League 2026/27 league phase.",
-   "url": "https://www.fourfourtwo.com/competition/watch-galatasaray-vs-aston-villa-champions-league-2026-27-free",
-   "image": "https://cdn.mos.cms.futurecdn.net/phrCXWRkncWGKb44aZwKkc-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-24T14:45:00+00:00",
-   "epl": true
-  },
-  {
-   "title": "Newcastle United tipped to re-sign striker as Matthias Jaissle seeks January reinforcements",
-   "summary": "Newcastle United and head coach Matthias Jaissle could reunite with a former striker, according to reports",
-   "url": "https://www.fourfourtwo.com/transfer/newcastle-united-tipped-to-re-sign-striker-as-matthias-jaissle-seeks-january-reinforcements",
-   "image": "https://cdn.mos.cms.futurecdn.net/2LZB8d5Uc3xC7rKDFevAWm-1920-80.jpg",
-   "source": "FourFourTwo",
-   "published": "2026-11-24T14:18:01+00:00",
    "epl": true
   }
  ]
